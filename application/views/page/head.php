@@ -7,7 +7,7 @@
 
         <link rel="icon" href="<?= base_url(); ?>public/img/fav-icon.png" type="image/x-icon" />
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Fancy</title>
+        <title>WUIC</title>
 
         <!-- Icon css link -->
         <link href="<?= base_url(); ?>public/css/font-awesome.min.css" rel="stylesheet">

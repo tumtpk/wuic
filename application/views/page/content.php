@@ -5,20 +5,20 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="c_box_item">
-                                <a href="#"><h4><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Reliability</h4></a>
-                                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+                                <a href="#"><h4><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Bachelor of Engineering</h4></a>
+                                <p>Digital Innovation Engineering - This program aims to produce graduates who inspire to change the digital world through innovative designs of applications and how they interact with humans worldwide.</p>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="c_box_item">
-                                <a href="#"><h4><i class="fa fa-clock-o" aria-hidden="true"></i> Expertise</h4></a>
-                                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+                                <a href="#"><h4><i class="fa fa-clock-o" aria-hidden="true"></i> Bachelor of Arts</h4></a>
+                                <p>Public Affairs - This program aims to produce graduates with a globalization mindset. Able to quickly respond to the global changes consciously and through positive thinking. Commitment to self-development and transformational leadership through creative innovation in order to provide a competitive advantage in public affairs.</p>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="c_box_item">
-                                <a href="#"><h4><i class="fa fa-diamond" aria-hidden="true"></i> Quality</h4></a>
-                                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+                                <a href="#"><h4><i class="fa fa-diamond" aria-hidden="true"></i> Bachelor of Business Administration</h4></a>
+                                <p>Logistics Analytics and Supply Chain Management - The program emphasizes graduates with a basic knowledge of analytics, planning and best practice of management. </p>
                             </div>
                         </div>
                     </div>
@@ -28,7 +28,7 @@
                         <div class="col-lg-6">
                             <div class="d_feature_text">
                                 <div class="main_title">
-                                    <h2>We Are A Creative <br /> Digital Agency Focused on Growing Brands Online</h2>
+                                    <h2>Why Study <br />at WUIC</h2>
                                 </div>
                                 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderi.</p>
                                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese mollit anim id est laborum. Sed ut perspiciatis unde omnis iste.</p>
