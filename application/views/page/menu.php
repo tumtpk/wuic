@@ -19,11 +19,15 @@
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active"><a class="nav-link" href="">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Pages</a></li>
-                        <li class="nav-item"><a  href="static.html">Blog</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Shop</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Academic</a></li>
+                        <li class="nav-item"><a  href="static.html">Admission</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Study at WUIC</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Life on Campus</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Contact us</a></li>
+                       
+                      
+
                     </ul>
                     <ul class="navbar-nav justify-content-end">
                         <li><a href="#"><i class="icon_search"></i></a></li>
