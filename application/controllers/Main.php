@@ -30,4 +30,79 @@ class Main extends CI_Controller {
 		$this->load->view('page/foot');
 	}
 
+	public function about(){
+		$this->load->helper('url');
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('show/about');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+
+
+	public function history(){
+		$this->load->helper('url');
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('about/history');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+
+	public function messageFromDean(){
+		$this->load->helper('url');
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('about/messageFromDean');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+
+	public function organizasional(){
+		$this->load->helper('url');
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('about/organizasional');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+
+	public function philosophy(){
+		$this->load->helper('url');
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('about/philosophy');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+
+	public function vision(){
+		$this->load->helper('url');
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('about/vision');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+
+	public function visiting(){
+		$this->load->helper('url');
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('about/visiting');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+
+
+	public function wuicCouncil(){
+		$this->load->helper('url');
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('about/wuicCouncil');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+
+	
 }

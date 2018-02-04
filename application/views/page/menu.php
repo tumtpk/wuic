@@ -19,7 +19,7 @@
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active"><a class="nav-link" href="">About</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="<?= base_url(); ?>main/about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Academic</a></li>
                         <li class="nav-item"><a  href="static.html">Admission</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Study at WUIC</a></li>
