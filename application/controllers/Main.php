@@ -113,28 +113,7 @@ class Main extends CI_Controller {
 		$this->load->view('page/foot');
 	}
 
-	public function digital(){
 
-	}
-
-	public function logistic(){
-		
-	}
-
-	public function publicAffairs(){
-		
-	}
-
-	public function name(){
-		
-	}
-
-
-
-	
-
-
-	
 
 	
 }
