@@ -25,12 +25,12 @@
 
                                 <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
                                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">History</a>
-                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Philosophy</a>
-                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Vision/Mission</a>
-                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Message from the Dean</a>
-                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Organizational Structure</a>
-                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">WUIC Council</a>
-                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Visiting Professors</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/philosophy">Philosophy</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/vision">Vision/Mission</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/messageFromDean">Message from the Dean</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/organizasional">Organizational Structure</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/wuicCouncil">WUIC Council</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/visiting">Visiting Professors</a>
 
                                 </div>
                             
