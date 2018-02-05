@@ -52,20 +52,37 @@
                             
                         </li>
                         <li class="nav-item">
-                        <div class="dropdown show" href="#">
+                            <div class="dropdown show" href="#">
                                 <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admission</a>
 
                                 <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                    <a class="dropdown-item lineheight" href="#">Bachelor of Engineering</a>
-                                    <a class="dropdown-item lineheight" href="#">Bachelor of Arts</a>
-                                    <a class="dropdown-item lineheight" href="#">Bachelor of Business Administration</a>
+                                    <a class="dropdown-item lineheight" href="#">TCAS System's applications</a>
+                                    <a class="dropdown-item lineheight" href="#">International & non TCAS system's applicants</a>
+                                    <a class="dropdown-item lineheight" href="#">Applicant Qualification</a>
+                                    <a class="dropdown-item lineheight" href="#">How to apply?</a>
+
                                 </div>
                             
                             </div>
                            
 
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Study at WUIC</a></li>
+                        <li class="nav-item">
+                            <div class="dropdown show" href="#">
+                            <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Study at WUIC</a>
+
+                                <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a class="dropdown-item lineheight" href="#">Tuition Fees</a>
+                                    <a class="dropdown-item lineheight" href="#">Exchange Programs</a>
+                                    <a class="dropdown-item lineheight" href="#">Scholarships</a>
+                                    <a class="dropdown-item lineheight" href="#">Internship Courses</a>
+
+                                </div>
+                            
+                            </div>
+                            
+                        
+                        </li>
                         <li class="nav-item"><a class="nav-link" href="#">Life on Campus</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Contact us</a></li>
                        

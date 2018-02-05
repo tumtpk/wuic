@@ -40,9 +40,9 @@
     color: #fff;
     border-width: 2px;
     border-style: solid;
-    border-image: -moz-linear-gradient( 180deg, rgb(32,212,151) 0%, rgb(116,79,255) 100%);
-    border-image: -webkit-linear-gradient( 180deg, rgb(32,212,151) 0%, rgb(116,79,255) 100%);
-    border-image: -ms-linear-gradient( 180deg, rgb(32,212,151) 0%, rgb(116,79,255) 100%);
+    border-image: -moz-linear-gradient( 180deg, rgb(212, 128, 32) 0%, rgb(116,79,255) 100%);
+    border-image: -webkit-linear-gradient( 180deg,  rgb(212, 128, 32) 0%, rgb(116,79,255) 100%);
+    border-image: -ms-linear-gradient( 180deg, rgb(212, 128, 32)0%, rgb(116,79,255) 100%);
     border-image-slice: 1;
     display: block;
     line-height: 42px;
@@ -62,9 +62,9 @@
         top: -2px;
         border-width: 2px;
         border-style: solid;
-        border-image: -moz-linear-gradient( 180deg, rgb(116,79,255) 0%, rgb(32,212,151) 100%);
-        border-image: -webkit-linear-gradient( 180deg, rgb(116,79,255) 0%, rgb(32,212,151) 100%);
-        border-image: -ms-linear-gradient( 180deg, rgb(116,79,255) 0%, rgb(32,212,151) 100%);
+        border-image: -moz-linear-gradient( 180deg, rgb(116,79,255) 0%, rgb(212, 128, 32) 100%);
+        border-image: -webkit-linear-gradient( 180deg, rgb(116,79,255) 0%, rgb(212, 128, 32) 100%);
+        border-image: -ms-linear-gradient( 180deg, rgb(116,79,255) 0%, rgb(212, 128, 32) 100%);
         border-image-slice: 1;
         transition: all 400ms ease-out;
         z-index: -1;

@@ -30,8 +30,7 @@
                                 <div class="main_title">
                                     <h2>Why Study <br />at WUIC</h2>
                                 </div>
-                                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderi.</p>
-                                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese mollit anim id est laborum. Sed ut perspiciatis unde omnis iste.</p>
+                                <p>Public, autonomous, comprehensive and research-focused university with high quality, internationally-oriented curriculums; High quality Thai and …</p>
                                 <a class="read_btn" href="#">Read more</a>
                             </div>
                         </div>
@@ -51,29 +50,29 @@
         <section class="service_area">
             <div class="container">
                 <div class="center_title">
-                    <h2>Our Services</h2>
-                    <p>We Are A Creative Digital Agency. Focused on Growing Brands Online</p>
+                    <h2>Why WUIC</h2>
+                    <p>Next-Generation <b>Global Leader</b></p>
                 </div>
                 <div class="row service_item_inner">
                     <div class="col-lg-4">
                         <div class="service_item">
                             <i class="ti-ruler-pencil"></i>
-                            <h4>Website Design</h4>
-                            <p>The Fancy that recognize the talent and effort of the best web designers, developers and agencies in the world.</p>
+                            <h4>High Demand Qualifications</h4>
+                            <p>High Quality Professors</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="service_item">
                             <i class="ti-desktop"></i>
-                            <h4>Website Development</h4>
-                            <p>The Fancy that recognize the talent and effort of the best web designers, developers and agencies in the world.</p>
+                            <h4>High Standard T&L Facilities</h4>
+                            <p>Global Leader Skills Development</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="service_item">
                             <i class="ti-announcement"></i>
-                            <h4>Digital Marketing</h4>
-                            <p>The Fancy that recognize the talent and effort of the best web designers, developers and agencies in the world.</p>
+                            <h4>International Networks</h4>
+                            <p>Superb Location & Environment</p>
                         </div>
                     </div>
                 </div>
