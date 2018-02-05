@@ -43,9 +43,9 @@
                                 <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academic</a>
 
                                 <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                    <a class="dropdown-item lineheight" href="#">Bachelor of Engineering</a>
-                                    <a class="dropdown-item lineheight" href="#">Bachelor of Arts</a>
-                                    <a class="dropdown-item lineheight" href="#">Bachelor of Business Administration</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital">Bachelor of Engineering</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic">Bachelor of Arts</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs">Bachelor of Business Administration</a>
                                 </div>
                             
                             </div>
