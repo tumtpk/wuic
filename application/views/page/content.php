@@ -124,7 +124,7 @@
             <div class="container">
                 <div class="project_inner">
                     <div class="center_title">
-                        <h2>Ready To Discuss Your Project? </h2>
+                        <h2>Ready To Join WUIC? </h2>
                         <p>There are many ways to contact us. You may drop us a line, give us a call or send an email, choose what suits you the most.</p>
                     </div>
                     <a class="tp_btn" href="#">WORK WITH US</a>
