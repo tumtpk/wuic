@@ -19,14 +19,57 @@
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active"><a class="nav-link" href="<?= base_url(); ?>main/about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Academic</a></li>
-                        <li class="nav-item"><a  href="static.html">Admission</a></li>
+                    <li class="nav-item">
+                            <div class="dropdown show" href="#">
+                                <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+
+                                <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">History</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Philosophy</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Vision/Mission</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Message from the Dean</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Organizational Structure</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">WUIC Council</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/history">Visiting Professors</a>
+
+                                </div>
+                            
+                            </div>
+                            
+                        </li>
+
+                        <li class="nav-item">
+                            <div class="dropdown show" href="#">
+                                <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academic</a>
+
+                                <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a class="dropdown-item lineheight" href="#">Bachelor of Engineering</a>
+                                    <a class="dropdown-item lineheight" href="#">Bachelor of Arts</a>
+                                    <a class="dropdown-item lineheight" href="#">Bachelor of Business Administration</a>
+                                </div>
+                            
+                            </div>
+                            
+                        </li>
+                        <li class="nav-item">
+                        <div class="dropdown show" href="#">
+                                <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admission</a>
+
+                                <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a class="dropdown-item lineheight" href="#">Bachelor of Engineering</a>
+                                    <a class="dropdown-item lineheight" href="#">Bachelor of Arts</a>
+                                    <a class="dropdown-item lineheight" href="#">Bachelor of Business Administration</a>
+                                </div>
+                            
+                            </div>
+                           
+
+                        </li>
                         <li class="nav-item"><a class="nav-link" href="#">Study at WUIC</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Life on Campus</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Contact us</a></li>
                        
-                      
+                        <!-- <?= base_url(); ?>main/about -->
 
                     </ul>
                     <ul class="navbar-nav justify-content-end">

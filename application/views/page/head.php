@@ -8,6 +8,7 @@
         <link rel="icon" href="<?= base_url(); ?>public/img/fav-icon.png" type="image/x-icon" />
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <title>WUIC</title>
+        <link href="<?= base_url(); ?>public/css/morestyle.css" rel="stylesheet">
 
         <!-- Icon css link -->
         <link href="<?= base_url(); ?>public/css/font-awesome.min.css" rel="stylesheet">
@@ -27,6 +28,7 @@
 
         <link href="<?= base_url(); ?>public/css/style.css" rel="stylesheet">
         <link href="<?= base_url(); ?>public/css/responsive.css" rel="stylesheet">
+       
 
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
