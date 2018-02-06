@@ -1,15 +1,3 @@
-<section class="banner_area">
-   <div class="container">
-      <div class="banner_text_inner">
-         <h4>History of walailak University</h4>
-         <ul>
-            <li><a href="index.html"><i class="fa fa-home" aria-hidden="true"></i>Home</a></li>
-            <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>About</a></li>
-            <li><a href="static.html"><i class="fa fa-angle-right" aria-hidden="true"></i>History</a></li>
-         </ul>
-      </div>
-   </div>
-</section>
 <div class="container">
    <!--================Static Area =================-->
    <section class="static_area">
@@ -20,11 +8,8 @@
                   <div class="static_main_content">
                      <div class="static_social">
                         <ul>
-                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                           <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                           <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                           <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                           <li><a href="#"><i class="fa fa-thumb-tack" aria-hidden="true"></i></a></li>
+                           <li><a href="http://www.facebook.com/sharer.php?u=<?=current_url()?>"><i class="fa fa-facebook"></i></a></li>
+                           <li><a href="https://twitter.com/intent/tweet?text=Program+in+Logistics+Analytics+and+Supply+Chain+Management&url=<?=current_url()?>"><i class="fa fa-twitter"></i></a></li>
                         </ul>
                      </div>
                      <div class="static_img">
@@ -51,61 +36,4 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
-                  <div class="right_sidebar_area">
-                     <aside class="right_widget r_news_widget">
-                        <div class="r_w_title">
-                           <h3>Recent News</h3>
-                        </div>
-                        <div class="news_inner">
-                           <div class="news_item">
-                              <a href="#">
-                                 <h4>In order to succeed, we must first believe that we can.</h4>
-                              </a>
-                              <a href="#">
-                                 <h6>October 7, 2017</h6>
-                              </a>
-                           </div>
-                           <div class="news_item">
-                              <a href="#">
-                                 <h4>The way to get started is to quit talking and begin doing.</h4>
-                              </a>
-                              <a href="#">
-                                 <h6>October 7, 2017</h6>
-                              </a>
-                           </div>
-                           <div class="news_item">
-                              <a href="#">
-                                 <h4>In order to succeed, we must first believe that we can.</h4>
-                              </a>
-                              <a href="#">
-                                 <h6>October 7, 2017</h6>
-                              </a>
-                           </div>
-                           <div class="news_item">
-                              <a href="#">
-                                 <h4>The way to get started is to quit talking and begin doing.</h4>
-                              </a>
-                              <a href="#">
-                                 <h6>October 7, 2017</h6>
-                              </a>
-                           </div>
-                        </div>
-                     </aside>
-                     <aside class="right_widget r_cat_widget">
-                        <div class="r_w_title">
-                           <h3>Categories</h3>
-                        </div>
-                        <ul>
-                           <li><a href="#">Activities</a></li>
-                           <li><a href="#">News</a></li>
-                        </ul>
-                     </aside>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!--================End Static Area =================-->
-</div>
+               

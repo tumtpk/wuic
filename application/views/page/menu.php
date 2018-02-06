@@ -37,6 +37,36 @@
                             </div>
                             
                         </li>
+                        
+                        <li class="nav-item">
+                            <div class="dropdown show" href="#">
+                                <a class="dropdown-toggle" href="#" id="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+								<ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <li class="dropdown-submenu"><a class="dropdown-item lineheight dropdown-toggle" href="#">Bachelor of Engineering</a>
+                                    <ul class="dropdown-menu">
+                                      <a class="dropdown-item lineheight" href="#"><li>Submenu action</li></a>
+                                      <a class="dropdown-item lineheight" href="#"><li>Another submenu action</li></a>
+                                    </ul>
+                                  </li>
+                                  <li class="dropdown-submenu"><a class="dropdown-item lineheight dropdown-toggle" href="#">Bachelor of Engineering</a>
+                                    <ul class="dropdown-menu">
+                                      <a class="dropdown-item lineheight" href="#"><li>Submenu action</li></a>
+                                      <a class="dropdown-item lineheight" href="#"><li>Another submenu action</li></a>
+                                    </ul>
+                                  </li>
+                                  <li class="dropdown-submenu"><a class="dropdown-item lineheight dropdown-toggle" href="#">Bachelor of Engineering</a>
+                                    <ul class="dropdown-menu">
+                                      <a class="dropdown-item lineheight" href="#"><li>Submenu action</li></a>
+                                      <a class="dropdown-item lineheight" href="#"><li>Another submenu action</li></a>
+                                    </ul>
+                                  </li>
+                                </ul>
+                            
+                            </div>
+                            
+                        </li>
+                        
+                        
 
                         <li class="nav-item">
                             <div class="dropdown show" href="#">
