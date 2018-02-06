@@ -84,10 +84,10 @@
                             <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Study at WUIC</a>
 
                                 <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                    <a class="dropdown-item lineheight" href="#">Tuition Fees</a>
-                                    <a class="dropdown-item lineheight" href="#">Exchange Programs</a>
-                                    <a class="dropdown-item lineheight" href="#">Scholarships</a>
-                                    <a class="dropdown-item lineheight" href="#">Internship Courses</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/tuition">Tuition Fees</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/exchange">Exchange Programs</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/scholarships">Scholarships</a>
+                                    <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/intership">Internship Courses</a>
 
                                 </div>
                             
