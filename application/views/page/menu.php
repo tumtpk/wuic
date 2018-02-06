@@ -116,7 +116,7 @@
                             </div>
                         
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Contact us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="<?= base_url(); ?>contact/index">Contact us</a></li>
                        
                         <!-- <?= base_url(); ?>main/about -->
 
