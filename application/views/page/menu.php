@@ -95,7 +95,27 @@
                             
                         
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Life on Campus</a></li>
+                        <li class="nav-item">
+                            <div class="dropdown show" href="#">
+                                <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Life on Campus</a>
+
+                                <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a class="dropdown-item lineheight" href="#">Dormitories</a>
+                                    <a class="dropdown-item lineheight" href="#">Facilities</a>
+                                    <a class="dropdown-item lineheight" href="#">Transportation on Campus</a>
+                                    <a class="dropdown-item lineheight" href="#">Academic Support Centres</a>
+                                    <a class="dropdown-item lineheight" href="#">Resource Centres</a>
+                                    <a class="dropdown-item lineheight" href="#">Divisions</a>
+                                    <a class="dropdown-item lineheight" href="#">Reseach Centres</a>
+                                    <a class="dropdown-item lineheight" href="#">FAQs</a>
+                                    <a class="dropdown-item lineheight" href="#">Map</a>
+
+
+                                </div>
+                            
+                            </div>
+                        
+                        </li>
                         <li class="nav-item"><a class="nav-link" href="#">Contact us</a></li>
                        
                         <!-- <?= base_url(); ?>main/about -->
