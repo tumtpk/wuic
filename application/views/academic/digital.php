@@ -15,13 +15,15 @@
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
                         <h4>Program in Digital Innovation Engineering</h4><br>
+                     </div>
+                     <div class="static_text2">
                         <p>This program aims to produce graduates who inspire to change the digital world through innovative designs of applications and how they interact with humans worldwide. Graduates will respond to problems while creating new opportunities from digital innovations.</p><br>
                         <div class="form-group row text-center">
                            	<div class="col-md">
                               	<img src="<?=base_url() ?>public/img/page/xIN-300x141.png.pagespeed.ic._qxOQntmBE.webp" class="img-fluid" alt="Responsive image"><br>
                             </div>
                       	</div>
-                        <p>Graduates can pursue work in areas such as:</p><br>
+                        <p>Graduates can pursue work in areas such as:</p>
                         <p>1. Computer Engineering</p>
                         <p>2. Innovative Engineers</p>
                         <p>3. Problem-solver in creative innovations</p>
@@ -30,9 +32,6 @@
                         <p>6. Digital products designers</p>
                         <p>7. Academic, Researcher, Technician in the field of digital innovation</p>
 
-                     </div>
-                     <div class="static_text">
-                        
                      </div>
                   </div>
                </div>
