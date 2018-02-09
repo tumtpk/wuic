@@ -37,3 +37,9 @@
     background-color: #606163 !important;
     
 }
+
+.news-date {
+	font-size: 14px;
+    color: #b5aec4;
+    font-family: "Poppins", sans-serif;
+}
