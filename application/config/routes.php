@@ -50,5 +50,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'main';
-$route['404_override'] = '';
+$route['news'] = 'news/index';
+$route['news/(:num)'] = function ($id)
+{
+    return 'news/page/' . $id;
+};
+$route['404_override'] = 'main';
 $route['translate_uri_dashes'] = FALSE;

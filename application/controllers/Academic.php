@@ -29,8 +29,9 @@ class Academic extends CI_Controller {
 		
 		$data['breadcrumb'] = array(
 		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-		    array("page"=>"About", "url"=>"#", "icon"=>"fa fa-angle-right"),
-		    array("page"=>"Visiting Professors", "url"=>base_url()."main/visiting", "icon"=>"fa fa-angle-right")
+			array("page"=>"Academic", "url"=>"#", "icon"=>"fa fa-angle-right"),
+			array("page"=>"Bachelor of Business Administration", "url"=>"#", "icon"=>"fa fa-angle-right"),
+		    array("page"=>"Program in Logistics Analytics and Supply Chain Management", "url"=>base_url()."academic/logistic", "icon"=>"fa fa-angle-right")
 		);
 		
 		$this->load->view('page/head');
@@ -47,8 +48,9 @@ class Academic extends CI_Controller {
 		
 		$data['breadcrumb'] = array(
 		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-		    array("page"=>"About", "url"=>"#", "icon"=>"fa fa-angle-right"),
-		    array("page"=>"Visiting Professors", "url"=>base_url()."main/visiting", "icon"=>"fa fa-angle-right")
+			array("page"=>"Academic", "url"=>"#", "icon"=>"fa fa-angle-right"),
+			array("page"=>"Bachelor of Arts", "url"=>"#", "icon"=>"fa fa-angle-right"),
+		    array("page"=>"Program in Public Affairs", "url"=>base_url()."academic/publicAffairs", "icon"=>"fa fa-angle-right")
 		);
 		
 		$this->load->view('page/head');
