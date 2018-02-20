@@ -43,3 +43,7 @@
     color: #b5aec4;
     font-family: "Poppins", sans-serif;
 }
+
+.no-border {
+    border-bottom: 0px !important;
+}

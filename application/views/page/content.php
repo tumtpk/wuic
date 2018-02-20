@@ -5,19 +5,19 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="c_box_item">
-                                <a href="#"><h4><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Bachelor of Engineering</h4></a>
+                                <a href="<?= base_url(); ?>academic/digital"><h4><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Bachelor of Engineering</h4></a>
                                 <p>Digital Innovation Engineering - This program aims to produce graduates who inspire to change the digital world through innovative designs of applications and how they interact with humans worldwide.</p>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="c_box_item">
-                                <a href="#"><h4><i class="fa fa-clock-o" aria-hidden="true"></i> Bachelor of Arts</h4></a>
+                                <a href="<?= base_url(); ?>academic/publicAffairs"><h4><i class="fa fa-clock-o" aria-hidden="true"></i> Bachelor of Arts</h4></a>
                                 <p>Public Affairs - This program aims to produce graduates with a globalization mindset. Able to quickly respond to the global changes consciously and through positive thinking. Commitment to self-development and transformational leadership through creative innovation in order to provide a competitive advantage in public affairs.</p>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="c_box_item">
-                                <a href="#"><h4><i class="fa fa-diamond" aria-hidden="true"></i> Bachelor of Business Administration</h4></a>
+                                <a href="<?= base_url(); ?>academic/logistic"><h4><i class="fa fa-diamond" aria-hidden="true"></i> Bachelor of Business Administration</h4></a>
                                 <p>Logistics Analytics and Supply Chain Management - The program emphasizes graduates with a basic knowledge of analytics, planning and best practice of management. </p>
                             </div>
                         </div>

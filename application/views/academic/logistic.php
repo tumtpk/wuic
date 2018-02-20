@@ -14,7 +14,7 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>Program in Logistics Analytics and Supply Chain Management</h4><br>
+                        <h4>Logistics Analytics and Supply Chain Management</h4><br>
                      </div>
                      <div class="static_text2">
                         <div class="form-group row text-center">
