@@ -17,11 +17,10 @@
                         <h4>Tuition Fees</h4>
                      </div>
                      <div class="static_text">
-                     	<span style="color:blue">Bachelor’s Degree (Academic Year 1/2018)</span>
+                     	<span style="color:blue">Bachelor’s Degree (Academic Year 2018)</span>
                         <table class="table table-responsive table-striped text-center">
                           <thead>
                             <tr>
-                              <th rowspan="3" style="vertical-align:  top !important;">School</th>
                               <th rowspan="3" style="vertical-align:  top !important;">Degree</th>
                               <th rowspan="3" style="vertical-align:  top !important;">Academic Program</th>
                               <th colspan="4">Fees / Semester (Baht)</th>
@@ -39,7 +38,6 @@
                           </thead>
                           <tbody>
                             <tr>
-                              <td class="text-left">Social Science</td>
                               <td class="text-left">B.Eng.</td>
                               <td class="text-left">Digital Innovation Engineering</td>
                               <td>52,500</td>
@@ -48,7 +46,6 @@
                               <td>97,500</td>
                             </tr>
                             <tr>
-                              <td class="text-left">Social Science</td>
                               <td class="text-left">B.Eng.</td>
                               <td class="text-left">Public Affairs</td>
                               <td>45,000</td>
@@ -57,7 +54,6 @@
                               <td>36,250</td>
                             </tr>
                             <tr>
-                              <td class="text-left"></td>
                               <td class="text-left">B.B.A.</td>
                               <td class="text-left">Logistics Analytics and Supply Chain Management</td>
                               <td>45,000</td>

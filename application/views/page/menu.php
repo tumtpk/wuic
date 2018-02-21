@@ -1,11 +1,4 @@
-<!--================Search Area =================-->
-<section class="search_area">
-   <div class="search_inner">
-      <input type="text" placeholder="Enter Your Search...">
-      <i class="ti-close"></i>
-   </div>
-</section>
-<!--================End Search Area =================-->
+
 <!--================Header Menu Area =================-->
 <header class="no-border main_menu_area">
    <nav class="navbar navbar-expand-lg navbar-light bg-light">
