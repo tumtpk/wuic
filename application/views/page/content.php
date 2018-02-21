@@ -136,8 +136,6 @@
                      </div>
                   </div>
                </div>
-              
-              
             </div>
             <!-- <div class="col-lg-6">
                <div class="d_feature_img">
@@ -186,31 +184,33 @@
    <div class="container">
       <div class="testimonials_slider owl-carousel">
          <div class="item">
-            <div class="">
-            <div class="row">
-                <div class="col-sm-6">
-                <iframe width="520" height="325" src="https://www.youtube.com/embed/vcgiAgTPwj4"></iframe>
-                </div>
-                <div class="col-sm-6">
-                <div class="media-body">
-                  <img src="<?= base_url(); ?>public/img/dotted-icon.png" alt="">
-                  <h3>talk to walailak : <br>Walailak University International College</h3>
-                
+            <div class="media">
+               <div class="row">
+                  <div class="col-sm-6">
+                     <iframe width="520" height="325" src="https://www.youtube.com/embed/vcgiAgTPwj4"></iframe>
+                  </div>
+                  <div class="col-sm-6">
+                     <div class="media-body">
+                        <img src="<?= base_url(); ?>public/img/dotted-icon.png" alt="">
+                        <h3>talk to walailak : <br>Walailak University International College</h3>
+                     </div>
+                  </div>
                </div>
-
-                </div>
-            </div>
-               
-            
             </div>
          </div>
          <div class="item">
             <div class="media">
-               <img class="d-flex rounded-circle" src="<?= base_url(); ?>public/img/testimonials-1.png" alt="">
-               <div class="media-body">
-                  <img src="<?= base_url(); ?>public/img/dotted-icon.png" alt="">
-                  <p>I wanted to mention that these days, when the opposite of good customer and tech support tends to be the norm, it’s always great having a team like you guys at Fancy! So, be sure that I’ll always spread the word about how good your product is and the extraordinary level of support that you provide any time there is any need for it.</p>
-                  <h4><a href="#">Aigars Silkalns</a> - CEO DeerCreative</h4>
+            <div class="row">
+                  <div class="col-sm-6">
+                     <iframe width="520" height="325" src="https://www.youtube.com/embed/E6Sg35_1uPM"></iframe>
+                  </div>
+                  <div class="col-sm-6">
+                     <div class="media-body">
+                        <img src="<?= base_url(); ?>public/img/dotted-icon.png" alt="">
+                        <h3>รายการ บ่ายนี้มีคำตอบ<br>ตอน "ผงาด 3 วิทยาลัยนานาชาติ มหาวิทยาลัยวลัยลักษณ์ พร้อม!!!"</h3>
+                        <p>ออกอากาศสด เมื่อวันจันทร์ที่ 29 มกราคม 2561 เวลา 13.00 -13.35 น. ทางสถานีโทรทัศน์ไทยทีวีสี ช่อง 9 อสมท.</p>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
