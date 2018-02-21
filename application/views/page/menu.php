@@ -59,7 +59,7 @@
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admission</a>
                   <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                     <a class="dropdown-item lineheight" href="#">TCAS System's applications</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/digital">TCAS System's applications</a>
                      <a class="dropdown-item lineheight" href="#">International & non TCAS system's applicants</a>
                      <a class="dropdown-item lineheight" href="#">Applicant Qualification</a>
                      <a class="dropdown-item lineheight" href="#">How to apply?</a>
@@ -81,15 +81,15 @@
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Life on Campus</a>
                   <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                     <a class="dropdown-item lineheight" href="#">Dormitories</a>
-                     <a class="dropdown-item lineheight" href="#">Facilities</a>
-                     <a class="dropdown-item lineheight" href="#">Transportation on Campus</a>
-                     <a class="dropdown-item lineheight" href="#">Academic Support Centres</a>
-                     <a class="dropdown-item lineheight" href="#">Resource Centres</a>
-                     <a class="dropdown-item lineheight" href="#">Divisions</a>
-                     <a class="dropdown-item lineheight" href="#">Reseach Centres</a>
-                     <a class="dropdown-item lineheight" href="#">FAQs</a>
-                     <a class="dropdown-item lineheight" href="#">Map</a>
+                     <!-- <a class="dropdown-item lineheight" href="#">Dormitories</a> -->
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>life/facilities">Facilities</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>life/transportation">Transportation on Campus</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>life/academicSupport">Academic Support Centres</a>
+                     <!-- <a class="dropdown-item lineheight" href="#">Resource Centres</a> -->
+                     <!-- <a class="dropdown-item lineheight" href="#">Divisions</a> -->
+                     <!-- <a class="dropdown-item lineheight" href="#">Reseach Centres</a> -->
+                     <!-- <a class="dropdown-item lineheight" href="#">FAQs</a> -->
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>life/map">Map</a>
                   </div>
                </div>
             </li>

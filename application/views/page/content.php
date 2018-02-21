@@ -226,7 +226,7 @@
             <h2>Ready To Join WUIC? </h2>
             <p>There are many ways to contact us. You may drop us a line, give us a call or send an email, choose what suits you the most.</p>
          </div>
-         <a class="tp_btn" href="#">WORK WITH US</a>
+         <a class="tp_btn" href="https://entry.wu.ac.th/">Apply now</a>
       </div>
    </div>
 </section>
