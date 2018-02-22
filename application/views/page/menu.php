@@ -58,45 +58,27 @@
                   </ul>
                </div>
             </li>
-            <li class="nav-item">
+          
+             <li class="nav-item">
                <div class="dropdown show" href="#">
-                  <a class="dropdown-toggle" href="#" id="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academic</a>
-                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                     <li class="dropdown-submenu">
-                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 280px" >Bachelor of Engineering </a>
-                        <ul class="dropdown-menu">
-                           <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital">
-                              <li>Program in Digital Innovation Engineering</li>
-                           </a>
-                        </ul>
-                     </li>
-                     <li class="dropdown-submenu">
-                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 280px">Bachelor of Arts</a>
-                        <ul class="dropdown-menu">
-                           <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs">
-                              <li>Program in Public Affairs</li>
-                           </a>
-                        </ul>
-                     </li>
-                     <li class="dropdown-submenu">
-                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 280px">Bachelor of Business Administration</a>
-                        <ul class="dropdown-menu">
-                           <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic">
-                              <li>Program in Logistics Analytics and Supply Chain Management</li>
-                           </a>
-                        </ul>
-                     </li>
-                  </ul>
+                  <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programs Offered</a>
+                  <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital">Program in Digital Innovation Engineering</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs">Program in Public Affairs</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic">Program in Logistics Analytics and Supply Chain Management</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/scholarships">Scholarships</a>
+                  </div>
                </div>
             </li>
+
             <li class="nav-item">
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Study at WUIC</a>
                   <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/tuition">Tuition Fees</a>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/exchange">Exchange Programs</a>
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/scholarships">Scholarships</a>
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/intership">Internship Courses</a>
+                     <!-- <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/scholarships">Scholarships</a> -->
+                     <!-- <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/intership">Internship Courses</a> -->
                   </div>
                </div>
             </li>

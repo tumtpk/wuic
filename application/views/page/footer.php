@@ -7,62 +7,46 @@
                         <div class="col-lg-3 col-md-6">
                             <aside class="f_widget subscribe_widget">
                                 <div class="f_w_title">
-                                    <h3>Our Newsletter</h3>
+                                    <h3>Walailak University International</h3>
                                 </div>
-                                <p>Subscribe to our mailing list to get the updates to your email inbox.</p>
-                                <div class="input-group">
-                                    <input type="email" class="form-control" placeholder="E-mail" aria-label="E-mail">
-                                    <span class="input-group-btn">
-                                        <button class="btn btn-secondary submit_btn" type="button">Subscribe</button>
-                                    </span>
-                                </div>
+                                <p>© 2018 WUIC follow us on social media.</p>
+                              
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                <div class="f_w_title">
+                                    <h3>Follow us :</h3>
+                                </div>
+                                    <li><a href="https://www.facebook.com/WUIC2017"><img src="<?= base_url(); ?>public/img/facebook.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
+                                    <li><a href="#"><img src="<?= base_url(); ?>public/img/twitter.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
+                                    <li><a href="#"><img src="<?= base_url(); ?>public/img/ig.png" style="width : 50px" alt=""></a></li>
                                 </ul>
+                                
                             </aside>
                         </div>
-                        <div class="col-lg-3 col-md-6">
+                        <!-- <div class="col-lg-3 col-md-6">
                             <aside class="f_widget twitter_widget">
                                 <div class="f_w_title">
                                     <h3>Twitter Feed</h3>
                                 </div>
                                 <div class="tweets_feed"></div>
                             </aside>
-                        </div>
+                        </div> -->
                         <div class="col-lg-3 col-md-6">
                             <aside class="f_widget categories_widget">
-                                <div class="f_w_title">
-                                    <h3>Link Categories</h3>
-                                </div>
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Agency</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Studio</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Studio</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Blogs</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Shop</a></li>
-                                </ul>
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Home</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>About</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Services</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Work</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Privacy</a></li>
-                                </ul>
+                               
                             </aside>
                         </div>
-                        <div class="col-lg-3 col-md-6">
-                            <aside class="f_widget contact_widget">
+                        <div class="col-lg-6 col-md-12">
+                            <aside class="f_widget contact_widget pull-right">
                                 <div class="f_w_title">
                                     <h3>Contact Us</h3>
                                 </div>
-                                <a href="#">1 (800) 686-6688</a>
-                                <a href="#">info.deercreative@gmail.com</a>
-                                <p>40 Baria Sreet 133/2 <br />NewYork City, US</p>
-                                <h6>Open hours: 8.00-18.00 Mon-Fri</h6>
+                                <a href="#">+66 75 672 426-7, </a>
+                                <a href="#">+66 81 979 9651, </a>
+                                <a href="#">+66 96 998 3944</a>
+                                <br>
+                                <a href="#">wuic@wu.ac.th</a>
+                                <p>Walailak University 222 Thaiburi, Thasala District,</p>
+                                <h6>Nakhon Si Thammarat 80161, Thailand</h6>
                             </aside>
                         </div>
                     </div>
