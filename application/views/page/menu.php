@@ -1,4 +1,3 @@
-
 <!--================Header Menu Area =================-->
 <header class="no-border main_menu_area">
    <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,7 +22,42 @@
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>main/visiting">Visiting Professors</a>
                   </div>
                </div>
-            </li> -->
+               </li> -->
+            
+            <li class="nav-item">
+               <div class="dropdown show" href="#">
+                  <a class="dropdown-toggle" href="#" id="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admission</a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/overall">Overall of submission</a>
+                     <li class="dropdown-submenu">
+                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 280px" >Admission Criteria</a>
+                        <ul class="dropdown-menu">
+                           <li class="dropdown-submenu">
+                              <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 280px">TCAS system’s applicants</a>
+                              <ul class="dropdown-menu">
+                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/portfolio">
+                                    <li>Portfolio</li>
+                                 </a>
+
+                                  <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/quota">
+                                    <li>Quota</li>
+                                 </a>
+                              </ul>
+                           </li>
+                          
+                           <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/internationalStudents">
+                              <li>International Students and Non TCAS system’s applicants</li>
+                           </a>
+                        </ul>
+                     </li>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/fees">Admission & Fees</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/howToApply">How to apply?</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/academicCalendar">Academic calendar</a>
+
+                     
+                  </ul>
+               </div>
+            </li>
             <li class="nav-item">
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academic</a>
@@ -57,17 +91,6 @@
             </li>
             <li class="nav-item">
                <div class="dropdown show" href="#">
-                  <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admission</a>
-                  <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/digital">TCAS System's applications</a>
-                     <a class="dropdown-item lineheight" href="#">International & non TCAS system's applicants</a>
-                     <a class="dropdown-item lineheight" href="#">Applicant Qualification</a>
-                     <a class="dropdown-item lineheight" href="#">How to apply?</a>
-                  </div>
-               </div>
-            </li>
-            <li class="nav-item">
-               <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Study at WUIC</a>
                   <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/tuition">Tuition Fees</a>
@@ -96,7 +119,6 @@
             <li class="nav-item"><a class="nav-link" href="<?= base_url(); ?>contact/index">Contact us</a></li>
             <!-- <?= base_url(); ?>main/about -->
          </ul>
-       
       </div>
    </nav>
 </header>
