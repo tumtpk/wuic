@@ -41,8 +41,8 @@ class News extends CI_Controller {
     public function page($newid)
     {
         $this->load->helper('url');
-        $this->load->model('model');
-        $news = $this->model->getNews($newid);
+        $this->load->model('Model');
+        $news = $this->Model->getNews($newid);
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),

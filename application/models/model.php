@@ -1,6 +1,6 @@
 <?php
 
-    class model extends CI_Model {
+    class Model extends CI_Model {
 
 
         public function getNews($newid){
