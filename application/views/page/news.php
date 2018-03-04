@@ -6,36 +6,36 @@
                         </div>
                         <div class="news_inner">
                            <div class="news_item">
-                              <a href="#">
-                                 <h4>In order to succeed, we must first believe that we can.</h4>
+                              <a href="<?= base_url(); ?>news/001">
+                                 <h4>Why You Should Study at Walailak University International College (WUIC)</h4>
                               </a>
-                              <a href="#">
-                                 <h6>October 7, 2017</h6>
-                              </a>
+                              <span>
+                                 <h6>January 8, 2018</h6>
+                              </span>
                            </div>
                            <div class="news_item">
-                              <a href="#">
-                                 <h4>The way to get started is to quit talking and begin doing.</h4>
+                              <a href="<?= base_url(); ?>news/002">
+                                <h4>Bachelor of Business Administration in Logistics Analytics and Supply Chain Management</h4>
                               </a>
-                              <a href="#">
-                                 <h6>October 7, 2017</h6>
-                              </a>
+                              <span>
+                                 <h6>January 5, 2018</h6>
+                              </span>
                            </div>
                            <div class="news_item">
-                              <a href="#">
-                                 <h4>In order to succeed, we must first believe that we can.</h4>
+                              <a href="<?= base_url(); ?>news/003">
+                                 <h4>Bachelor of Arts Program in Public Affairs</h4>
                               </a>
-                              <a href="#">
-                                 <h6>October 7, 2017</h6>
-                              </a>
+                              <span>
+                                 <h6>January 5, 2018</h6>
+                              </span>
                            </div>
                            <div class="news_item">
-                              <a href="#">
-                                 <h4>The way to get started is to quit talking and begin doing.</h4>
+                              <a href="<?= base_url(); ?>news/004">
+                                 <h4>Bachelor of Engineering (Digital Innovation Engineering)</h4>
                               </a>
-                              <a href="#">
-                                 <h6>October 7, 2017</h6>
-                              </a>
+                              <span>
+                                 <h6>January 5, 2018</h6>
+                              </span>
                            </div>
                         </div>
                      </aside>
@@ -45,7 +45,7 @@
                         </div>
                         <ul>
                            <li><a href="#">Activities</a></li>
-                           <li><a href="#">News</a></li>
+                           <li><a href="<?= base_url(); ?>news">News</a></li>
                         </ul>
                      </aside>
                   </div>

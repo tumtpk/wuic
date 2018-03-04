@@ -236,7 +236,7 @@
    <div class="container">
       <div class="b_center_title">
          <h2>News</h2>
-         <p>stay updated with us</p>
+         <p>stay updated with us <a href="<?= base_url(); ?>news" ><span class="badge badge-info">see all</span></a></p>
       </div>
       <div class="l_news_inner">
          <div class="row">
@@ -245,10 +245,10 @@
                   <div class="l_news_img"><a href="#"><img class="img-fluid" src="<?= base_url(); ?>public/img/blog/l-news/l-news-1.jpg" alt=""></a></div>
                   <div class="l_news_content">
                      <a href="#">
-                        <h4>We Create Experiences</h4>
+                        <h4>Bachelor of Business Administration in Logistics Analytics and Supply Chain Management</h4>
                      </a>
-                     <p>The Fancy that recognize the talent and effort of the best web designers, develop-ers and agencies in the world.</p>
-                     <a class="more_btn" href="<?= base_url(); ?>news/002">Learn More</a>
+                     <p>The program emphasizes graduates with a basic knowledge of analytics, planning and best practice of management. Students are trained to use decision making processes that utilize information to serve the needs of logistics and supply chains of local and international markets. Awareness of change in the logistic and business environment, … </p>
+                     <a class="more_btn" href="<?= base_url(); ?>news/002">Read More</a>
                   </div>
                </div>
             </div>
@@ -257,10 +257,10 @@
                   <div class="l_news_img"><a href="#"><img class="img-fluid" src="<?= base_url(); ?>public/img/blog/l-news/l-news-2.jpg" alt=""></a></div>
                   <div class="l_news_content">
                      <a href="#">
-                        <h4>Simple, Fast And Fun</h4>
+                        <h4>Why You Should Study at Walailak University International College (WUIC)</h4>
                      </a>
-                     <p>The Fancy that recognize the talent and effort of the best web designers, develop-ers and agencies in the world.</p>
-                     <a class="more_btn" href="#">Learn More</a>
+                     <p>Public, autonomous, comprehensive and research-focused university with high quality, internationally-oriented curriculums; High quality Thai and foreign lecturers/professors, adjunct and visiting professors; Popular disciplines, ranging from Science and Technology, Logistics, Management to Social Science; Emphasizing 21st century skills, innovative and critical thinking, and international perspectives for students; Adoption of internationally recognized … </p>
+                     <a class="more_btn" href="<?= base_url(); ?>news/001">Read More</a>
                   </div>
                </div>
             </div>
@@ -269,10 +269,10 @@
                   <div class="l_news_img"><a href="#"><img class="img-fluid" src="<?= base_url(); ?>public/img/blog/l-news/l-news-3.jpg" alt=""></a></div>
                   <div class="l_news_content">
                      <a href="#">
-                        <h4>Device Friendly</h4>
+                        <h4>รายละเอียดเกียวกับการรับสมัครนักศึกษาปีการศึกษา 2561</h4>
                      </a>
-                     <p>The Fancy that recognize the talent and effort of the best web designers, develop-ers and agencies in the world.</p>
-                     <a class="more_btn" href="#">Learn More</a>
+                     <p>รายละเอียดเกี่ยวกับการรับสมัครระดับปริญญาตรีจาก WUIC เว็บไซต์ http://entry.wu.ac.th/login.asp รายละเอียดเกี่ยวกับการรับสมัครระดับปริญญาตรี บัณฑิตศึกษาจากมหาวิทยาลัยวลัยลักษณ์ เว็บไซต์ https://entry.wu.ac.th/ หรือโทร. 075673101 ฝ่ายรับนักศึกษา </p>
+                     <a class="more_btn" href="<?= base_url(); ?>news/005">Read More</a>
                   </div>
                </div>
             </div>
