@@ -8,23 +8,7 @@
                <img src="<?= base_url(); ?>public/img/home-slider/slider-2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                <!-- LAYER NR. 1 -->
                <div class="slider_text_box">
-                  <div class="tp-caption tp-resizeme rev-btn first_text"
-                     data-x="['center','center','center','center','center','center']"
-                     data-hoffset="['0','0','0','0']"
-                     data-y="['middle','middle','middle','middle']"
-                     data-voffset="['-130','-130','-130','-80','-80','-80']"
-                     data-fontsize="['12','12','12','12','12']"
-                     data-lineheight="['64','64','64','50','35']"
-                     data-width="['550','550','550','550','300']"
-                     data-height="none"
-                     data-whitespace="normal"
-                     data-type="text"
-                     data-type="button"
-                     data-actions='[{"event":"mouseenter","action":"startlayer","layer":"slide-2971-layer-18","delay":""},{"event":"mouseleave","action":"stoplayer","layer":"slide-2971-layer-18","delay":""},{"event":"click","action":"startlayer","layer":"slide-2971-layer-15","delay":""},{"event":"click","action":"startlayer","layer":"slide-2971-layer-19","delay":""},{"event":"click","action":"startlayer","layer":"slide-2971-layer-20","delay":"1000"},{"event":"click","action":"playvideo","layer":"slide-2971-layer-15","delay":"1000"}]'
-                     data-responsive_offset="on"
-                     data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                     data-textAlign="['center','center','center','center','center','center']"
-                     style="z-index: 8;font-family: 'Poppins', sans-serif;font-weight:600;color:#fff;text-transform: uppercase;"><img src="<?= base_url(); ?>public/img/play-video.png" alt=""> <span style="text-decoration: underline;padding-left: 10px;">Watch The Overview</span></div>
+                 
                   <!-- LAYER NR. 10 -->
                   <div class="tp-caption   tp-resizeme tp-videolayer"
                      id="slide-2971-layer-15"
@@ -92,10 +76,10 @@
                      data-responsive_offset="on"
                      data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                      data-textAlign="['center','center','center','center','center','center']">
-                     <a class="bg_btn" href="#">Apply now</a>
+                     <a class="bg_btn" href="https://entry.wu.ac.th/">Apply now</a>
                   </div>
                </div>
-               <div class="container">
+               <div class="container My-visible">
                   <div class="row">
                      <div class="col-md-4 offset-md-8">
                         <div class="col-sm-8 ">
