@@ -235,8 +235,8 @@
 <section class="latest_news_area p_100">
    <div class="container">
       <div class="b_center_title">
-         <h2>Latest News</h2>
-         <p>We Are A Creative Digital Agency. Focused on Growing Brands Online</p>
+         <h2>News</h2>
+         <p>stay updated with us</p>
       </div>
       <div class="l_news_inner">
          <div class="row">
@@ -248,7 +248,7 @@
                         <h4>We Create Experiences</h4>
                      </a>
                      <p>The Fancy that recognize the talent and effort of the best web designers, develop-ers and agencies in the world.</p>
-                     <a class="more_btn" href="#">Learn More</a>
+                     <a class="more_btn" href="<?= base_url(); ?>news/002">Learn More</a>
                   </div>
                </div>
             </div>
