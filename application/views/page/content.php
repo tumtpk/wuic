@@ -158,6 +158,7 @@
                <!-- <a class="read_btn" href="#">Read more</a> -->
                <div class="row">
                   <div class="col-md-3">
+                  	<a href="https://en.wikipedia.org/wiki/Anthony_Finkelstein">
                   	<div class="card">
                      	<div class="card-body">
                             <!-- <h5 class="card-title">Special title treatment</h5> -->
@@ -167,8 +168,10 @@
                         	<p class="card-text text-center">Professor Dr. Anthony Finkelstein</p>
                      	</div>
                   	</div>
+                  	</a>
                   </div>
                   <div class="col-md-3">
+                  	<a href="http://profiles.murdoch.edu.au/myprofile/lance-fung/">
                   	<div class="card">
                      	<div class="card-body">
                             <!-- <h5 class="card-title">Special title treatment</h5> -->
@@ -178,8 +181,10 @@
                         	<p class="card-text text-center">Professor Dr. Lance Fung </p>
                      	</div>
                   	</div>
+                  	</a>
                   </div>
                   <div class="col-md-3">
+                  	<a href="http://www.cpce-polyu.edu.hk/about-cpce/staff-directory/cpce/professor-peter-p-yuen">
                   	<div class="card">
                      	<div class="card-body">
                             <!-- <h5 class="card-title">Special title treatment</h5> -->
@@ -189,8 +194,10 @@
                         	<p class="card-text text-center">Professor Dr. Peter Yuen</p>
                      	</div>
                   	</div>
+                  	</a>
                   </div>
                   <div class="col-md-3">
+                  	<a href="https://www.mdx.ac.uk/about-us/our-people/staff-directory/profile/raimondi-franco">
                   	<div class="card">
                      	<div class="card-body">
                             <!-- <h5 class="card-title">Special title treatment</h5> -->
@@ -200,6 +207,7 @@
                         	<p class="card-text text-center">Professor Dr. Franco Raimondi</p>
                      	</div>
                   	</div>
+                  	</a>
                   </div>
                </div>
             </div>
@@ -304,9 +312,9 @@
                <div class="l_news_item">
                   <div class="l_news_img"><iframe width="350" height="220" src="https://www.youtube.com/embed/iK5i3tgY1d8"></iframe></div>
                   <div class="l_news_content">
-                     <a href="#">
+                    
                          <a class="more_btn" href="<?= base_url(); ?>news/002" style="text-decoration: blink;"><h4>ผงาด 3 วิทยาลัยนานาชาติมหาวิทยาลัยวลัยลักษณ์ พร้อม (29 ม.ค.61) บ่ายนี้มีคำตอบ</h4></a>
-                     </a>
+                    
                      <p>รายการ บ่ายนี้มีคำตอบ ตอน "ผงาด 3 วิทยาลัยนานาชาติ มหาวิทยาลัยวลัยลักษณ์ พร้อม!!!" ออกอากาศสด เมื่อวันจันทร์ที่ 29 มกราคม 2561 เวลา 13.00 -13.35 น. ทางสถานีโทรทัศน์ไทยทีวีสี ช่อง 9 อสมท. ...</p>
                      <a class="more_btn" href="<?= base_url(); ?>news/002">Read More</a>
                   </div>
@@ -316,7 +324,7 @@
                <div class="l_news_item">
                   <div class="l_news_img"><a href="#"><img class="img-fluid" src="<?= base_url(); ?>public/img/news/1.jpg" width="350px" alt=""></a></div>
                   <div class="l_news_content">
-                     <a href="#">
+                     <a class="more_btn" href="<?= base_url(); ?>news/001" style="text-decoration: blink;">
                         <h4>MOU Signing between WU, WUIC and IIAI</h4>
                      </a>
                      <p>On March 13, 2018, Assoc. Prof. Dr. Surin Maisrikrod, Vice-President for Global Engagement and Faculty Development, Walailak University (WU) and Dr. Jidtima Sunkhamani, Acting Dean of Walailak University International College (WUIC), welcomed delegates ...</p>
