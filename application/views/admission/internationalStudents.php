@@ -21,30 +21,30 @@
                         <p>Please select and submit one of standardized test scores with minimum required as presented below.</p>
                         <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
                             <table class="table">
-                                    <tr class="" style="background-color: #ef9868;">
-                                        <td style="text-align: center;vertical-align:  middle;border: 1px solid #94999e;" rowspan="2"><b>Test</b></td>
-                                        <td style="text-align: center;vertical-align:  middle;border: 1px solid #94999e;" rowspan="2"><strong>Subjects</strong></td>
+                                    <tr class="" style="background-color: #f38448; text-align: center;">
+                                        <td style="text-align: center;border: 1px solid #94999e;" rowspan="2"><b>Test</b></td>
+                                        <td style="text-align: center;border: 1px solid #94999e;" rowspan="2"><strong>Subjects</strong></td>
                                         <td style="text-align: center;border: 1px solid #94999e;" colspan="3"><strong>Minimum Score</strong></td>
                                     </tr>
-                                    <tr style="background-color: #ef9868;">
-                                        <td style="text-align: center; background-color: #f38448;border: 1px solid #94999e;"><strong>Digital Innovation Engineering</strong></td>
-                                        <td style="text-align: center; background-color: #f38448;border: 1px solid #94999e;"><strong>Public Affairs</strong></td>
-                                        <td style="text-align: center; background-color: #f38448;border: 1px solid #94999e;"><strong>Logistic Analytics and Supply Chain Management </strong></td>
+                                    <tr style="background-color: #f38448;text-align: center;">
+                                        <td style="text-align: center;border: 1px solid #94999e;"><strong>Digital Innovation Engineering</strong></td>
+                                        <td style="text-align: center;border: 1px solid #94999e;"><strong>Public Affairs</strong></td>
+                                        <td style="text-align: center;border: 1px solid #94999e;"><strong>Logistic Analytics and Supply Chain Management </strong></td>
                                     </tr>
-                                    <tr class="">
-                                        <td   style="text-align: center; vertical-align: middle;border: 1px solid #94999e;" rowspan="3"> <strong>SAT I</strong></td>
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
+                                        <td style="text-align: center; vertical-align: middle;border: 1px solid #94999e;" rowspan="3"> <strong>SAT I</strong></td>
                                         <td style="border: 1px solid #94999e;">Mathematics</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">600</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">-</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">600</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="border: 1px solid #94999e;">Critical Reading</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="border: 1px solid #94999e;">Writing </td>
                                         <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">350</td>
@@ -63,14 +63,14 @@
                                         <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td   style="text-align: center; vertical-align: middle;border: 1px solid #94999e;" rowspan="2"> <strong>SAT II</strong></td>
                                         <td>Mathematics (Level 2)</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">600</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">-</td>
                                         <td style="text-align: center;border: 1px solid #94999e;">600</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Physics</td>
                                         <td style="text-align: center;">600</td>
                                         <td>-</td>
@@ -93,7 +93,7 @@
                                         <td>Reading</td>
                                     </tr>
 
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td   style="text-align: center; vertical-align: middle;" rowspan="5"> <strong>GED</strong></td>
                                         <td>Reasoning Through Language Arts</td>
                                         <td style="text-align: center;">-</td>
@@ -101,25 +101,25 @@
                                         <td style="text-align: center;">160</td>
                                        
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Mathematic Reasoning</td>
                                         <td style="text-align: center;">160</td>
                                         <td style="text-align: center;">-</td>
                                         <td style="text-align: center;">160</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Science</td>
                                         <td style="text-align: center;">160</td>
                                         <td style="text-align: center;">-</td>
                                         <td style="text-align: center;">-</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Social Studies</td>
                                         <td style="text-align: center;">-</td>
                                         <td style="text-align: center;">160</td>
                                         <td style="text-align: center;">-</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td   style="text-align: center; vertical-align: middle;" colspan="4">Composite Score at least 580 from 800</td>
                                     </tr>
 
@@ -138,40 +138,40 @@
                                         <td style="text-align: center;">-</td>
                                     </tr>
 
-                                     <tr class="">
+                                     <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td   style="text-align: center; vertical-align: middle;" rowspan="8"> <strong>GCSE, IGCSE, or ‘O’ Level ( 5 Subjects) and GCE ‘AS’, or ‘A’ level (3 Subjects)</strong></td>
                                         <td   style="text-align: center; vertical-align: middle;" colspan="4">Subjects of GCSE, IGCSE, or ‘O’ Level</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Mathematics</td>
                                         <td style="text-align: center;">B</td>
                                         <td style="text-align: center;">C</td>
                                         <td style="text-align: center;">B</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Physics or Co. ,Sci.</td>
                                         <td style="text-align: center;">B</td>
                                         <td style="text-align: center;">-</td>
                                         <td style="text-align: center;">-</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Any 3 other subjects</td>
                                         <td style="text-align: center;" colspan="3">C</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td   style="text-align: center; vertical-align: middle;" colspan="4">Subjects of GCSE, IGCSE, or ‘A’ Level</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Mathematics</td>
                                         <td style="text-align: center;" colspan="3">C</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Physics</td>
                                         <td style="text-align: center;">C</td>
                                         <td style="text-align: center;">-</td>
                                         <td style="text-align: center;">-</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Any ‘AS’ or ‘A’ level subjects</td>
                                         <td style="text-align: center;vertical-align: middle;" colspan="3">C</td>
                                     </tr>
@@ -192,40 +192,40 @@
                                         <td style="text-align: center;vertical-align: middle;" colspan="3">≥ 5</td>
                                     </tr>
                                     
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td   style="text-align: center; vertical-align: middle;" rowspan="10"> <strong>CEA Level 2-3<br/>(5 Subjects)</strong></td>
                                         <td>Mathematics</td>
                                         <td style="text-align: center;" colspan="3">2.5</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Physics or Science</td>
                                         <td style="text-align: center;">2.5</td>
                                         <td style="text-align: center;">-</td>
                                         <td style="text-align: center;">-</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td>Any 3 other subjects</td>
                                         <td style="text-align: center;vertical-align: middle;" colspan="3">2</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="text-align: center;vertical-align: middle;" colspan="4">How to calculate NCEA to GPA (min. 7 credits/subject)</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="text-align: center;vertical-align: middle;" colspan="4"> – Grade E (Excellence) = 4</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="text-align: center;vertical-align: middle;" colspan="4"> – Grade M (Merit) = 3</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="text-align: center;vertical-align: middle;" colspan="4"> – Grade A (Achieved) = 2</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="text-align: center;vertical-align: middle;" colspan="4">– Grade N (Not Achieved) = 0</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="text-align: center;vertical-align: middle;" colspan="4">– Multiply the value of each grade by the number of credits the course worth.</td>
                                     </tr>
-                                    <tr class="">
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="text-align: center;vertical-align: middle;" colspan="4">– Divide the total value of all the grades you have received by the total number of credits you have completed.</td>
                                     </tr>
 
