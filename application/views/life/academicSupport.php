@@ -14,7 +14,7 @@
       </div>
       <div class="static_img">
          <img class="img-fluid" src="img/static-1.jpg" alt="">
-         <h4>Academic Support Centres</h4>
+         <h4 style="color: #f26c21;">Academic Support Centres</h4>
          <br>
       </div>
       <div class="static_text2">
@@ -25,7 +25,7 @@
             </div> -->
          <aside class="right_widget r_cat_widget">
             <div class="r_w_title">
-               <h5>Student Support Centres</h5>
+               <span style="font-size: 18px">Student Support Centres</span>
             </div>
             <ul>
                <li>

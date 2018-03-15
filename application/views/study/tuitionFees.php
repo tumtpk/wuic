@@ -14,10 +14,10 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>Tuition Fees</h4>
+                        <h4 style="color: #f26c21;">Tuition Fees</h4>
                      </div>
                      <div class="static_text">
-                     	<span style="color:blue">Bachelor’s Degree (Academic Year 2018)</span>
+                     	<span style="color: #f26c21;">Bachelor’s Degree (Academic Year 2018)</span>
                         <table class="table table-responsive table-striped text-center">
                           <thead>
                             <tr>

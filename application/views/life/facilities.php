@@ -14,7 +14,7 @@
       </div>
       <div class="static_img">
          <img class="img-fluid" src="img/static-1.jpg" alt="">
-         <h4>Facilities</h4>
+         <h4 style="color: #f26c21;">Facilities</h4>
          <br>
       </div>
       <div class="static_text2">
@@ -76,18 +76,18 @@
          <aside class="right_widget r_cat_widget">
             <br>
             <div class="r_w_title">
-               <h3>Facilities</h3>
+               <h3 style="color: #f26c21;">Facilities</h3>
             </div>
             <ul>
                <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4551/Green-Campus">Green Campus</a></li>
-               <li>&nbsp;<a href="#">Hall of Residences</a></li>
-               <li>&nbsp;<a href="http://clm.wu.ac.th/main/Index.aspx">University Library and Learning Center</a></li>
+               <li>&nbsp;<a href="#" style="pointer-events:  none;">Hall of Residences</a></li>
+               <li>&nbsp;<a href="#" style="pointer-events:  none;">University Library and Learning Center</a></li>
                <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4554/Laboratories-and-Lecture-Rooms">Laboratories and Lecture Rooms</a></li>
-               <li>&nbsp;<a href="#">Computer Network System</a></li>
+               <li>&nbsp;<a href="#" style="pointer-events:  none;">Computer Network System</a></li>
                <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4556/Sports-Facilities">Sports Facilities</a></li>
-               <li>&nbsp;<a href="#">WU Book Center</a></li>
-               <li>&nbsp;Cooperative Education</li>
-               <li>&nbsp;<a href="#">Walailak Hospitality Center</a></li>
+               <li>&nbsp;<a href="#" style="pointer-events:  none;">WU Book Center</a></li>
+               <li>&nbsp;<a href="#" style="pointer-events:  none;">Cooperative Education</a></li>
+               <li>&nbsp;<a href="#" style="pointer-events:  none;">Walailak Hospitality Center</a></li>
                <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4560/University-Farm">University Farm</a></li>
             </ul>
          </aside>
