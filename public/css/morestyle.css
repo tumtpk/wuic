@@ -124,3 +124,15 @@ body {
 .pblade a{
 	color: #5f5e5e;
 }
+
+.contact_us_area {
+    padding: 0px 0px !important;
+}
+
+.contact_details_inner {
+    padding-top: 10px !important;
+}
+
+.f_w_title {
+    padding-bottom: 0px !important;
+}

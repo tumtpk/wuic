@@ -25,7 +25,7 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4 style="color: #f26c21;">Digital Innovation Engineering</h4><br>
+                        <h4 style="color: #f26c21;">Bachelor of Engineering in Digital Innovation Engineering</h4><br>
                      </div>
                      <div class="static_text2">
                         <p>This program aims to produce graduates who inspire to change the digital world through innovative designs of applications and how they interact with humans worldwide. Graduates will respond to problems while creating new opportunities from digital innovations.</p><br>

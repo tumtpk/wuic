@@ -57,9 +57,9 @@
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #686964;">Programs Offered</a>
                   <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital">Program in Digital Innovation Engineering</a>
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs">Program in Public Affairs</a>
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic">Program in Logistics Analytics and Supply Chain Management</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital">B.Eng. (Digital Innovation Engineering)</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs">B.A. (Program in Public Affairs)</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic">B.B.A. (Program in Logistics Analytics and Supply Chain Management)</a>
                   </div>
                </div>
             </li>

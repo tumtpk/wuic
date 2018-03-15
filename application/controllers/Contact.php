@@ -15,7 +15,7 @@ class Contact extends CI_Controller {
         $this->load->view('page/menu');
         $this->load->view('page/header_page', $data);
         $this->load->view('contact/index');
-        $this->load->view('page/news');
+//         $this->load->view('page/news');
         $this->load->view('page/footer');
         $this->load->view('page/foot');
     }

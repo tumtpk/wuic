@@ -40,24 +40,13 @@
                   </div>
                   <div class="contact_d_list">
                      <div class="contact_d_list_item">
-                        <a href="#">+66 75 672 426-7</a>
-                        <a href="#">+66 96 998 3944</a>
-                        <a href="#">wuic@wu.ac.th</a>
+                        <span style="color: red;"><i class="fa fa-phone"></i></span> +66 75 672 426-7 <br/>
+                        <span style="color: red;"><i class="fa fa-phone"></i></span> +66 96 998 3944 <br/>
+                        <span style="color: #2bc0a4;"><i class="fa fa-envelope-o"></i></span> wuic@wu.ac.th
                      </div>
                      <!-- <div class="contact_d_list_item">
                         <p>Open hours: 8.00-18.00 Mon-Fri <br />Sunday: Closed</p>
                         </div> -->
-                  </div>
-                  <div class="static_social">
-                     <div class="main_title">
-                        <h2>Follow us:</h2>
-                     </div>
-                     <ul>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                     </ul>
                   </div>
                </div>
             </div>
@@ -86,3 +75,10 @@
       </div>
    </div>
 </section>
+
+        </div>
+         </div>
+      </div>
+   </section>
+   <!--================End Static Area =================-->
+</div>

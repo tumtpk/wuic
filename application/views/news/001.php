@@ -13,16 +13,17 @@
                         </ul>
                      </div>
                      <div class="static_img">
-                        <img class="img-fluid" src="img/static-1.jpg" alt="">
+<!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4 style="color: #f26c21;"><?=$title ?></h4>
 						<div class="news-date">
                      		<i class="fa fa-clock-o"></i> <?=$date ?>
                      	</div>                     
                      </div>
-                     <div class="media">
-                        <div class="col-md text-center">
-							<img src="<?=base_url() ?>public/img/page/wuic.png" class="img-fluid" alt="Responsive image"><br>
-						</div>
+                     <div class="media text-center">
+                     	<div class="col-md-2"></div>
+                     	<div class="col-md-8 text-center">
+                            <img src="<?=base_url("public/img/news/1.jpg") ?>" class="img-fluid">
+                     	</div>
                      </div>
                      <div class="static_text2">
                      	<p>On March 13, 2018, Assoc. Prof. Dr. Surin Maisrikrod, Vice-President for Global Engagement and Faculty Development, Walailak University (WU) and Dr. Jidtima Sunkhamani, Acting Dean of Walailak University International College (WUIC), welcomed delegates led by Prof. Dr. Kiyota Hashimoto, Vice President of International Institute of Applied Informatics (IIAI), Japan, in signing of the Memorandum of Understanding. </p>

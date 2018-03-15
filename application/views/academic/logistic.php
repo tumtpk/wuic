@@ -25,7 +25,7 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4 style="color: #f26c21;">Logistics Analytics and Supply Chain Management</h4><br/>
+                        <h4 style="color: #f26c21;">Bachelor of Business Administration in Logistics Analytics and Supply Chain Management</h4><br/>
                         <div class="row">
                         	<div class="col-md-7">
                         		<p class="text-right"><b><span style="font-size: 16px;color:black;color: red;">Dual degrees with Middlesex University, London, UK </span></b><br/>
