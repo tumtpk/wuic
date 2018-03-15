@@ -35,7 +35,7 @@
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Research and development Projects officers</p>
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Academic officers</p>
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Administrative officers</p>
-s                    </div>
+                    </div>
                   </div>
                </div>
                

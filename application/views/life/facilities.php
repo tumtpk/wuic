@@ -79,16 +79,16 @@
                <h3 style="color: #f26c21;">Facilities</h3>
             </div>
             <ul>
-               <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4551/Green-Campus">Green Campus</a></li>
-               <li>&nbsp;<a href="#" style="pointer-events:  none;">Hall of Residences</a></li>
-               <li>&nbsp;<a href="#" style="pointer-events:  none;">University Library and Learning Center</a></li>
-               <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4554/Laboratories-and-Lecture-Rooms">Laboratories and Lecture Rooms</a></li>
-               <li>&nbsp;<a href="#" style="pointer-events:  none;">Computer Network System</a></li>
-               <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4556/Sports-Facilities">Sports Facilities</a></li>
-               <li>&nbsp;<a href="#" style="pointer-events:  none;">WU Book Center</a></li>
-               <li>&nbsp;<a href="#" style="pointer-events:  none;">Cooperative Education</a></li>
-               <li>&nbsp;<a href="#" style="pointer-events:  none;">Walailak Hospitality Center</a></li>
-               <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4560/University-Farm">University Farm</a></li>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4551/Green-Campus" style="color:#000000;">Green Campus</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">Hall of Residences</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">University Library and Learning Center</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4554/Laboratories-and-Lecture-Rooms" style="color:#000000;">Laboratories and Lecture Rooms</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">Computer Network System</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4556/Sports-Facilities" style="color:#000000;">Sports Facilities</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">WU Book Center</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">Cooperative Education</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">Walailak Hospitality Center</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4560/University-Farm" style="color:#000000;">University Farm</a></p>
             </ul>
          </aside>
       </div>
