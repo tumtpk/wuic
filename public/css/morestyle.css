@@ -112,3 +112,7 @@ body {
 	    padding-top: 120px;
 	}
 }*/
+
+.table-bordered td, .table-bordered th{
+    border: 1px solid #94999e !important;
+}
