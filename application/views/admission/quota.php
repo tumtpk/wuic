@@ -14,7 +14,7 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>Quota</h4>
+                        <h4 style="color: #f26c21;">Quota</h4>
                      </div>
                      <div class="static_text2">
                         <p>การรับสมัครนักศึกษา ประเภทรับแบบโควต้า 14 จังหวัดภาคใต้ รวมจังหวัดประจวบคีรีขันธ์ ประจำปีการศึกษา 2561</p>

@@ -14,11 +14,11 @@
       </div>
       <div class="static_img">
 <!--          <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-         <h4>Admission Period</h4>
+         <h4 style="color: #f26c21;">Admission Period</h4>
       </div>
       <div class="static_text">
-         <p>Admission Period follows&nbsp;<span style="color: #0000ff;"><strong>Thai University Central Admission System (TCAS) </strong></span> as shown below.</p>
-         <p>WUIC accepts applications from <span style="color: blue"><strong>internation students </strong></span> from now until July 2018</p>
+         <p>Admission Period follows&nbsp;<span style="color: #f26c21;"><strong>Thai University Central Admission System (TCAS) </strong></span> as shown below.</p>
+         <p>WUIC accepts applications from <span style="color: #f26c21;"><strong>internation students </strong></span> from now until July 2018</p>
       </div>
       <table class="table table-bordered table-hover" style="height: 211px;" width="646">
          <tbody>

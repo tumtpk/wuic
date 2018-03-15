@@ -14,10 +14,10 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>International Students and Non TCAS applicants</h4>
+                        <h4 style="color: #f26c21;">International Students and Non TCAS applicants</h4>
                      </div>
                      <div class="static_text2">
-                        <p><b>Admission Criteria</b></p>
+                        <p ><b>Admission Criteria</b></p>
                         <p>Please select and submit one of standardized test scores with minimum required as presented below.</p>
                         <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
                             <table class="table">

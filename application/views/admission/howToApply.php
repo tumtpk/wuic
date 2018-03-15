@@ -14,7 +14,7 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>How To Apply?</h4>
+                        <h4 style="color: #f26c21;">How To Apply?</h4>
                      </div>
                      <div class="static_text2">
                         <p><b>การรับสมัคร</b></p>
