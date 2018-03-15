@@ -18,18 +18,18 @@
                      </div>
                      <div class="static_text">
                      	<span style="color: #f26c21;">Bachelor’s Degree (Academic Year 2018)</span>
-                        <table class="table table-responsive table-striped text-center">
+                        <table class="table table-responsive table-striped table-bordered text-center">
                           <thead>
-                            <tr>
+                            <tr class="" style="background-color: #f38448; text-align: center;">
                               <th rowspan="3" style="vertical-align:  top !important;">Degree</th>
                               <th rowspan="3" style="vertical-align:  top !important;">Academic Program</th>
                               <th colspan="4">Fees / Semester (Baht)</th>
                             </tr>
-                            <tr>
+                            <tr style="background-color: #f38448; text-align: center;">
                               <th colspan="2">Thai Students</th>
                               <th colspan="2">International Students</th>
                             </tr>
-                            <tr>
+                            <tr  style="background-color: #f38448; text-align: center;">
                               <th>Tuition Fees</th>
                               <th>Extra Fees</th>
                               <th>Tuition Fees</th>

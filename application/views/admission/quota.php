@@ -22,44 +22,44 @@
                         <p>การรับสมัคร จะพิจารณาจากผลการเรียนเฉลี่ยสะสม จำนวนหน่วยกิต และแฟ้มสะสมผลงาน แยกตามหลักสูตรที่เปิดรับสมัคร ดังนี้</p>
                         <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
                             <table class="table">
-                                    <tr class="">
-                                        <td rowspan="2">หลักสูตร</td>
-                                        <td rowspan="2">แผนการเรียน</td>
-                                        <td colspan="4"  style="text-align: center;">เกณฑ์การรับและสัดส่วนของแต่ละรายวิชาที่นำมาใช้ในการคัดเลือก (%)</td>
-                                        <td rowspan="2">คะแนนการสอบภาษาอังกฤษ (IELT)*</td>
+                                    <tr class="" style="background-color: #f38448; text-align: center;">
+                                        <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="2">หลักสูตร</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="2">แผนการเรียน</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;"colspan="4"  style="text-align: center;">เกณฑ์การรับและสัดส่วนของแต่ละรายวิชาที่นำมาใช้ในการคัดเลือก (%)</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="2">คะแนนการสอบภาษาอังกฤษ (IELT)*</td>
+                                    </tr>
+                                    <tr style="background-color: #f38448;text-align: center;">
+                                        <td style="text-align: center;border: 1px solid #94999e;">GAT1</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">GAT2</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">PAT1</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">9 วิชาสามัญ</td>
+                                    </tr>
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
+                                        <td style="text-align: center;border: 1px solid #94999e;">สาขาวิศวกรรมนวัตกรรมดิจิทัล</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">วิทย์-คณิต</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">-</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">30%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">40%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">ฟิสิกส์ 30%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;"></td>
                                     </tr>
                                     <tr class="">
-                                        <td>GAT1</td>
-                                        <td>GAT2</td>
-                                        <td>PAT1</td>
-                                        <td>9 วิชาสามัญ</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">สาขากิจการสาธารณะ</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">รับทุกแผน</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">40%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">30%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">-</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">สังคม 30%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">6.0</td>
                                     </tr>
-                                    <tr class="">
-                                        <td>สาขาวิศวกรรมนวัตกรรมดิจิทัล</td>
-                                        <td>วิทย์-คณิต</td>
-                                        <td>-</td>
-                                        <td>30%</td>
-                                        <td>40%</td>
-                                        <td>ฟิสิกส์ 30%</td>
-                                        <td></td>
-                                    </tr>
-                                    <tr class="">
-                                        <td>สาขากิจการสาธารณะ</td>
-                                        <td>รับทุกแผน</td>
-                                        <td>40%</td>
-                                        <td>30%</td>
-                                        <td>-</td>
-                                        <td>สังคม 30%</td>
-                                        <td>6.0</td>
-                                    </tr>
-                                    <tr class="">
-                                        <td>สาขาการวิเคราะห์โลจิสติกส์และการจัดการซัพพลายเชน</td>
-                                        <td>วิทย์-คณิต หรือศิลป์-คำนวณ</td>
-                                        <td>30%</td>
-                                        <td>40%</td>
-                                        <td>30%</td>
-                                        <td>-</td>
-                                        <td></td>
+                                    <tr  class="" style="background-color: rgba(0,0,0,.05);">
+                                        <td style="text-align: center;border: 1px solid #94999e;">สาขาการวิเคราะห์โลจิสติกส์และการจัดการซัพพลายเชน</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">วิทย์-คณิต หรือศิลป์-คำนวณ</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">30%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">40%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">30%</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">-</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;"></td>
                                     </tr>
                             </table>
                         </div>
