@@ -14,41 +14,15 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4><?=$title ?></h4>
+                        <h4 style="color: #f26c21;"><?=$title ?></h4>
 						<div class="news-date">
                      		<i class="fa fa-clock-o"></i> <?=$date ?>
                      	</div>                     
                      </div>
                      <div class="static_text2">
-                        <p>The program emphasizes graduates with a basic knowledge of analytics, planning and best practice of management. Students are trained to use decision making processes that utilize information to serve the needs of logistics and supply chains of local and international markets. Awareness of change in the logistic and business environment, adept at skills used, active learning. Ethical and social responsibility are simultaneously taught throughout the courses.</p>
-                     	<br>
-                     	<p>Graduates can pursue work in areas such as:</p>
-                     	<p>1. Analyzer, planner and designer in Logistics </p>
-                     		<div class="col-md">
-                     			<p>1. Supply chain planner and designer</p>
-                     			<p>2. Production Planner</p>
-                     			<p>3. Business development officer</p>
-                     			<p>4. Logistics and supply chain analyst</p>
-                     			<p>5. Business information system developer</p>
-                     			<p>6. Business Process Analyst</p>
-                     		</div>
-                     	<p>2. Officer or chief executive in the operations group. </p>
-                     		<div class="col-md">
-                     			<p>1. Supply Chain and Logistics functions</p>
-                     			<p>2. Purchasing functions</p>
-                     			<p>3. Import and export functions</p>
-                     			<p>4. Warehouse functions</p>
-                     			<p>5. Operation functions</p>
-                     			<p>6. Transportation functions</p>
-                     			<p>7. Production functions</p>
-                     			<p>8. Port functions</p>
-                     		</div>
-                     	<p>3. Entrepreneurship  </p>
-                     		<div class="col-md">
-                     			<p>1. Import and export company</p>
-                     			<p>2. Logistics provider</p>
-                     			<p>3. Transportation Agent / Logistics service provider</p>
-                     		</div>
+                     	<p class="text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/iK5i3tgY1d8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+                        <p>รายการ บ่ายนี้มีคำตอบ ตอน "ผงาด 3 วิทยาลัยนานาชาติ มหาวิทยาลัยวลัยลักษณ์ พร้อม!!!" ออกอากาศสด เมื่อวันจันทร์ที่ 29 มกราคม 2561 เวลา 13.00 -13.35 น. ทางสถานีโทรทัศน์ไทยทีวีสี ช่อง 9 อสมท. โดยมี ศาสตราจารย์ ดร.สมบัติ ธำรงธัญวงศ์ อธิการบดี ศาสตราจารย์ ดร.ทพ.สิทธิชัย ขุนทองแก้ว รักษาการแทนคณบดีวิทยาลัยทันตแพทยศาสตร์นานาชาติ ผู้ช่วยศาสตราจารย์ น.สพ.ดร.พีรศักดิ์ สุทธิโยธิน รักษาการแทนคณบดีวิทยาลัยสัตวแพทยศาสตร์อัครราชกุมารี และอาจารย์ ดร.จิตติมา ศังขมณี รักษาการแทนคณบดีวิทยาลัยนานาชาติ มหาวิทยาลัยวลัยลักษณ์ ร่วมรายการ</p>
+                     	
                      </div>
                   </div>
                </div>

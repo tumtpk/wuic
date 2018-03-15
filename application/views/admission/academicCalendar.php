@@ -18,50 +18,7 @@
       </div>
       <div class="entry">
       <br>
-         <p style="text-align: center;"><span style="text-decoration: underline;">รายละเอียดการเปิดปิดภาคการศึกษา ประจำปีการศึกษา&nbsp;2561</span></p>
-         <br>
-         <table class="table table-bordered" style="height: 237px;" width="800">
-            <tbody>
-               <tr>
-                  <td style="background-color: #fa734d9e;"><strong>ภาคเรียนที่ 1</strong></td>
-                  <td style="background-color: #fa734d9e;"><strong>20 สิงหาคม ถึง 12 ธันวาคม พ.ศ. 2561</strong></td>
-               </tr>
-               <tr>
-                  <td>วันเปิดภาคการศึกษา</td>
-                  <td>20 สิงหาคม</td>
-               </tr>
-               <tr>
-                  <td>วันสุดท้ายของการเรียน</td>
-                  <td>30 พฤศจิกายน</td>
-               </tr>
-               <tr>
-                  <td style="background-color: #fa734d9e;"><strong>ภาคเรียนที่ 2 </strong></td>
-                  <td style="background-color: #fa734d9e;"><strong>7 มกราคม ถึง 1 พฤษภาคม พ.ศ. 2562</strong></td>
-               </tr>
-               <tr>
-                  <td>วันเปิดภาคการศึกษา</td>
-                  <td>7 มกราคม</td>
-               </tr>
-               <tr>
-                  <td>วันสุดท้ายของการเรียน</td>
-                  <td>19 เมษายน</td>
-               </tr>
-               <tr>
-                  <td style="background-color: #fa734d9e;"><strong>ภาคฤดูร้อน</strong></td>
-                  <td style="background-color: #fa734d9e;"><strong>21 พฤษภาคม ถึง 19 กรกฎาคม พ.ศ. 2562</strong></td>
-               </tr>
-               <tr>
-                  <td>วันเปิดภาคการศึกษา</td>
-                  <td>21 พฤษภาคม</td>
-               </tr>
-               <tr>
-                  <td>วันสุดท้ายของการเรียน</td>
-                  <td>12 กรกฎาคม</td>
-               </tr>
-            </tbody>
-         </table>
-         <br>
-         <p style="text-align: center;"><span style="text-decoration: underline;">Academic calendar Year 2018-2019</span></p>
+         <p style="font-size:16px"><b>Academic Year 2018/2019</b></p>
          <br>
          <table  class="table table-bordered" style="height: 273px;" width="800" cellspacing="0" cellpadding="0">
             <tbody>
@@ -71,11 +28,11 @@
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">First day of class</td>
-                  <td style="width: 250px; text-align: left;" colspan="2">20 August 2018 (1st wk)</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">20 August 2018</td>
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">Last day of class</td>
-                  <td style="width: 250px; text-align: left;" colspan="2">30 November 2018 (15th wk)</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">30 November 2018</td>
                </tr>
                <tr>
                   <td style="width: 200px; background-color: #c868e88a; text-align: left;"><strong>Second Semester&nbsp;</strong></td>
@@ -83,23 +40,23 @@
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">First day of class</td>
-                  <td style="width: 250px; text-align: left;" colspan="2">7 January 2019 (1st wk)</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">7 January 2019</td>
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">Last day of class</td>
-                  <td style="width: 250px; text-align: left;" colspan="2">19 April 2019 (16th wk)</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">19 April 2019</td>
                </tr>
                <tr>
-                  <td style="width: 200px; background-color: #c868e88a; text-align: left;">&nbsp;<strong>Summer Session</strong></td>
-                  <td style="width: 250px; background-color: #c868e88a; text-align: left;" colspan="2"><strong>&nbsp;21 May – 19 July 2019</strong></td>
+                  <td style="width: 200px;background-color: #f26b2194;text-align: left;">&nbsp;<strong>Summer Session</strong></td>
+                  <td style="width: 200px;background-color: #f26b2194;text-align: left;" colspan="2"><strong>&nbsp;21 May – 19 July 2019</strong></td>
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">&nbsp;First day of class</td>
-                  <td style="width: 250px; text-align: left;" colspan="2">&nbsp;21 May 2019 (1st wk)</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">&nbsp;21 May 2019</td>
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">Last day of class</td>
-                  <td style="width: 250px; text-align: left;" colspan="2">12 July 2019 (8th wk)</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">12 July 2019</td>
                </tr>
             </tbody>
          </table>

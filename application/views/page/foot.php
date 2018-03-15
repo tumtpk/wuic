@@ -25,5 +25,6 @@
 
         <script src="<?= base_url(); ?>public/js/theme.js"></script>
         <script src="<?= base_url(); ?>public/js/sub-dropdown.js"></script>
+
     </body>
 </html>

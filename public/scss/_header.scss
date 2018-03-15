@@ -6,7 +6,7 @@
         color: #fff;
     }
 }
-.main_menu_area{
+.main_menu_area2{
     position: absolute;
     width: 100%;
     top: 0px;
@@ -111,7 +111,7 @@
         }
     }
     &.navbar_fixed{
-        position: fixed;
+        position: absolute;
         width: 100%;
         top: -70px;
         left: 0;

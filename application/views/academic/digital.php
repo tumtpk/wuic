@@ -14,7 +14,7 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>Digital Innovation Engineering</h4><br>
+                        <h4 style="color: #f26c21;">Digital Innovation Engineering</h4><br>
                      </div>
                      <div class="static_text2">
                         <p>This program aims to produce graduates who inspire to change the digital world through innovative designs of applications and how they interact with humans worldwide. Graduates will respond to problems while creating new opportunities from digital innovations.</p><br>
@@ -23,14 +23,14 @@
                               	<img src="<?=base_url() ?>public/img/page/xIN-300x141.png.pagespeed.ic._qxOQntmBE.webp" class="img-fluid" alt="Responsive image"><br>
                             </div>
                       	</div>
-                        <p>Graduates can pursue work in areas such as:</p>
-                        <p>1. Computer Engineering</p>
-                        <p>2. Innovative Engineers</p>
-                        <p>3. Problem-solver in creative innovations</p>
-                        <p>4. Software developers or programmer in an organization</p>
-                        <p>5. Entrepreneurs in the computer industry or a founder of a startup</p>
-                        <p>6. Digital products designers</p>
-                        <p>7. Academic, Researcher, Technician in the field of digital innovation</p>
+                        <p><b style="color: #f26c21;">Careers</b></p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Computer Engineer</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Innovative Engineer</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Problem-solver in digital innovation</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Software developer/programmer</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Entrepreneur/startup founder in computer industry</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Digital products designer</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Academic/Researcher in the field of digital innovation</p>
 
                      </div>
                   </div>

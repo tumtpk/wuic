@@ -14,58 +14,61 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>International Students and Non TCAS system’s applicants</h4>
+                        <h4>International Students and Non TCAS applicants</h4>
                      </div>
                      <div class="static_text2">
-                        <p>1.<u>Admission Criteria</u></p>
-                        <p>Please select and submit 1 of standardized test score with minimum required as presented below.</p>
+                        <p><b>Admission Criteria</b></p>
+                        <p>Please select and submit one of standardized test scores with minimum required as presented below.</p>
                         <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
                             <table class="table">
-                                    <tr class="">
-                                        <td style="text-align: center;"><b>Type of Score</b></td>
-                                        <td style="text-align: center;"><strong>Subjects</strong></td>
-                                        <td style="text-align: center;"><strong>Digital Innovation Engineering</strong></td>
-                                        <td style="text-align: center;"><strong>Public Affairs</strong></td>
-                                        <td style="text-align: center;"><strong>Logistic Analytics and Supply Chain Management </strong></td>
+                                    <tr class="" style="background-color: #ef9868;">
+                                        <td style="text-align: center;vertical-align:  middle;border: 1px solid #94999e;" rowspan="2"><b>Test</b></td>
+                                        <td style="text-align: center;vertical-align:  middle;border: 1px solid #94999e;" rowspan="2"><strong>Subjects</strong></td>
+                                        <td style="text-align: center;border: 1px solid #94999e;" colspan="3"><strong>Minimum Score</strong></td>
+                                    </tr>
+                                    <tr style="background-color: #ef9868;">
+                                        <td style="text-align: center; background-color: #f38448;border: 1px solid #94999e;"><strong>Digital Innovation Engineering</strong></td>
+                                        <td style="text-align: center; background-color: #f38448;border: 1px solid #94999e;"><strong>Public Affairs</strong></td>
+                                        <td style="text-align: center; background-color: #f38448;border: 1px solid #94999e;"><strong>Logistic Analytics and Supply Chain Management </strong></td>
                                     </tr>
                                     <tr class="">
-                                        <td   style="text-align: center; vertical-align: middle;" rowspan="3"> <strong>SAT I</strong></td>
-                                        <td>Mathematics</td>
-                                        <td style="text-align: center;">600</td>
-                                        <td style="text-align: center;">-</td>
-                                        <td style="text-align: center;">600</td>
+                                        <td   style="text-align: center; vertical-align: middle;border: 1px solid #94999e;" rowspan="3"> <strong>SAT I</strong></td>
+                                        <td style="border: 1px solid #94999e;">Mathematics</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">600</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">-</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">600</td>
                                     </tr>
                                     <tr class="">
-                                        <td>Critical Reading</td>
-                                        <td style="text-align: center;">350</td>
-                                        <td style="text-align: center;">350</td>
-                                        <td style="text-align: center;">350</td>
+                                        <td style="border: 1px solid #94999e;">Critical Reading</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                     </tr>
                                     <tr class="">
-                                        <td>Writing </td>
-                                        <td style="text-align: center;">350</td>
-                                        <td style="text-align: center;">350</td>
-                                        <td style="text-align: center;">350</td>
+                                        <td style="border: 1px solid #94999e;">Writing </td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                     </tr>
                                     <tr class="">
-                                        <td   style="text-align: center; vertical-align: middle;" rowspan="2"> <strong>New SAT I</strong></td>
-                                        <td>Mathematics</td>
-                                        <td style="text-align: center;">620</td>
-                                        <td style="text-align: center;">-</td>
-                                        <td style="text-align: center;">620</td>
+                                        <td   style="text-align: center; vertical-align: middle;border: 1px solid #94999e;" rowspan="2"> <strong>New SAT I</strong></td>
+                                        <td style="border: 1px solid #94999e;">Mathematics</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">620</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">-</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">620</td>
                                     </tr>
                                     <tr class="">
-                                        <td>Evidence-Based Reading and Writing</td>
-                                        <td style="text-align: center;">350</td>
-                                        <td style="text-align: center;">350</td>
-                                        <td style="text-align: center;">350</td>
+                                        <td style="border: 1px solid #94999e;">Evidence-Based Reading and Writing</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">350</td>
                                     </tr>
                                     <tr class="">
-                                        <td   style="text-align: center; vertical-align: middle;" rowspan="2"> <strong>SAT II</strong></td>
+                                        <td   style="text-align: center; vertical-align: middle;border: 1px solid #94999e;" rowspan="2"> <strong>SAT II</strong></td>
                                         <td>Mathematics (Level 2)</td>
-                                        <td style="text-align: center;">600</td>
-                                        <td style="text-align: center;">-</td>
-                                        <td style="text-align: center;">600</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">600</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">-</td>
+                                        <td style="text-align: center;border: 1px solid #94999e;">600</td>
                                     </tr>
                                     <tr class="">
                                         <td>Physics</td>
@@ -136,7 +139,7 @@
                                     </tr>
 
                                      <tr class="">
-                                        <td   style="text-align: center; vertical-align: middle;" rowspan="8"> <strong>GCSE, IGCSE, or ‘O’ Level ( 5 Subjects) and GCE ‘AS’, or ‘A’ level(3 Subjects)</strong></td>
+                                        <td   style="text-align: center; vertical-align: middle;" rowspan="8"> <strong>GCSE, IGCSE, or ‘O’ Level ( 5 Subjects) and GCE ‘AS’, or ‘A’ level (3 Subjects)</strong></td>
                                         <td   style="text-align: center; vertical-align: middle;" colspan="4">Subjects of GCSE, IGCSE, or ‘O’ Level</td>
                                     </tr>
                                     <tr class="">
@@ -174,7 +177,7 @@
                                     </tr>
 
                                     <tr class="">
-                                        <td   style="text-align: center; vertical-align: middle;" rowspan="3"> <strong>Sixth Form(5 Subjects)</strong></td>
+                                        <td   style="text-align: center; vertical-align: middle;" rowspan="3"> <strong>Sixth Form<br/>(5 Subjects)</strong></td>
                                         <td>Mathematics</td>
                                         <td style="text-align: center;" colspan="3">≥ 4</td>
                                     </tr>
@@ -190,7 +193,7 @@
                                     </tr>
                                     
                                     <tr class="">
-                                        <td   style="text-align: center; vertical-align: middle;" rowspan="10"> <strong>CEA Level 2-3(5 Subjects)</strong></td>
+                                        <td   style="text-align: center; vertical-align: middle;" rowspan="10"> <strong>CEA Level 2-3<br/>(5 Subjects)</strong></td>
                                         <td>Mathematics</td>
                                         <td style="text-align: center;" colspan="3">2.5</td>
                                     </tr>
@@ -227,7 +230,7 @@
                                     </tr>
 
                                      <tr class="">
-                                        <td   style="text-align: center; vertical-align: middle;" rowspan="9"> <strong>BHSEC(Bhutan)(5 Subjects)</strong></td>
+                                        <td   style="text-align: center; vertical-align: middle;" rowspan="9"> <strong>BHSEC<br/>(Bhutan)<br/>(5 Subjects)</strong></td>
                                         <td>Mathematics</td>
                                         <td style="text-align: center;" colspan="3">B</td>
                                     </tr>

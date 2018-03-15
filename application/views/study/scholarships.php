@@ -14,12 +14,12 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>Scholarships</h4>
+                        <h4>Undergraduate Excellence Scholarships</h4>
                      </div>
                      <br>
                      <div class="static_text2">
-                        <p style="color: red">Undergraduate Excellence Scholarships</p>
-                        <p>Walailak University International College offers full and partial scholarships to qualified students. </p>
+                     	<p>The WUIC Undergraduate Excellent Scholarships program aims to encourage the admission of students possessing excellent academic records and also to encourage scholarship recipients to make satisfactory academic progress towards the completion of their 4 years degree.</p>
+                        <p>WUIC offers a number of full and partial scholarships to qualified students. </p>
                      </div>
                      
                   </div>

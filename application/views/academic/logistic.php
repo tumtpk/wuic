@@ -14,7 +14,17 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>Logistics Analytics and Supply Chain Management</h4><br>
+                        <h4 style="color: #f26c21;">Logistics Analytics and Supply Chain Management</h4><br/>
+                        <div class="row">
+                        	<div class="col-md-7">
+                        		<p class="text-right"><b><span style="font-size: 16px;color:black;color: red;">Dual degrees with Middlesex University, London, UK </span></b><br/>
+                        		<i>*Qualified students may choose to study at Middlesex University <br/>in their 4<sup>th</sup> year to get Bachelor of Art (BA) (Hons) Business Management (Supply Chain) from Middlesex University</i></p>
+                        	</div>
+                        	<div class="col-md-5">
+                        		<img src="<?=base_url() ?>public/img/page/Middlesexlogo-300x118.png" width="70%" class="img-fluid" ale alt="Responsive">
+                        	</div>
+                        </div>
+                        <div class="col-md-12"></div>
                      </div>
                      <div class="static_text2">
                         <div class="form-group row text-center">
@@ -23,32 +33,32 @@
                             </div>
                       	</div>
                         <p>The program emphasizes graduates with a basic knowledge of analytics, planning and best practice of management. Students are trained to use decision making processes that utilize information to serve the needs of logistics and supply chains of local and international markets. Awareness of change in the logistic and business environment, adept at skills used, active learning. Ethical and social responsibility are simultaneously taught throughout the courses.</p><br>
-                        <p>Graduates can pursue work in areas such as:</p><br>
-                        <h6>1. Analyzer, planner and designer in Logistics </h6>
+                        <p><b style="color: #f26c21;">Careers</b></p>
+                        <h6>Analyzer, planner and designer in Logistics </h6>
                         <div class="col-md">
-                            <p>1. Supply chain planner and designer</p>
-                            <p>2. Production Planner</p>
-                            <p>3. Business development officer</p>
-                            <p>4. Logistics and supply chain analyst</p>
-                            <p>5. Business information system developer</p>
-                            <p>6. Business Process Analyst</p><br>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Supply chain planner and designer</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Production Planner</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Business development officer</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Logistics and supply chain analyst</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Business information system developer</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Business Process Analyst</p><br>
                         </div>
-                        <h6>2. Officer or chief executive in the operations group.</h6>
+                        <h6>Officer or chief executive in the operations group.</h6>
                         <div class="col-md">
-                            <p>1. Supply Chain and Logistics functions</p>
-                            <p>2. Purchasing functions</p>
-                            <p>3. Import and export functions</p>
-                            <p>4. Warehouse functions</p>
-                            <p>5. Operation functions</p>
-                            <p>6. Transportation functions</p>
-                            <p>7. Production functions</p>
-                            <p>8. Port functions</p><br>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Supply Chain and Logistics functions</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Purchasing functions</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Import and export functions</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Warehouse functions</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Operation functions</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Transportation functions</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Production functions</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Port functions</p><br>
                         </div>
-                        <h6>3. Entrepreneurship</h6>
+                        <h6>Entrepreneurship</h6>
                         <div class="col-md">
-                            <p>1. Import and export company</p>
-                            <p>2. Logistics provider</p>
-                            <p>3. Transportation Agent / Logistics service provider</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Import and export company</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Logistics provider</p>
+                            <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Transportation Agent / Logistics service provider</p>
                         </div>
                     </div>
                   </div>

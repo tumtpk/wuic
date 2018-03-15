@@ -62,7 +62,7 @@
                      data-transform_idle="o:1;"
                      data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                      data-textAlign="['center','center','center','center','center','center']"
-                     style="z-index: 8;font-family:'Poppins', sans-serif;font-weight:700;color:#fff;">Walailak University  <br />International College
+                     style="z-index: 8;font-family:'Bodoni Ornaments';font-weight:700;color:#fff;"><span style="font-family:'Bodoni Ornaments';"><span style="color: #8551a1;text-shadow: rgba(255, 255, 255, 0.85) 3px -2px;">We build </span><span style="color: #f27027;text-shadow: rgba(255, 255, 255, 0.85) 3px -2px;">“Next Generation<br /> Global leaders”</span></span>
                   </div>
                   <div class="tp-caption tp-resizeme slider_button"
                      data-x="['center','center','center','center','center','center']"
@@ -77,61 +77,6 @@
                      data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                      data-textAlign="['center','center','center','center','center','center']">
                      <a class="bg_btn" href="https://entry.wu.ac.th/">Apply now</a>
-                  </div>
-               </div>
-               <div class="container My-visible">
-                  <div class="row">
-                     <div class="col-md-4 offset-md-8">
-                        <div class="col-sm-8 ">
-                           <div class="card text-white bg-dark mb-3 shadow"  style="width: 20rem;margin-top: 150px; margin-left: 50px;">
-                              <div class="card-body">
-                                 <h2 class="card-title" style="color: orange;">Study at WUIC</h2>
-                                 <hr>
-                                 <ul class="primary-list">
-                                    <li>
-                                       <h5><a href="#">Program</a></h5>
-                                       <p>e.g. B.Eng., B.B.A.</p>
-                                    </li>
-                                    <hr>
-                                    <li>
-                                       <h5><a href="<?= base_url(); ?>admission/overall">Admission</a></h5>
-                                       <p>tuition fees</p>
-                                    </li>
-                                    <hr>
-                                    <li>
-                                       <h5><a href="<?= base_url(); ?>study/scholarships">Scholarship</a></h5>
-                                       <p>Undergraduate Excellence Scholarships</p>
-                                    </li>
-                                    <hr>
-                                    <br>
-                                    <li>
-                                       <h4><a href="#" style="color: #aaa;">Our Partners</a></h4>
-                                       <p>
-                                       <br>
-                                       <aside class="r_cat_widget">
-                                          <ul>
-                                             <li >
-                                                &nbsp;<a href="#" style="color : white;">Middlesex</a>
-                                             </li>
-                                             <li>
-                                                &nbsp;<a href="#" style="color : white;">Conventry London</a>
-                                             </li>
-                                             <li>
-                                                &nbsp;<a href="#" style="color : white;">IIAI</a>
-                                             </li>
-                                             <li>
-                                                &nbsp;<a href="#" style="color : white;">Essex University</a>
-                                             </li>
-                                            
-                                          </ul>
-                                       </aside>
-                                       </p>
-                                    </li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
                   </div>
                </div>
             </li>

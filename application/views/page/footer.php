@@ -1,24 +1,18 @@
 
         <!--================Footer Area =================-->
         <footer class="footer_area">
-            <div class="footer_widgets_area">
+            <div class="footer_widgets_area" style="padding-top: 30px !important;padding-bottom: 0px;">
                 <div class="container">
                     <div class="f_widgets_inner row">
                         <div class="col-lg-3 col-md-6">
                             <aside class="f_widget subscribe_widget">
                                 <div class="f_w_title">
-                                    <h3>Walailak University International</h3>
-                                </div>
-                                <p>© 2018 WUIC follow us on social media.</p>
-                              
-                                <ul>
-                                <div class="f_w_title">
-                                    <h3>Follow us :</h3>
-                                </div>
+                                    <h3>Walailak University Global</h3><br/>
+                                    <h3>Follow us :</h3><br/>
                                     <li><a href="https://www.facebook.com/WUIC2017"><img src="<?= base_url(); ?>public/img/facebook.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
-                                    <li><a href="#"><img src="<?= base_url(); ?>public/img/twitter.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
-                                    <li><a href="#"><img src="<?= base_url(); ?>public/img/ig.png" style="width : 50px" alt=""></a></li>
-                                </ul>
+                                </div>
+                              
+                                <p>Copyright© 2018 WUIC</p>
                                 
                             </aside>
                         </div>
@@ -37,16 +31,17 @@
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <aside class="f_widget contact_widget pull-right">
-                                <div class="f_w_title">
+                                <div class="f_w_title" style="padding-bottom: 0px;">
                                     <h3>Contact Us</h3>
+                                    <p>+66 75 672 426-7, 
+                                    +66 96 998 3944</p>
                                 </div>
-                                <a href="#">+66 75 672 426-7, </a>
-                                <a href="#">+66 81 979 9651, </a>
-                                <a href="#">+66 96 998 3944</a>
-                                <br>
-                                <a href="#">wuic@wu.ac.th</a>
-                                <p>Walailak University 222 Thaiburi, Thasala District,</p>
-                                <h6>Nakhon Si Thammarat 80161, Thailand</h6>
+                               
+                                <p style="padding-top: 0px;">Walailak University College<br/> Walailak University 222 Thaiburi, Thasala District,<br/>Nakhon Si Thammarat 80161, Thailand</p>
+                                <div class="f_w_title" style="padding-bottom: 50px !important;">
+                                    <h3>Jobs</h3>
+                                </div>
+                               
                             </aside>
                         </div>
                     </div>

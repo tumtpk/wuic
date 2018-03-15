@@ -4,6 +4,12 @@
     
 } */
 
+@font-face {
+    font-family: 'Bodoni Ornaments';
+    src: url('/wuic/public/fonts/ChalkDust.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 .dropdown-menu {
     position: absolute;
@@ -100,3 +106,9 @@ body {
 
 }
 }
+
+/*@media (min-width: 576px){
+	.creative_feature_area {
+	    padding-top: 120px;
+	}
+}*/

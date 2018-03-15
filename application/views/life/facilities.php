@@ -86,7 +86,7 @@
                <li>&nbsp;<a href="#">Computer Network System</a></li>
                <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4556/Sports-Facilities">Sports Facilities</a></li>
                <li>&nbsp;<a href="#">WU Book Center</a></li>
-               <li>&nbsp;<a href="#">Cooperative Education</a></li>
+               <li>&nbsp;Cooperative Education</li>
                <li>&nbsp;<a href="#">Walailak Hospitality Center</a></li>
                <li>&nbsp;<a href="https://www.wu.ac.th/en/campuslife/4560/University-Farm">University Farm</a></li>
             </ul>

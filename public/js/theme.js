@@ -62,7 +62,7 @@
                 },
                 responsiveLevels:[4096,1320,1199,992,767,480],
                 gridwidth:[1170,1170,960,720,700,300],
-                gridheight:[900,900,900,800,500,500],
+                gridheight:[600,600,500,500,400,400],
                 lazyType:"smart",
                 fallbacks: {
                     simplifyAll:"off",

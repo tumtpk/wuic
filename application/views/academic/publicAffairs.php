@@ -14,7 +14,7 @@
                      </div>
                      <div class="static_img">
                         <img class="img-fluid" src="img/static-1.jpg" alt="">
-                        <h4>Public Affairs</h4><br>
+                        <h4 style="color: #f26c21;">Public Affairs</h4><br>
                      </div>
                      <div class="static_text2">
                         <div class="form-group row text-center">
@@ -26,17 +26,16 @@
                         <h6>Majors</h6>
                         <p>1. Public Policy and Global Affairs</p>
                         <p>2. Public Governance</p><br>
-                        <p>Graduates can pursue work in areas such as:</p>
-                        <p>1. Administrative officers</p>
-                        <p>2. Local administrative officers</p>
-                        <p>3. Politicians</p>
-                        <p>4. Independent organization officers</p>
-                        <p>5. Local and international private organization officers</p>
-                        <p>6. Research and development Projects officers</p>
-                        <p>7. Diplomat</p>
-                        <p>8. International organization or overseas officers</p>
-                        <p>9. Academic officers</p>
-                    </div>
+                        <p><b style="color: #f26c21;">Careers</b></p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> International organization/overseas officer</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Independent organization officers</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Diplomat</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Politicians</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Local and international private organization officers</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Research and development Projects officers</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Academic officers</p>
+                        <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Administrative officers</p>
+s                    </div>
                   </div>
                </div>
                

@@ -13,12 +13,12 @@
          </ul>
       </div>
       <div class="static_img">
-         <img class="img-fluid" src="img/static-1.jpg" alt="">
-         <h4>Overall of submission</h4>
+<!--          <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
+         <h4>Admission Period</h4>
       </div>
       <div class="static_text">
-         <p>WUIC follows&nbsp;<span style="color: #0000ff;"><strong>Thai University Central Admission System or TCAS </strong><span style="color: #000000;">for academic year 2018</span><strong>&nbsp;</strong><span style="color: #000000;">which will annouce 5 rounds of admission separated by type. </span></span></p>
-         <p><span style="color: #0000ff;"><span style="color: #000000;">WUIC allows International students and non-TCAS applicants to apply by using the standardized test score at anytimes during TCAS timetable.&nbsp;</span></span></p>
+         <p>Admission Period follows&nbsp;<span style="color: #0000ff;"><strong>Thai University Central Admission System (TCAS) </strong></span> as shown below.</p>
+         <p>WUIC accepts applications from <span style="color: blue"><strong>internation students </strong></span> from now until July 2018</p>
       </div>
       <table class="table table-bordered table-hover" style="height: 211px;" width="646">
          <tbody>
