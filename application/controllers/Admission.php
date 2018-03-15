@@ -26,8 +26,7 @@ class Admission extends CI_Controller {
 		
 		$data['breadcrumb'] = array(
 		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-		    array("page"=>"About", "url"=>"#", "icon"=>"fa fa-angle-right"),
-		    array("page"=>"quota", "url"=>base_url()."admission/quota", "icon"=>"fa fa-angle-right")
+		    array("page"=>"Quota", "url"=>base_url()."admission/quota", "icon"=>"fa fa-angle-right")
 		);
 		
 		$this->load->view('page/head');
@@ -44,8 +43,7 @@ class Admission extends CI_Controller {
 		
 		$data['breadcrumb'] = array(
 		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-		    array("page"=>"About", "url"=>"#", "icon"=>"fa fa-angle-right"),
-		    array("page"=>"International Students and Non TCAS system’s applicants", "url"=>base_url()."admission/internationalStudents", "icon"=>"fa fa-angle-right")
+		    array("page"=>"International Students and Non TCAS applicants", "url"=>base_url()."admission/internationalStudents", "icon"=>"fa fa-angle-right")
 		);
 		
 		$this->load->view('page/head');
@@ -80,7 +78,6 @@ class Admission extends CI_Controller {
 		
 		$data['breadcrumb'] = array(
 		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-		    array("page"=>"About", "url"=>"#", "icon"=>"fa fa-angle-right"),
 		    array("page"=>"How To Apply", "url"=>base_url()."admission/howToApply", "icon"=>"fa fa-angle-right")
 		);
 		
@@ -99,8 +96,7 @@ class Admission extends CI_Controller {
 		
 		$data['breadcrumb'] = array(
 		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-		    array("page"=>"About", "url"=>"#", "icon"=>"fa fa-angle-right"),
-		    array("page"=>"How To Apply", "url"=>base_url()."admission/howToApply", "icon"=>"fa fa-angle-right")
+		    array("page"=>"Admission Period", "url"=>base_url()."admission/howToApply", "icon"=>"fa fa-angle-right")
 		);
 		
 		$this->load->view('page/head');

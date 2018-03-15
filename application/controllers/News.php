@@ -46,7 +46,7 @@ class News extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>$news['title'], "url"=>"#", "icon"=>"fa fa-angle-right")
+            array("page"=>$news['title'], "url"=>base_url("news/".$newid), "icon"=>"fa fa-angle-right")
         );
         
         $this->load->helper('url');

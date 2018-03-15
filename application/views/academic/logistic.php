@@ -24,7 +24,7 @@
                         </ul>
                      </div>
                      <div class="static_img">
-                        <img class="img-fluid" src="img/static-1.jpg" alt="">
+<!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4 style="color: #f26c21;">Bachelor of Business Administration in Logistics Analytics and Supply Chain Management</h4><br/>
                         <div class="row">
                         	<div class="col-md-7">

@@ -24,17 +24,16 @@
                         </ul>
                      </div>
                      <div class="static_img">
-                        <img class="img-fluid" src="img/static-1.jpg" alt="">
+<!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4 style="color: #f26c21;">Tuition Fees</h4>
                      </div>
                      <div class="static_text">
-                     	<span style="color: #f26c21;">Bachelor’s Degree (Academic Year 2018)</span>
+                     	<span style="color: #f26c21;">Academic Year 2018/2019</span>
                         <table class="table table-responsive table-striped table-bordered text-center">
                           <thead>
                             <tr class="" style="background-color: #f38448; text-align: center;">
-                              <th rowspan="3" style="vertical-align:  top !important;">Degree</th>
-                              <th rowspan="3" style="vertical-align:  top !important;">Academic Program</th>
-                              <th colspan="4">Fees / Semester (Baht)</th>
+                              <th rowspan="3" style="vertical-align:  middle !important;">Program</th>
+                              <th colspan="4">Fees per Semester (Baht)</th>
                             </tr>
                             <tr style="background-color: #f38448; text-align: center;">
                               <th colspan="2">Thai Students</th>
@@ -49,31 +48,33 @@
                           </thead>
                           <tbody>
                             <tr>
-                              <td class="text-left">B.Eng.</td>
-                              <td class="text-left">Digital Innovation Engineering</td>
-                              <td>52,500</td>
-                              <td>72,500</td>
-                              <td>52,500</td>
-                              <td>97,500</td>
+                              <td class="text-left" style="vertical-align:  middle !important;">B.Eng. (Digital Innovation Engineering)</td>
+                              <td>52,500 <br/> (1,660 USD*)</td>
+                              <td>72,500 <br/> (2,292 USD)</td>
+                              <td>52,500 <br/> (1,660 USD)</td>
+                              <td>97,500 <br/> (3,083 USD)</td>
                             </tr>
                             <tr>
-                              <td class="text-left">B.Eng.</td>
-                              <td class="text-left">Public Affairs</td>
-                              <td>45,000</td>
-                              <td>17,500</td>
-                              <td>45,000</td>
-                              <td>36,250</td>
+                              <td class="text-left" style="vertical-align:  middle !important;">B.Eng. (Public Affairs)</td>
+                              <td>45,000 <br/> (1,423 USD) </td>
+                              <td>17,500 <br/> (553 USD) </td>
+                              <td>45,000 <br/> (1,423 USD) </td>
+                              <td>36,250 <br/> (1,146 USD) </td>
                             </tr>
                             <tr>
-                              <td class="text-left">B.B.A.</td>
-                              <td class="text-left">Logistics Analytics and Supply Chain Management</td>
-                              <td>45,000</td>
-                              <td>61,250</td>
-                              <td>45,000</td>
-                              <td>80,000</td>
+                              <td class="text-left" style="vertical-align:  middle !important;">B.B.A. (Logistics Analytics and Supply Chain Management)</td>
+                              <td>45,000 <br/> (1,423 USD) </td>
+                              <td>61,250 <br/> (1,936 USD) </td>
+                              <td>45,000 <br/> (1,423 USD) </td>
+                              <td>80,000 <br/> (2,530 USD) </td>
                             </tr>
                           </tbody>
                         </table>
+                        
+                        <p><b>Link :</b> <br/><span style="font-size: 14px">
+                     	<a href="<?=base_url("public/file/USD-breakdown cost.docx") ?>">USD-breakdown cost.docx</a>
+                     	</span></p>
+                        
                      </div>
                   </div>
                </div>

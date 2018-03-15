@@ -13,7 +13,7 @@
                         </ul>
                      </div>
                      <div class="static_img">
-                        <img class="img-fluid" src="img/static-1.jpg" alt="">
+<!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4>Intership Courses</h4>
                      </div>
                   </div>

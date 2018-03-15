@@ -13,7 +13,7 @@
                         </ul>
                      </div>
                      <div class="static_img">
-                        <img class="img-fluid" src="img/static-1.jpg" alt="">
+<!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4>Admission & Fees</h4>
                      </div>
                      <p><strong>Academic Year 2018/2019</strong></p>

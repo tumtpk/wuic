@@ -13,7 +13,7 @@
                         </ul>
                      </div>
                      <div class="static_img">
-                        <img class="img-fluid" src="img/static-1.jpg" alt="">
+<!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4><?=$title ?></h4>
 						<div class="news-date">
                      		<i class="fa fa-clock-o"></i> <?=$date ?>

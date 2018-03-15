@@ -8,8 +8,7 @@ class Life extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"Study at WUIC", "url"=>"#", "icon"=>"fa fa-angle-right"),
-            array("page"=>"Intership Courses", "url"=>base_url()."study/intership", "icon"=>"fa fa-angle-right")
+            array("page"=>"Facilities", "url"=>base_url()."study/intership", "icon"=>"fa fa-angle-right")
         );
         
         $this->load->view('page/head');
@@ -26,8 +25,7 @@ class Life extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"Study at WUIC", "url"=>"#", "icon"=>"fa fa-angle-right"),
-            array("page"=>"Intership Courses", "url"=>base_url()."study/intership", "icon"=>"fa fa-angle-right")
+            array("page"=>"Transpotation on Campus", "url"=>base_url()."study/intership", "icon"=>"fa fa-angle-right")
         );
         
         $this->load->view('page/head');
@@ -44,8 +42,7 @@ class Life extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"Study at WUIC", "url"=>"#", "icon"=>"fa fa-angle-right"),
-            array("page"=>"Intership Courses", "url"=>base_url()."study/intership", "icon"=>"fa fa-angle-right")
+            array("page"=>"Academic Support Centres", "url"=>base_url()."study/intership", "icon"=>"fa fa-angle-right")
         );
         
         $this->load->view('page/head');
@@ -62,8 +59,7 @@ class Life extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"Study at WUIC", "url"=>"#", "icon"=>"fa fa-angle-right"),
-            array("page"=>"Intership Courses", "url"=>base_url()."study/intership", "icon"=>"fa fa-angle-right")
+            array("page"=>"Map", "url"=>base_url()."study/intership", "icon"=>"fa fa-angle-right")
         );
         
         $this->load->view('page/head');

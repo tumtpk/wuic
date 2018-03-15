@@ -24,13 +24,18 @@
                         </ul>
                      </div>
                      <div class="static_img">
-                        <img class="img-fluid" src="img/static-1.jpg" alt="">
+<!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4 style="color: #f26c21;">Undergraduate Excellence Scholarships</h4>
                      </div>
                      <br>
                      <div class="static_text2">
                      	<p>The WUIC Undergraduate Excellent Scholarships program aims to encourage the admission of students possessing excellent academic records and also to encourage scholarship recipients to make satisfactory academic progress towards the completion of their 4 years degree.</p>
                         <p>WUIC offers a number of full and partial scholarships to qualified students. </p>
+                     	<p><b>Download :</b> <br/><span style="font-size: 14px">
+                     	
+                     	WUIC Scholarships <a href="<?=base_url("public/file/2018-02-21WUICScholarships.pdf") ?>">Click</a><br/>
+                     	WUIC Scholarship Recommendation Letter <a href="<?=base_url("public/file/WUIC Scholarship Recommendation Letter.pdf") ?>">Click</a><br/>
+                     	Scholarship Application Form <a href="<?=base_url("public/file/WUIC Scholarship form.pdf") ?>">Click</a></span></p>
                      </div>
                      
                   </div>

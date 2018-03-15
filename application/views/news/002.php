@@ -1,6 +1,17 @@
 <div class="container">
    <!--================Static Area =================-->
    <section class="static_area">
+   <p class="pblade">
+			<?php 
+            if(isset($breadcrumb)){
+                if(sizeof($breadcrumb) > 0){
+                     foreach ($breadcrumb as $array){
+                         echo '<a href="'.$array['url'].'"><i class="'.$array['icon'].'" aria-hidden="true"></i> '.$array['page'].'</a> ';
+                     }
+                }
+             }
+         ?>
+	</p>
       <div class="container">
          <div class="static_inner">
             <div class="row">
@@ -13,7 +24,7 @@
                         </ul>
                      </div>
                      <div class="static_img">
-                        <img class="img-fluid" src="img/static-1.jpg" alt="">
+<!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4 style="color: #f26c21;"><?=$title ?></h4>
 						<div class="news-date">
                      		<i class="fa fa-clock-o"></i> <?=$date ?>
