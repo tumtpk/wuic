@@ -40,7 +40,7 @@
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
                <td style="text-align: center; vertical-align: top;" rowspan="2">1</td>
-               <td style="vertical-align: top;" rowspan="2">Direct Admission by Portfolio</td>
+               <td style="vertical-align: top;" rowspan="2">Portfolios</td>
                <td>1st time: 1 Oct – 30 Nov 2017</td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
@@ -49,21 +49,21 @@
             <tr>
                <td style="text-align: center;">2</td>
                <td>Quota</td>
-               <td>Dec 2017 – Apr 2018</td>
+               <td>19 Feb- 18 Apr 2018</td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
                <td style="text-align: center;">3</td>
-               <td>Co-Admission</td>
+               <td>Joint Direct Admission</td>
                <td>9-13 May 2018</td>
             </tr>
             <tr>
                <td style="text-align: center;">4</td>
-               <td>Central Admission</td>
+               <td>General Admission</td>
                <td>6-10 June 2018</td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
                <td style="text-align: center;">5</td>
-               <td>Liberal Admission</td>
+               <td>Independent Direct Admission</td>
                <td>July 2018</td>
             </tr>
          </tbody>

@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'Bodoni Ornaments';
-    src: url('/wuic/public/fonts/ChalkDust.ttf') format('truetype');
+    src: url('/public/fonts/ChalkDust.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }

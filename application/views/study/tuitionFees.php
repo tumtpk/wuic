@@ -25,7 +25,7 @@
                      </div>
                      <div class="static_img">
 <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-                        <h4 style="color: #f26c21;">Tuition Fees</h4>
+                        <h4 style="color: #f26c21;">Tuition & Fees</h4>
                      </div>
                      <div class="static_text">
                      	<span style="color: #f26c21;">Academic Year 2018/2019</span>
@@ -49,7 +49,7 @@
                           <tbody>
                             <tr>
                               <td class="text-left" style="vertical-align:  middle !important;">B.Eng. (Digital Innovation Engineering)</td>
-                              <td>52,500 <br/> (1,660 USD*)</td>
+                              <td>52,500 <br/> (1,660 USD)</td>
                               <td>72,500 <br/> (2,292 USD)</td>
                               <td>52,500 <br/> (1,660 USD)</td>
                               <td>97,500 <br/> (3,083 USD)</td>
@@ -71,9 +71,8 @@
                           </tbody>
                         </table>
                         
-                        <p><b>Link :</b> <br/><span style="font-size: 14px">
-                     	<a href="<?=base_url("public/file/USD-breakdown cost.docx") ?>">USD-breakdown cost.docx</a>
-                     	</span></p>
+                        <p><small>* Foreign Exchange Rates as of 23 February 2018: 31.63 Baht/US Dollar</small><br/>
+                        <small>* All fees in USD are based on currency rates of exchange in effect at the time of printing. Prices are subject to change due to the currency rates</small></p>
                         
                      </div>
                   </div>

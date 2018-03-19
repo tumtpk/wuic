@@ -35,29 +35,15 @@
             </div>
             </div> -->
          <aside class="right_widget r_cat_widget">
-            <div class="r_w_title">
+            <div class="r_w_title" style="padding-bottom: 0px;">
                <span style="font-size: 18px">Student Support Centres</span>
             </div>
-            <ul>
-               <li>
-                  &nbsp;<a href="https://www.wu.ac.th/en/campuslife/4544/Individual-Counseling">Individual Counseling</a>
-               </li>
-               <li>
-                  &nbsp;<a href="https://www.wu.ac.th/en/campuslife/4545/Telephone-Counseling">Telephone Counseling</a>
-               </li>
-               <li>
-                  &nbsp;<a href="https://www.wu.ac.th/en/campuslife/4546/Group-Counseling">Group Counseling</a>
-               </li>
-               <li>
-                  &nbsp;<a href="https://www.wu.ac.th/en/campuslife/4547/Learning-Assistance-">Learning Assistance</a>
-               </li>
-               <li>
-                  &nbsp;<a href="https://www.wu.ac.th/en/campuslife/4548/Academic-and-Career-Counseling-">Academic and Career Counseling</a>
-               </li>
-               <li>
-                  &nbsp;<a href="https://www.wu.ac.th/en/campuslife/4549/Self-Access-Information-Service-">Self-Access Information Service</a>
-               </li>
-            </ul>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4544/Individual-Counseling" style="color: #000;">Individual Counseling</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4545/Telephone-Counseling" style="color: #000;">Telephone Counseling</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4546/Group-Counseling" style="color: #000;">Group Counseling</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4547/Learning-Assistance-" style="color: #000;">Learning Assistance</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4548/Academic-and-Career-Counseling-" style="color: #000;">Academic and Career Counseling</a></p>
+               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4549/Self-Access-Information-Service-" style="color: #000;">Self-Access Information Service</a></p>
          </aside>
       </div>
    </div>

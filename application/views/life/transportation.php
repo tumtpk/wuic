@@ -37,9 +37,12 @@
                         <div class="d-flex">
                            <h6>“</h6>
                         </div>
-                        <div class="media-body">
-                           <p >“Green University”</p>
+                        <div class="media-body" style="flex: inherit;">
+                           <p >Green University</p>
                            <h5><a href="#">here at</a> - Walailak University</h5>
+                        </div>
+                        <div class="d-flex">
+                           <h6>”</h6>
                         </div>
                      </div>
                      <div class="static_text2">

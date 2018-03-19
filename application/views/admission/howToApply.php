@@ -25,12 +25,12 @@
                      </div>
                      <div class="static_img">
 <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-                        <h4 style="color: #f26c21;">How To Apply?</h4>
+                        <h4 style="color: #f26c21;">How To Apply</h4>
                      </div>
                      <div class="static_text2">
                         <p><b>การรับสมัคร</b></p>
                         <div class="col">
-                            <p>1. สมัครผ่าน “ระบบการรับสมัครนักศึกษา” ทางอินเตอร์เน็ตที่ http://entry.wu.ac.th</p>
+                            <p>1. สมัครผ่าน “ระบบการรับสมัครนักศึกษา” ทางอินเตอร์เน็ตที่  <a href="http://entry.wu.ac.th">http://entry.wu.ac.th</a></p>
                             <p>2. หลักฐานประกอบการสมัคร</p>
                             <br>
                             <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
