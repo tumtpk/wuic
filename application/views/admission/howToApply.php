@@ -23,77 +23,62 @@
                            <li><a href="https://twitter.com/intent/tweet?text=Program+in+Logistics+Analytics+and+Supply+Chain+Management&url=<?=current_url()?>"><i class="fa fa-twitter"></i></a></li>
                         </ul>
                      </div>
+
                      <div class="static_img">
 <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
                         <h4 style="color: #f26c21;">How To Apply</h4>
                      </div>
                      <div class="static_text2">
-                        <p><b>การรับสมัคร</b></p>
+                        <p><b>Application</b></p>
                         <div class="col">
-                            <p>1. สมัครผ่าน “ระบบการรับสมัครนักศึกษา” ทางอินเตอร์เน็ตที่  <a href="http://entry.wu.ac.th">http://entry.wu.ac.th</a></p>
-                            <p>2. หลักฐานประกอบการสมัคร</p>
+                            <p>1. Apply via Admission system at  <a href="https://entry.wu.ac.th/inter/">https://entry.wu.ac.th/inter/</a></p>
+                            <p>2. Supporting Documents</p>
+                            <div class="col-md-10 offset-md-1"><p>2.1. A Complete application form with 1”x1” photograph (School/University uniform, taken in the last 6 months)</p></div>
+                            <div class="col-md-10 offset-md-1"><p>2.2. A photocopy of official transcript*  </p></div>
+                            <div class="col-md-10 offset-md-1"><p>2.3. A photocopy of the Thai national identity card or passport (Non-Thai applicant)</p></div>
+                            <div class="col-md-10 offset-md-1"><p>2.4. A photocopy of one’s current residency document</p></div>
+                            <div class="col-md-10 offset-md-1"><p>2.5 A photocopy of English proficiency test scores: IELTS (≥6) or any other Standard English test</p></div>
+                            <div class="col-md-10 offset-md-1"><p>2.6. A photocopy of pay-in slip for application fee of 300 THB </p></div>
+
+
                             <br>
-                            <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
-                                <table class="table">
-                                    <tr class="table-danger">
-                                        <td>ใบสมัครที่กรอกข้อมูลเรียนร้อยแล้ว พร้อมรูปถ่าย</td>
-                                        <td>จำนวน 1 ชุด (รูปถ่ายหน้าตรงชุดนักเรียน ขนาด 1 นิ้ว ถ่ายไว้ไม่เกิน 6 เดือน)</td>
-                                    </tr>
-                                    <tr class="">
-                                        <td>สำเนาเอกสารแสดงผลการเรียนเฉลี่ยสะสม*</td>
-                                        <td>จำนวน 1 ชุด</td>
-                                    </tr>
-                                    <tr class="table-danger">
-                                        <td>สำเนาบัตรประจำตัวประชาชน/ สำเนาหนังสือเดินทาง</td>
-                                        <td>จำนวน 1 ชุด</td>
-                                    </tr>
-                                    <tr class="">
-                                        <td>สำเนาทะเบียนบ้าน</td>
-                                        <td>จำนวน 1 ชุด</td>
-                                    </tr>
-                                    <tr class="table-danger">
-                                        <td>หลักฐานการชำระเงินค่าสมัคร จำนวน 300 บาท</td>
-                                        <td>จำนวน 1 ชุด</td>
-                                    </tr>
-                                    <tr class="">
-                                        <td>แฟ้มสะสมผลงาน (Portfolio) กรณีสมัครรอบ Portfolio</td>
-                                        <td>จำนวน 1 ชุด</td>
-                                    </tr>
-                                </table>
-                            </div>
-                            <p>3. การส่งใบสมัครและหลักฐานประกอบการสมัคร</p>
-                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. ส่งผ่านระบบอินเตอร์เน็ต ผู้สมัครจะต้องดำเนินการกรอกข้อมูลการสมัครผ่านระบบการรับ  สมัครนักศึกษาให้เรียบร้อย และ upload หลักฐานประกอบการสมัครผ่านระบบดังกล่าว</p>
-                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. ส่งด้วยตนเอง หรือการส่งทางไปรษณีย์ เมื่อดำเนินการกรอกข้อมูลการสมัครผ่านระบบการรับสมัครนักศึกษาเรียบร้อยแล้ว ให้รวบรวมเอกสารทั้งหมดเพื่อจัดส่งให้มหาวิทยาลัยวลัยลักษณ์ ที่ ฝ่ายรับนักศึกษา ศูนย์บริการการศึกษา มหาวิทยาลัยวลัยลักษณ์ 222 ตำบลไทยบุรี อำเภอท่าศาลา จังหวัดนครศรีธรรมราช 80160</p>
+                           
+                          
+
+                            <p>3. Submission of Application Documents</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1. On-line submission: application information and all supporting documents must be uploaded to the Admission System website by the deadline.</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2. Off-line submission: submit application documents by yourself or by post to Center for Educational Services (Admission) Walailak University 222 Thaiburi, Thasala District, Nakhon Si Thammarat 80161 Thailand. All application documents have to be delivered by the deadline (postmark date considered).</p>
                             <br>
-                            <p> *นอกจากเอกสารแสดงผลการเรียนเฉลี่ยสะสมแล้ว ผู้สมัครจะต้องแสดงเอกสารเพิ่มเติม เช่น เอกสารการจบการศึกษา หรือใบเทียบวุฒิการศึกษา หรือใบรับรองจากโรงเรียน หรือใบ Predicted grade หรือผลการสอบการเทียบวุฒิ ดังรายละเอียดต่อไปนี้<p>
+                            <p>Remark: *In additional to transcript from school, applicant must provide educational documents according to cases below. <p>
                             <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
                                 <table class="table">
                                     <tr class="table-danger ">
-                                        <td>หากเป็นนักเรียนที่สำเร็จการศึกษาจากโรงเรียนนานาชาติในประเทศไทย</td>
-                                        <td>หากเป็นนักเรียนที่กำลังศึกษาอยู่ในโรงเรียนนานาชาติในประเทศไทย</td>
+                                        <td>Graduated from International School in Thailand </td>
+                                        <td>Studying in International School in Thailand </td>
                                     </tr>
                                     <tr class="">
-                                        <td>→กรณีที่หลักสูตรได้รับการรับรองจากสำนักงานคณะกรรมการส่งเสริมการศึกษาเอกชน (สช.) ต้องมีเอกสารดังต่อไปนี้</td>
-                                        <td>→กรณีที่หลักสูตรได้รับการรับรองจากสำนักงานคณะกรรมการส่งเสริมการศึกษาเอกชน (สช.) ต้องมีเอกสารดังต่อไปนี้</td>
+                                        <td>1) Education programs certified by Office of the Private Education Commission (OPEC), please provide</td>
+                                        <td>1) Education programs certified by Office of the Private Education Commission (OPEC), please provide</td>
                                     </tr>
                                     <tr class="table-danger">
-                                        <td>1.เอกสารการจบการศึกษา (Diploma หรือ Certificate of Secondary School Completion) จากโรงเรียน เช่น IB Diploma หรือ A Level Diploma หรือ High School Diploma เป็นต้น </td>
-                                        <td>1.ใบรับรองจากโรงเรียน (ตามแบบฟอร์มของวิทยาลัยนานาชาติ) และ</td>
+                                        <td>Diploma or Certificate of Secondary School Completion</td>
+                                        <td>a) Recommendation Letter (WUIC form) <br> b) Predicted Grades </td>
                                     </tr>
-                                    <tr class="">
-                                        <td>2.เอกสารแสดงผลการเรียน (Transcript) จากโรงเรีย</td>
-                                        <td>2.ใบ Predicted grade</td>
-                                    </tr>
+                                    
                                     <tr class="table-danger">
-                                        <td>→กรณีที่หลักสูตรไม่ได้รับการรับรองจากสำนักงานคณะกรรมการส่งเสริมการศึกษาเอกเชน (สช.) หรือจากหลักสูตรนานาชาติในต่างประเทศ ต้องมีเอกสารเเช่นเดียวกับกรณีที่หลักสูตรได้รับการรองรับฯ ข้างต้น และ</td>
-                                        <td>→กรณีที่หลักสูตรไม่ได้รับการรับรองจากสำนักงานคณะกรรมการส่งเสริมการศึกษาเอกเชน (สช.) หรือจากหลักสูตรนานาชาติในต่างประเทศ ต้องมีใบรับรองจากโรงเรียน (ตามแบบฟอร์มของวิทยาลัยนานาชาติ) เช่นเดียวกับกรณีที่หลักสูตรได้รับการรองรับฯ ข้างต้น และ</td>
+                                        <td>Education programs not certified by Office of the Private Education Commission (OPEC) or International Program from other countries, please provide</td>
+                                        <td>Education programs not certified by Office of the Private Education Commission (OPEC) or International Program from other countries, must provide Recommendation Letter (WUIC form) and </td>
                                     </tr>
                                     <tr class="">
-                                        <td>1.ใบเทียบวุฒิการศึกษา ฉบับจริง ที่รับรองว่าเทียบวุฒิการศึกษาเท่าการศึกษาขั้นพื้นฐานตามหลักสูตรการศึกษาขั้นพื้นฐานที่ออกจากกระทรวงศึกษาธิการ (ในกรณีที่มี ก่อนประกาศระเบียบกระทรวงศึกษาธิการ ว่าด้วยการปรับปรุงระเบียบกระทรวงศึกษาธิการว่าด้วยการเทียบวุฒิการศึกษาในประเทศและต่างประเทศระดับการศึกษาขั้นพื้นฐาน พ.ศ. 2560 ลงวันที่ 15 กุมภาพันธ์ 2560) (ถ้ามี)</td>
-                                        <td>1.ผลการสอบการเทียบวุฒิต่างๆ ตามระบบที่เรียนอยู่</td>
+                                        <td>- Diploma or Certificate of Secondary School Completion <br> 
+- Original official of High School Certification Equivalence issued by the Thai Ministry of Education. (If applicable) </td>
+                                        <td>c) Original official of High School Certification Equivalence </td>
                                     </tr>
                                 </table>
                             </div>
+
+                            <p>Remark: * If supporting documents are issued in a language other than Thai or English, official translations of them to English are required. Officially certified copies of the original documents must also be submitted.<p>
+
 
                         </div>
                      </div>
