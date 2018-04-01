@@ -143,4 +143,38 @@ class Admission extends CI_Controller {
 		$this->load->view('page/footer');
 		$this->load->view('page/foot');
 	}
+
+	public function round3(){
+		$this->load->helper('url');
+		
+		$data['breadcrumb'] = array(
+		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+		    array("page"=>"Round 3 - Joint Direct Admission", "url"=>base_url()."admission/round3", "icon"=>"fa fa-angle-right")
+		);
+		
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('page/header_page', $data);
+		$this->load->view('admission/round3');
+		$this->load->view('page/news');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+	
+	public function round4(){
+		$this->load->helper('url');
+		
+		$data['breadcrumb'] = array(
+		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+		    array("page"=>"Round 4 - General Admission", "url"=>base_url()."admission/round4", "icon"=>"fa fa-angle-right")
+		);
+		
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('page/header_page', $data);
+		$this->load->view('admission/round4');
+		$this->load->view('page/news');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+    }
 }

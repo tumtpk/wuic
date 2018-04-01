@@ -29,7 +29,7 @@
          <h4 style="color: #f26c21;">Quota</h4>
       </div>
       <div class="static_text2">
-         <p><u>Admission Criteria</u></p>
+      <h4 style="color: #f26c21;">Admission Criteria</h4>
          <p>Students residing in any of Thailand's 14 southern provinces are eligible to apply directly to the university.</p>
          <p>Admission is based upon result of National Test Scores and English Proficiency Test Score with the following criteria and details of selection.</p>
         <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>

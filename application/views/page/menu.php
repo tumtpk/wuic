@@ -41,15 +41,21 @@
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/overall" style="color:white !important;">Admission Period</a>
                      <li class="dropdown-submenu">
-                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 280px;color:white !important;" >Admission Criteria</a>
+                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 100px;color:white !important;" >Admission Criteria</a>
                         <ul class="dropdown-menu">
                            <li class="dropdown-submenu">
-                              <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 280px;color:white !important;">TCAS system’s applicants</a>
+                              <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 200px;color:white !important;">TCAS system’s applicants</a>
                               <ul class="dropdown-menu">
 
                                   <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/quota" style="color:white !important;">
                                     <li>Quota</li>
-                                 </a>
+                                  </a>
+                                  <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round3" style="color:white !important;">
+                                    <li>Round 3 - Joint Direct Admission</li>
+                                  </a>
+                                  <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round4" style="color:white !important;">
+                                    <li>Round 4 - General Admission</li>
+                                  </a>
                               </ul>
                            </li>
                           
