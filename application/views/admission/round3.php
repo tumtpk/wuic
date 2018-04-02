@@ -25,7 +25,7 @@
       </div>
       <div class="static_img">
          <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-         <h4 style="color: #f26c21;">Joint Direct Admission</h4>
+         <h4 style="color: #f26c21;">Round 3 - Joint Direct Admission</h4>
       </div>
       <div class="static_text2">
          <p>Application Submission Period: 9-13 May 2018</p>
