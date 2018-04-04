@@ -29,11 +29,20 @@
                         <h4 style="color: #f26c21;">How To Apply</h4>
                      </div>
                      <div class="static_text2">
-                        <p><b>Application</b></p>
+                        <p><b style="background-color: yellow;">Apply Now !</b></p>
+                        <p><b>Qualifications and Requirements</b></p>
                         <div class="col">
-                            <p>1. Apply via Admission system at  <a href="https://entry.wu.ac.th/inter/">https://entry.wu.ac.th/inter/</a></p>
-                            <p>2. Supporting Documents</p>
-                            <div class="col-md-10 offset-md-1"><p>2.1. A Complete application form with 1”x1” photograph (School/University uniform, taken in the last 6 months)</p></div>
+                            <p>1. Applicants must be high school graduate students or equivalent <br>(or ongoing students who expected to graduate in academic year 2017)</p>
+                            <p>2. Applicants must submit <b>one</b> of the national test scores such as O-NET,<br>GAT/PAT, and Common 9 Subjects.</p>
+                            <p>or</p>
+                            <p>3. Applicants must submit <b>one</b> of the standardize test scores such as SAT I, <br>New SAT I, SAT II, GCSE, IGCSE, or ‘O’ Level ( 5 Subjects) and GCE ‘AS’, or ‘A’ level (3 Subjects) <br>or “A” Level, IB, Sixth Form, and etc.</p>
+                           </div>
+
+                        <p><b>Application Process</b></p>
+                        <div class="col">
+                            <p>1. Register via Admission system at  <a href="https://entry.wu.ac.th/inter/">https://entry.wu.ac.th/inter/</a></p>
+                            <p>2. Submit your supporting documents to email wuic@wu.ac.th</p>
+                            <div class="col-md-10 offset-md-1"><p>2.1. 1”x1” photograph (School/University uniform, taken in the last 6 months)</p></div>
                             <div class="col-md-10 offset-md-1"><p>2.2. A photocopy of official transcript*  </p></div>
                             <div class="col-md-10 offset-md-1"><p>2.3. A photocopy of the Thai national identity card or passport (Non-Thai applicant)</p></div>
                             <div class="col-md-10 offset-md-1"><p>2.4. A photocopy of one’s current residency document</p></div>
@@ -43,12 +52,12 @@
 
                             <br>
                            
-                          
+                           
 
-                            <p>3. Submission of Application Documents</p>
+                            <!-- <p>3. Submission of Application Documents</p>
                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1. On-line submission: application information and all supporting documents must be uploaded to the Admission System website by the deadline.</p>
                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2. Off-line submission: submit application documents by yourself or by post to Center for Educational Services (Admission) Walailak University 222 Thaiburi, Thasala District, Nakhon Si Thammarat 80161 Thailand. All application documents have to be delivered by the deadline (postmark date considered).</p>
-                            <br>
+                            <br> -->
                             <p>Remark: *In additional to transcript from school, applicant must provide educational documents according to cases below. <p>
                             <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
                                 <table class="table">

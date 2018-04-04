@@ -30,6 +30,9 @@
 <!--       </div> -->
 <!--    </div> -->
    <div class="digital_feature p_100" style="padding-top: 50px;padding-bottom: 25px;">
+    <div class="row">  <a href="<?= base_url(); ?>admission/howToApply"><img class="responsive"src="<?= base_url(); ?>public/img/wuic-banner.png" style="width : 1210px; height: 487px;" ></a> 
+    </div>
+    <br><br>
       <div class="row">
          <div class="col-lg-12">
             <div class="d_feature_text">

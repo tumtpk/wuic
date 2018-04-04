@@ -36,6 +36,8 @@
                      	WUIC Scholarships <a href="<?=base_url("public/file/2018-02-21WUICScholarships.pdf") ?>">Click</a><br/>
                      	WUIC Scholarship Recommendation Letter <a href="<?=base_url("public/file/WUIC Scholarship Recommendation Letter.pdf") ?>">Click</a><br/>
                      	Scholarship Application Form <a href="<?=base_url("public/file/WUIC Scholarship form.pdf") ?>">Click</a></span></p>
+                        
+                        <p><b>Sent your documents to email : wuic@wu.ac.th</b></p>
                      </div>
                      
                   </div>
