@@ -30,7 +30,11 @@
 <!--       </div> -->
 <!--    </div> -->
    <div class="digital_feature p_100" style="padding-top: 50px;padding-bottom: 25px;">
-    <div class="row">  <a href="<?= base_url(); ?>admission/howToApply"><img class="responsive"src="<?= base_url(); ?>public/img/wuic-banner.png" style="width : 1210px; height: 487px;" ></a> 
+    <div class="row">  <a href="<?= base_url(); ?>admission/howToApply"><img class="responsive"src="<?= base_url(); ?>public/img/wuic-bannerV2.png" style="width : 100%; height: 100%;" ></a> 
+    <!-- <div class="row"> <img class="responsive"src="<?= base_url(); ?>public/img/wuic-new.jpg" style="width : 50%; height: 100%;padding-left: 15px;" > -->
+   
+    </div>
+
     </div>
     <br><br>
       <div class="row">
@@ -38,7 +42,7 @@
             <div class="d_feature_text">
                <div class="text-center">
                   <div class="col-lg-12 main_title">
-                     <h2>Why Study at Walailak University International College</h2>
+                     <h2>Why Study at Walailak University International College</h2> 
                   </div>
                </div>
                <!-- <p>Public, autonomous, comprehensive and research-focused university with high quality, internationally-oriented curriculums; High quality Thai and …</p> -->

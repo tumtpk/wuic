@@ -43,34 +43,44 @@
                      <li class="dropdown-submenu">
                         <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 100px;color:white !important;" >Admission Criteria</a>
                         <ul class="dropdown-menu">
+                           
+                           <li class="dropdown-submenu">
+                              <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 200px;color:white !important;">Direct Admission</a>
+                              <ul class="dropdown-menu">
+                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/howToApply" style="color:white !important;">
+                                    <li>Direct Admission Round I</li>
+                                 </a>
+                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/internationalStudents" style="color:white !important;">
+                                    <li>International Students</li>
+                                 </a>
+                              
+                              </ul>
+                           </li>
+
                            <li class="dropdown-submenu">
                               <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 200px;color:white !important;">TCAS system’s applicants</a>
                               <ul class="dropdown-menu">
-
-                                  <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/quota" style="color:white !important;">
+                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/quota" style="color:white !important;">
                                     <li>Quota</li>
-                                  </a>
-                                  <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round3" style="color:white !important;">
+                                 </a>
+                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round3" style="color:white !important;">
                                     <li>Round 3 - Joint Direct Admission</li>
-                                  </a>
-                                  <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round4" style="color:white !important;">
+                                 </a>
+                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round4" style="color:white !important;">
                                     <li>Round 4 - General Admission</li>
-                                  </a>
+                                 </a>
                               </ul>
                            </li>
-                          
-                           <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/internationalStudents" style="color:white !important;">
+                           <!-- <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/internationalStudents" style="color:white !important;">
                               <li>International Students and Non TCAS system’s applicants</li>
-                           </a>
+                           </a> -->
                         </ul>
                      </li>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/howToApply" style="color:white !important;">How to apply</a>
-                     
                   </ul>
                </div>
             </li>
-          
-             <li class="nav-item">
+            <li class="nav-item">
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">Programs Offered</a>
                   <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
@@ -80,7 +90,6 @@
                   </div>
                </div>
             </li>
-
             <li class="nav-item">
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">Life on Campus</a>
