@@ -177,4 +177,22 @@ class Admission extends CI_Controller {
 		$this->load->view('page/footer');
 		$this->load->view('page/foot');
     }
+    
+    public function aaaa(){
+        $this->load->helper('url');
+        
+        $data['breadcrumb'] = array(
+            array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+            array("page"=>"About", "url"=>"#", "icon"=>"fa fa-angle-right"),
+            array("page"=>"How To Apply", "url"=>base_url()."admission/howToApply", "icon"=>"fa fa-angle-right")
+        );
+        
+        $this->load->view('page/head');
+        $this->load->view('page/menu');
+        $this->load->view('page/header_page', $data);
+        $this->load->view('admission/test');
+        $this->load->view('page/news');
+        $this->load->view('page/footer');
+        $this->load->view('page/foot');
+    }
 }
