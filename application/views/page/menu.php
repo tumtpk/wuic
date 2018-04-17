@@ -1,5 +1,5 @@
 <!--================Header Menu Area =================-->
-<header class="no-border main_menu_area" style="position:  absolute;background-color: #000000c7;">
+<header class="no-border main_menu_area" style="position:  absolute;background-color: #ffffffff;">
    <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="<?= base_url(); ?>"><img src="<?= base_url(); ?>public/img/logo3.png" style="width : 200px" alt=""></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

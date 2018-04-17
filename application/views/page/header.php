@@ -76,7 +76,12 @@
                      data-responsive_offset="on"
                      data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                      data-textAlign="['center','center','center','center','center','center']">
-                     <a class="bg_btn" href="https://entry.wu.ac.th/" style="background-color: white !important;">Apply now</a>
+                     <!-- <a class="bg_btn" href="https://entry.wu.ac.th/" style="background-color: white !important;">Apply now</a> -->
+                     <!-- <a class="" href="" style="background-color: #f26f28  !important;"></a> -->
+                     <a class="btn btn-primary" href="https://entry.wu.ac.th/" style="background-color: #f26f28  !important; margin: 0px 7px 0px 0px; padding-left: 40px; padding-right: 40px; font-weight: 600;
+    font-size: 13px; text-transform: uppercase; line-height: 36px !important; font-family: "Poppins", sans-serif; width: 160px;
+    height: 46px;" role="button">Apply now</a>
+
                   </div>
                </div>
             </li>
