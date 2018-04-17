@@ -1,4 +1,8 @@
 pk.prateep
 B
 Perm
+<<<<<<< HEAD
 Crazy
+=======
+1
+>>>>>>> branch 'master' of https://github.com/tumtpk/wuic
