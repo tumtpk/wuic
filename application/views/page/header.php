@@ -1,7 +1,7 @@
 <body>
    <!--================Slider Area =================-->
    <section class="main_slider_area">
-      <div id="main_slider" class="rev_slider" data-version="5.3.1.6">
+      <div id="main_slider" class="rev_slider" data-version="5.3.1.6" style="height: 520px !important;">
          <ul>
             <li data-index="rs-2946" data-transition="slidevertical" data-slotamount="1" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1000"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                <!-- MAIN IMAGE -->
@@ -78,7 +78,7 @@
                      data-textAlign="['center','center','center','center','center','center']">
                      <!-- <a class="bg_btn" href="https://entry.wu.ac.th/" style="background-color: white !important;">Apply now</a> -->
                      <!-- <a class="" href="" style="background-color: #f26f28  !important;"></a> -->
-                     <a class="btn btn-primary" href="https://entry.wu.ac.th/" style="background-color: #f26f28  !important; margin: 0px 7px 0px 0px; padding-left: 40px; padding-right: 40px; font-weight: 600;
+                     <a class="btn " href="https://entry.wu.ac.th/" style="background-color: #f26f28  !important; color: white !important; margin: 0px 7px 0px 0px; padding-left: 40px; padding-right: 40px; font-weight: 600;
     font-size: 13px; text-transform: uppercase; line-height: 36px !important; font-family: "Poppins", sans-serif; width: 160px;
     height: 46px;" role="button">Apply now</a>
 

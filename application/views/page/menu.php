@@ -23,13 +23,13 @@
                   </div>
                </div>
                </li> -->
-            <li class="nav-item"><a class="nav-link" href="#" style="font-size: 16px;color: #f96712;">About WUIC</a></li>
+            <li class="nav-item"><a class="nav-link" href="<?= base_url(); ?>" style="font-size: 16px;color: #f96712;">About WUIC</a></li>
             <li class="nav-item">
                <div class="dropdown show" href="#">
                <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">Study at WUIC</a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                      <li class="dropdown-submenu">
-                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 100px;color:white !important;" >Undergraduate</a>
+                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 270px;color:white !important;" >Undergraduate</a>
                         <ul class="dropdown-menu">
                             <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital" style="color:white !important;">B.Eng. (Digital Innovation Engineering)</a>
                      		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs" style="color:white !important;">B.A. (Public Affairs)</a>

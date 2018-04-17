@@ -25,7 +25,7 @@
     color: #212529;
     text-align: left;
     list-style: none;
-    background-color: rgba(0, 0, 0, 0.5) !important;
+    background-color: rgba(0, 0, 0, 0.85) !important;
     background-clip: padding-box;
     border: 1px solid rgba(0,0,0,.15);
     border-radius: .25rem;
@@ -135,4 +135,10 @@ body {
 
 .f_w_title {
     padding-bottom: 0px !important;
+}
+
+.maincontent {
+    height: 520px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
