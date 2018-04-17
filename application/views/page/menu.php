@@ -7,7 +7,7 @@
       <span></span>
       <span></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent" style="font-size: 32px;">
+      <div class="collapse navbar-collapse" id="navbarSupportedContent" style="font-size: 32px;text-align:  left;margin-left: 100px;">
          <ul class="navbar-nav mr-auto">
             <!-- <li class="nav-item">
                <div class="dropdown show" href="#">
@@ -23,18 +23,26 @@
                   </div>
                </div>
                </li> -->
+            <li class="nav-item"><a class="nav-link" href="#" style="font-size: 16px;color: #f96712;">About WUIC</a></li>
             <li class="nav-item">
                <div class="dropdown show" href="#">
-                  <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">Study at WUIC</a>
-                  <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
+               <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">Study at WUIC</a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                     <li class="dropdown-submenu">
+                        <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 100px;color:white !important;" >Undergraduate</a>
+                        <ul class="dropdown-menu">
+                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital" style="color:white !important;">B.Eng. (Digital Innovation Engineering)</a>
+                     		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs" style="color:white !important;">B.A. (Public Affairs)</a>
+                     		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic" style="color:white !important;">B.B.A. (Logistics Analytics and Supply Chain Management)</a>
+                        </ul>
+                     </li>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/academicCalendar" style="color:white !important;">Academic calendar</a>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/tuition" style="color:white !important;">Tuition & Fees</a>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/scholarships" style="color:white !important;">Undergraduate Excellent Scholarship</a>
-                     <!-- <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/scholarships">Scholarships</a> -->
-                     <!-- <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/intership">Internship Courses</a> -->
-                  </div>
+                  </ul>
                </div>
             </li>
+            
             <li class="nav-item">
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">Admission</a>
@@ -80,16 +88,7 @@
                   </ul>
                </div>
             </li>
-            <li class="nav-item">
-               <div class="dropdown show" href="#">
-                  <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">Programs Offered</a>
-                  <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital" style="color:white !important;">B.Eng. (Digital Innovation Engineering)</a>
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs" style="color:white !important;">B.A. (Public Affairs)</a>
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic" style="color:white !important;">B.B.A. (Logistics Analytics and Supply Chain Management)</a>
-                  </div>
-               </div>
-            </li>
+            
             <li class="nav-item">
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">Life on Campus</a>
