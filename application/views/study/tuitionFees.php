@@ -41,9 +41,9 @@
                             </tr>
                             <tr  style="background-color: #f38448; text-align: center;">
                               <th>Tuition Fees</th>
-                              <th>Extra Fees</th>
+                              <th>Extra Fees*</th>
                               <th>Tuition Fees</th>
-                              <th>Extra Fees</th>
+                              <th>Extra Fees*</th>
                             </tr>
                           </thead>
                           <tbody>
@@ -55,7 +55,7 @@
                               <td>97,500 <br/> (3,083 USD)</td>
                             </tr>
                             <tr>
-                              <td class="text-left" style="vertical-align:  middle !important;">B.Eng. (Public Affairs)</td>
+                              <td class="text-left" style="vertical-align:  middle !important;">B.A. (Public Affairs)</td>
                               <td>45,000 <br/> (1,423 USD) </td>
                               <td>17,500 <br/> (553 USD) </td>
                               <td>45,000 <br/> (1,423 USD) </td>
@@ -71,8 +71,11 @@
                           </tbody>
                         </table>
                         
-                        <p><small>* Foreign Exchange Rates as of 23 February 2018: 31.63 Baht/US Dollar</small><br/>
-                        <small>* All fees in USD are based on currency rates of exchange in effect at the time of printing. Prices are subject to change due to the currency rates</small></p>
+                        <p>
+                            <small> Foreign Exchange Rates as of 23 February 2018: 31.63 Baht/US Dollar.</small><br/><br/>
+                            <small> All fees in USD are based on currency rates of exchange in effect at the time of printing. Prices are subject to change due to the currency rates.</small><br><br>
+                            <small>* This fee include charges for Extra-curricular activities, laboratories, library, computer facilities, sport center, In-campus transportation, medical service and group insurance.</small>
+                        </p>
                         
                      </div>
                   </div>

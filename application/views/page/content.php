@@ -29,13 +29,7 @@
 <!--          </div> -->
 <!--       </div> -->
 <!--    </div> -->
-   <div class="digital_feature p_100" style="padding-top: 50px;padding-bottom: 25px;">
-    <div class="row">  <a href="<?= base_url(); ?>admission/howToApply"><img class="responsive"src="<?= base_url(); ?>public/img/wuic-bannerV2.png" style="width : 100%; height: 100%;" ></a> 
-    <!-- <div class="row"> <img class="responsive"src="<?= base_url(); ?>public/img/wuic-new.jpg" style="width : 50%; height: 100%;padding-left: 15px;" > -->
    
-    </div>
-
-    </div>
     <br><br>
       <div class="row">
          <div class="col-lg-12">

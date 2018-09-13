@@ -1,7 +1,7 @@
 <body>
    <!--================Slider Area =================-->
    <section class="main_slider_area">
-      <div id="main_slider" class="rev_slider" data-version="5.3.1.6" style="height: 520px !important;">
+      <div id="main_slider" class="rev_slider" style="height: 520px !important;">
          <ul>
             <li data-index="rs-2946" data-transition="slidevertical" data-slotamount="1" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1000"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                <!-- MAIN IMAGE -->

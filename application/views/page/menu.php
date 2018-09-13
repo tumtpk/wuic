@@ -34,6 +34,7 @@
                             <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital" style="color:white !important;">B.Eng. (Digital Innovation Engineering)</a>
                      		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs" style="color:white !important;">B.A. (Public Affairs)</a>
                      		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic" style="color:white !important;">B.B.A. (Logistics Analytics and Supply Chain Management)</a>
+                     		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/laws" style="color:white !important;">LL.B. (Bachelor of Laws)</a>
                         </ul>
                      </li>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/academicCalendar" style="color:white !important;">Academic calendar</a>
@@ -50,38 +51,11 @@
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/overall" style="color:white !important;">Admission Period</a>
                      <li class="dropdown-submenu">
                         <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 100px;color:white !important;" >Admission Criteria</a>
-                        <ul class="dropdown-menu">
-                           
-                           <li class="dropdown-submenu">
-                              <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 200px;color:white !important;">Direct Admission</a>
-                              <ul class="dropdown-menu">
-                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/howToApply" style="color:white !important;">
-                                    <li>Direct Admission Round I</li>
-                                 </a>
-                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/internationalStudents" style="color:white !important;">
-                                    <li>International Students</li>
-                                 </a>
-                              
-                              </ul>
-                           </li>
-
-                           <li class="dropdown-submenu">
-                              <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 200px;color:white !important;">TCAS system’s applicants</a>
-                              <ul class="dropdown-menu">
-                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/quota" style="color:white !important;">
-                                    <li>Quota</li>
-                                 </a>
-                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round3" style="color:white !important;">
-                                    <li>Round 3 - Joint Direct Admission</li>
-                                 </a>
-                                 <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round4" style="color:white !important;">
-                                    <li>Round 4 - General Admission</li>
-                                 </a>
-                              </ul>
-                           </li>
-                           <!-- <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/internationalStudents" style="color:white !important;">
-                              <li>International Students and Non TCAS system’s applicants</li>
-                           </a> -->
+                     	<ul class="dropdown-menu">
+                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/directadmission" style="color:white !important;">Direct Admission</a>
+                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/quota" style="color:white !important;">TCAS Quota</a>
+                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round3" style="color:white !important;">TCAS Round 3 - Joint Direct Admission</a>
+                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round4" style="color:white !important;">TCAS Round 4 - General Admission</a>
                         </ul>
                      </li>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/howToApply" style="color:white !important;">How to apply</a>

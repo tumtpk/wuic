@@ -28,14 +28,13 @@
          <h4 style="color: #f26c21;">Admission Period</h4>
          <br>
          <div class="static_text">
-            <p><b>Direct Admission (Round I)</b>&nbsp;<a href="<?= base_url(); ?>admission/howToApply"><b style="background-color: yellow; color: black;">click</b></a></p>
+            <p><b>Direct Admission (Round I)</b>&nbsp;<a href="<?= base_url(); ?>admission/howToApply"><b style="background-color: yellow; color: black;">Opening Now!</b></a></p>
             <p>Thai and Non-Thai students can now apply to WUIC directly from now to May 20, 2018</p>
          </div>
       </div>
       <div class="static_text">
-
-         <p>Aside from Admission Period follows&nbsp;<span style="color: #f26c21;"><strong>Thai University Central Admission System (TCAS) </strong></span> as shown below.</p>
-         <p>WUIC accepts applications from <span style="color: #f26c21;"><strong>internation students </strong></span> from now until July 2018</p>
+			<p><b>TCAS 2018</b></p>
+            <p>Admission Period follows Thai University Central Admission System (TCAS):</p>
       </div>
       <table class="table table-bordered table-hover" style="height: 211px;" width="646">
          <tbody>
@@ -65,7 +64,7 @@
             <tr>
                <td style="text-align: center;">4</td>
                <td>General Admission</td>
-               <td>6-10 June 2018</td>
+               <td>12-16 June 2018</td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
                <td style="text-align: center;">5</td>

@@ -45,7 +45,7 @@
                             <aside class="f_widget subscribe_widget">
                             	<ul style="padding-top: 0px !important;">
                                 <div class="f_w_title">
-                                    <h3>Jobs</h3>
+                                    <a href="<?=base_url("workwithus") ?>"><h3>Work with Us</h3></a>
                                 </div>
                               	</ul>
                                 

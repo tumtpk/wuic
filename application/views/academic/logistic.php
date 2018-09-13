@@ -44,7 +44,7 @@
                             </div>
                       	</div>
                         <p>The program emphasizes graduates with a basic knowledge of analytics, planning and best practice of management. Students are trained to use decision making processes that utilize information to serve the needs of logistics and supply chains of local and international markets. Awareness of change in the logistic and business environment, adept at skills used, active learning. Ethical and social responsibility are simultaneously taught throughout the courses.</p><br>
-                        <p><b style="color: #f26c21;">Careers</b></p>
+                        <p><b style="color: #f26c21;">Career path</b></p>
                         <h6>Analyzer, planner and designer in Logistics </h6>
                         <div class="col-md">
                             <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Supply chain planner and designer</p>
@@ -70,6 +70,26 @@
                             <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Import and export company</p>
                             <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Logistics provider</p>
                             <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Transportation Agent / Logistics service provider</p>
+                        </div>
+                        <br>
+                        <hr style="color: #f26c21;">
+						<br>
+						<p class="text-center"><b style="color: #f26c21; font-size:20px">Faculty Members</b></p>
+                        <div class="row text-center" style="font-size: 12px">
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4420240321" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/LOG/01.png" width="150px"><br>
+                            		Dr. Panida Chamchang</a><br>
+                            		<i class="fa fa-envelope-o"></i> ppanida@wu.ac.th<br>
+                            </div>
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://www.misi.edu.my/misi2016-v2/about/faculty/dr-albert-tan/" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/LOG/02.Dr.Albert.jpg" width="150px"><br>
+                            		Visiting Professor<br>
+                            		Assoc. Prof. Dr. Albert Tan</a><br>
+                            		Malaysia Institute for Supply Chain Innovation<br>
+                            		<i class="fa fa-envelope-o"></i> albtan@mit.edu<br>
+                            </div>
                         </div>
                     </div>
                   </div>

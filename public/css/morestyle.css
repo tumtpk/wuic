@@ -137,8 +137,8 @@ body {
     padding-bottom: 0px !important;
 }
 
-.maincontent {
-    height: 520px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+@media (max-width: 991px){
+	.navbar-toggler > span {
+		background: #636363 !important;
+	}
 }

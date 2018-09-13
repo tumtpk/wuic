@@ -29,15 +29,6 @@
                         <h4 style="color: #f26c21;">How To Apply</h4>
                      </div>
                      <div class="static_text2">
-                        <p><b style="background-color: yellow;">Apply Now !</b></p>
-                        <p><b>Qualifications and Requirements</b></p>
-                        <div class="col">
-                            <p>1. Applicants must be high school graduate students or equivalent <br>(or ongoing students who expected to graduate in academic year 2017)</p>
-                            <p>2. Applicants must submit <b>one</b> of the national test scores such as O-NET,<br>GAT/PAT, and Common 9 Subjects.</p>
-                            <p>or</p>
-                            <p>3. Applicants must submit <b>one</b> of the standardize test scores such as SAT I, <br>New SAT I, SAT II, GCSE, IGCSE, or ‘O’ Level ( 5 Subjects) and GCE ‘AS’, or ‘A’ level (3 Subjects) <br>or “A” Level, IB, Sixth Form, and etc.</p>
-                           </div>
-
                         <p><b>Application Process</b></p>
                         <div class="col">
                             <p>1. Register via Admission system at  <a href="https://entry.wu.ac.th/inter/">https://entry.wu.ac.th/inter/</a></p>
@@ -61,28 +52,41 @@
                             <p>Remark: *In additional to transcript from school, applicant must provide educational documents according to cases below. <p>
                             <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
                                 <table class="table">
-                                    <tr class="table-danger ">
-                                        <td>Graduated from International School in Thailand </td>
-                                        <td>Studying in International School in Thailand </td>
-                                    </tr>
-                                    <tr class="">
-                                        <td>1) Education programs certified by Office of the Private Education Commission (OPEC), please provide</td>
-                                        <td>1) Education programs certified by Office of the Private Education Commission (OPEC), please provide</td>
-                                    </tr>
-                                    <tr class="table-danger">
-                                        <td>Diploma or Certificate of Secondary School Completion</td>
-                                        <td>a) Recommendation Letter (WUIC form) <br> b) Predicted Grades </td>
-                                    </tr>
-                                    
-                                    <tr class="table-danger">
-                                        <td>Education programs not certified by Office of the Private Education Commission (OPEC) or International Program from other countries, please provide</td>
-                                        <td>Education programs not certified by Office of the Private Education Commission (OPEC) or International Program from other countries, must provide Recommendation Letter (WUIC form) and </td>
-                                    </tr>
-                                    <tr class="">
-                                        <td>- Diploma or Certificate of Secondary School Completion <br> 
-- Original official of High School Certification Equivalence issued by the Thai Ministry of Education. (If applicable) </td>
-                                        <td>c) Original official of High School Certification Equivalence </td>
-                                    </tr>
+                                    <tr style="background-color: #f38448;text-align: center;">
+                                        <td width="312"><strong>Case 1: Graduated from International School in Thailand</strong></td>
+                                        <td width="312"><strong>Case 2: Studying in International School in Thailand </strong></td>
+                                        </tr>
+                                        <tr>
+                                        <td width="312"><strong>1)</strong><strong> Education programs certified by Office of the Private Education Commission (OPEC),</strong><br/>
+                                        
+                                        please provide<br/>
+                                        
+                                        - Diploma or Certificate of Secondary School Completion
+                                        </td>
+                                        <td width="312"><strong>1) Education programs certified by Office of the Private Education Commission (OPEC),</strong><br/>
+                                        
+                                        please provide<br/>
+                                        
+                                        - Recommendation Letter (WUIC form)<br/>
+                                        
+                                        - Predicted Grades</td>
+                                        </tr>
+                                        <tr>
+                                        <td width="312"><strong>2) </strong><strong>Education programs not certified by Office of the Private Education Commission (OPEC) or International Program from other countries</strong>,<br/>
+                                        
+                                        please provide<br/>
+                                        
+                                        - Diploma or Certificate of Secondary School Completion<br/>
+                                        
+                                        - Original official of High School Certification Equivalence issued by the Thai Ministry of Education. (If applicable)</td>
+                                        <td width="312"><strong>2) Education programs not certified by Office of the Private Education Commission (OPEC) or International Program from other countries, </strong><br/>
+                                        
+                                        must provide<br/>
+                                        
+                                        - Recommendation Letter (WUIC form) and<br/>
+                                        
+                                        - Original official of High School Certification Equivalence</td>
+									</tr>
                                 </table>
                             </div>
 

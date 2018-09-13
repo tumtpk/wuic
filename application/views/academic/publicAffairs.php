@@ -37,7 +37,7 @@
                         <h6>Majors</h6>
                         <p>1. Public Policy and Global Affairs</p>
                         <p>2. Public Governance</p><br>
-                        <p><b style="color: #f26c21;">Careers</b></p>
+                        <p><b style="color: #f26c21;">Career path</b></p>
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> International organization/overseas officer</p>
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Independent organization officers</p>
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Diplomat</p>
@@ -46,6 +46,47 @@
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Research and development Projects officers</p>
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Academic officers</p>
                         <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Administrative officers</p>
+                    	<br>
+                    	<hr style="color: #f26c21;">
+						<br>
+						<p class="text-center"><b style="color: #f26c21; font-size:20px">Faculty Members</b></p>
+                    	<div class="row text-center" style="font-size: 12px">
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=5900000032" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/PA/01.ศ.ดร.สมบัติ.png" width="150px"><br>
+                            		Prof. Dr. Sombat Thamrongthanyawong</a><br>
+                            		<i class="fa fa-envelope-o"></i> sombat.th@wu.ac.th<br>
+                            </div>
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=5900000012" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/PA/02.5900000012.png" width="150px"><br>
+                            		Assoc. Prof. Dr. Surin Maisrikrod</a><br>
+                            		<i class="fa fa-envelope-o"></i> surin.ma@wu.ac.th<br>
+                            </div>
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=6100000187" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/PA/03.Prof.Dr.Ivan Bimbilovski.jpg" width="150px"><br>
+                            		Lecturer<br>
+                            		Prof. Dr. Ivan Bimbilovski</a><br>
+                            		<i class="fa fa-envelope-o"></i> ivan.bi@wu.ac.th<br>
+                            </div>
+                        </div>
+                        <div class="row text-center" style="font-size: 12px">
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=6100000077" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/PA/04.Dr.Boontawee.jpg" width="150px"><br>
+                            		Dr. Boontawee Teamvan</a><br>
+                            		<i class="fa fa-envelope-o"></i> boontawee.te@wu.ac.th<br>
+                            </div>
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="https://kupa.korea.edu/kupaeng/professor/fulltime.do" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/PA/empty.jpg" width="150px"><br>
+                            		Visiting Professor<br>
+                            		Professor Dr. Heungsuk Choi</a><br>
+                            		Korea University<br>
+                            		<i class="fa fa-envelope-o"></i> hschoi@korea.ac.kr<br>
+                            </div>
+                        </div>
                     </div>
                   </div>
                </div>

@@ -25,7 +25,7 @@
                      </div>
                      <div class="static_img">
 <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-                        <h4 style="color: #f26c21;">Undergraduate Excellence Scholarships</h4>
+                        <h4 style="color: #f26c21;">Undergraduate Excellence Scholarships <span style="color: blue"> - Expired Call</span></h4>
                      </div>
                      <br>
                      <div class="static_text2">

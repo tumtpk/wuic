@@ -59,4 +59,21 @@ class News extends CI_Controller {
         $this->load->view('page/foot');
     }
     
+    public function scholarships2(){
+        $this->load->helper('url');
+        
+        $data['breadcrumb'] = array(
+            array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+            array("page"=>"Second Call for Full Fees Waiver Scholarships", "url"=>base_url()."news/scholarships2", "icon"=>"fa fa-angle-right")
+        );
+        
+        $this->load->view('page/head');
+        $this->load->view('page/menu');
+        $this->load->view('page/header_page', $data);
+        $this->load->view('news/006');
+        $this->load->view('page/news');
+        $this->load->view('page/footer');
+        $this->load->view('page/foot');
+    }
+    
 }

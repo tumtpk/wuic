@@ -25,6 +25,12 @@
 
         <script src="<?= base_url(); ?>public/js/theme.js"></script>
         <script src="<?= base_url(); ?>public/js/sub-dropdown.js"></script>
+        
+        <script>
+        	$('.carousel').carousel({
+        	  interval: 2000
+        	})
+        </script>
 
     </body>
 </html>
