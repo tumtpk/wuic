@@ -2,7 +2,7 @@
    <!--================Static Area =================-->
    <section class="static_area">
    <p class="pblade">
-			<?php 
+			<?php
             if(isset($breadcrumb)){
                 if(sizeof($breadcrumb) > 0){
                      foreach ($breadcrumb as $array){
@@ -55,7 +55,7 @@
                             	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=6100000297" data-width="1200" data-height="1200"><br>
                             	<img class="image" src="<?=base_url() ?>public/img/lecturer/LLB/Marsin.jpg" width="150px"><br>
                             		Assistance Professor Dr.Marcin Drobnik</a><br>
-                            		<i class="fa fa-envelope-o"></i> L.Fung@murdoch.edu.au<br>
+                            		<i class="fa fa-envelope-o"></i> marcin.dr@wu.ac.th<br>
                             </div>
                             <div class="col-lg-4"><br>
                             	<img class="image" src="<?=base_url() ?>public/img/lecturer/PA/empty.jpg" width="150px"><br>
@@ -77,4 +77,3 @@
                      </div>
                   </div>
                </div>
-               
