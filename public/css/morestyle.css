@@ -142,3 +142,12 @@ body {
 		background: #636363 !important;
 	}
 }
+
+#main_slider{
+	background-image: url("/public/img/home-slider/slider-2.jpg");
+	background-size: cover;
+}
+
+.d-block{
+	width: 80%;
+}
