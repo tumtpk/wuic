@@ -25,19 +25,23 @@
                      </div>
                      <div class="static_img">
 <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-                        <h4 style="color: #f26c21;">Undergraduate Excellence Scholarships <span style="color: blue"> - Expired Call</span></h4>
+                        <h4 style="color: #f26c21;">Undergraduate Excellence Scholarships</h4>
                      </div>
                      <br>
                      <div class="static_text2">
-                     	<p>The WUIC Undergraduate Excellent Scholarships program aims to encourage the admission of students possessing excellent academic records and also to encourage scholarship recipients to make satisfactory academic progress towards the completion of their 4 years degree.</p>
-                        <p>WUIC offers a number of full and partial scholarships to qualified students. </p>
+                     	<p>Walailak University International College (WUIC) offers full and partial Tuition Waiver Scholarships for the admission of students with excellent academic records. The application period also opens on this date for students wishing to apply for bachelor's programs for the second semester.</p>
+                        <p>The scholarship scheme is for students to study for their 4-year Bachelor’s Degree in the following international programs, starting from the 2<sup>nd</sup> semester, Academic Year 2018 (January – July 2019).</p>
+                     	<p style="margin-left: 30px"><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Bachelor of Business Administration program in Logistics Analytics and Supply Chain Management (B.B.A.)</p>
+                     	<p style="margin-left: 30px"><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Bachelor of Engineering program in Digital Innovation Engineering (B.Eng.)</p>
+                     	<p style="margin-left: 30px"><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Bachelor of Laws program in Legal Applications (LL.B.)</p>
+                     	
+                     	<p>The deadline for the applications for scholarship is on 22<sup>nd</sup> October 2018.  Interested person, can submit the application and required documents online directly to Walailak University International College (WUIC) via E-mail: <strong>wuic.admissions@mail.wu.ac.th</strong></p>
                      	<p><b>Download :</b> <br/><span style="font-size: 14px">
                      	
-                     	WUIC Scholarships <a href="<?=base_url("public/file/2018-02-21WUICScholarships.pdf") ?>">Click</a><br/>
-                     	WUIC Scholarship Recommendation Letter <a href="<?=base_url("public/file/WUIC Scholarship Recommendation Letter.pdf") ?>">Click</a><br/>
-                     	Scholarship Application Form <a href="<?=base_url("public/file/WUIC Scholarship form.pdf") ?>">Click</a></span></p>
+                     	WUIC Scholarships <a href="<?=base_url("public/file/Revised_Scholarship Call - September 2018.pdf") ?>">Click</a><br/>
+                     	Scholarship Application Form <a href="<?=base_url("public/file/WUIC Scholarship form_2.pdf") ?>">Click</a></span></p>
                         
-                        <p><b>Sent your documents to email : wuic@wu.ac.th</b></p>
+                        <p><b>Sent your documents to email : wuic.admissions@mail.wu.ac.th</b></p>
                      </div>
                      
                   </div>

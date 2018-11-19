@@ -22,10 +22,12 @@ class Main extends CI_Controller {
 	public function index()
 	{
 		$this->load->helper('url');
+		$this->load->model("news");
+		$data["news"] = $this->news->getLNews();
 		$this->load->view('page/head');
 		$this->load->view('page/menu');
 		$this->load->view('page/header');
-		$this->load->view('page/content');
+		$this->load->view('page/content', $data);
 		$this->load->view('page/footer');
 		$this->load->view('page/foot');
 	}

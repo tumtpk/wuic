@@ -74,7 +74,7 @@
                         <p>
                             <small> Foreign Exchange Rates as of 23 February 2018: 31.63 Baht/US Dollar.</small><br/><br/>
                             <small> All fees in USD are based on currency rates of exchange in effect at the time of printing. Prices are subject to change due to the currency rates.</small><br><br>
-                            <small>* This fee include charges for Extra-curricular activities, laboratories, library, computer facilities, sport center, In-campus transportation, medical service and group insurance.</small>
+                            <small>* This fee include charges for Extra-curricular activities, laboratories, library, computer facilities, sport center, In-campus transportation, medical service and group acident insurance.</small>
                         </p>
                         
                      </div>

@@ -1,58 +1,32 @@
 <!--================Creative Feature Area =================-->
 <section class="creative_feature_area">
    <div class="container">
-<!--    <div class="c_feature_box"> -->
-<!--       <div class="row"> -->
-<!--          <div class="col-lg-4"> -->
-<!--             <div class="c_box_item"> -->
-               
-<!--                   <h4><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Bachelor of Engineering</h4> -->
-<!--                </a> -->
-<!--                <p>Digital Innovation Engineering - This program aims to produce graduates who inspire to change the digital world through innovative designs of applications and how they interact with humans worldwide.</p> -->
-<!--             </div> -->
-<!--          </div> -->
-<!--          <div class="col-lg-4"> -->
-<!--             <div class="c_box_item"> -->
-             
-<!--                   <h4><i class="fa fa-clock-o" aria-hidden="true"></i> Bachelor of Arts</h4> -->
-<!--                </a> -->
-<!--                <p>Public Affairs - This program aims to produce graduates with a globalization mindset. Able to quickly respond to the global changes consciously and through positive thinking. Commitment to self-development and transformational leadership through creative innovation in order to provide a competitive advantage in public affairs.</p> -->
-<!--             </div> -->
-<!--          </div> -->
-<!--          <div class="col-lg-4"> -->
-<!--             <div class="c_box_item"> -->
-            
-<!--                   <h4><i class="fa fa-diamond" aria-hidden="true"></i> Bachelor of Business Administration</h4> -->
-<!--                </a> -->
-<!--                <p>Logistics Analytics and Supply Chain Management - The program emphasizes graduates with a basic knowledge of analytics, planning and best practice of management. </p> -->
-<!--             </div> -->
-<!--          </div> -->
-<!--       </div> -->
-<!--    </div> -->
    
-    <br><br>
-     <div class="row">
-     	<div class="col-lg-12">
-     		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-              <div class="carousel-inner" style="text-align:  -webkit-center;">
+    <br/><br/>
+    
+    <div class="row">
+        <div class="col-md-12" style="text-align: -webkit-center">
+        	<div id="carousel-slide" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#slide" data-slide-to="0" class="active"></li>
+                <li data-target="#slide" data-slide-to="1"></li>
+              </ol>
+              <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img class="d-block" src="<?=base_url("/public/img/banner/wuic-EN.jpg");?>">
+                	<a href="<?=base_url("study/scholarships");?>">
+                  		<img class="d-block w-100" src="<?=base_url("public/img/banner/wuic-EN.jpg"); ?>" style="width:80% !important">
+                	</a>
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block" src="<?=base_url("/public/img/banner/wuic-th.jpg");?>">
+                	<a href="<?=base_url("study/scholarships");?>">
+                 	 	<img class="d-block w-100" src="<?=base_url("public/img/banner/wuic-th.jpg"); ?>" style="width:80% !important">
+                	</a>
                 </div>
               </div>
-              <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
             </div>
-     	</div>
-     </div>
+        </div>
+    </div>
+     
       <div class="row">
          <div class="col-lg-12">
             <div class="d_feature_text">
@@ -160,68 +134,70 @@
       </div>
    </div>
    <div class="digital_feature p_100" style="padding-top: 20px;padding-bottom: 10px;">
-      <div class="row">
-         <div class="col-lg-12">
-            <div class="d_feature_text">
-               <div class="text-center">
-                  <div class="col-lg-12 main_title">
-                     <h2>Visiting Professors</h2>
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-12">
+               <div class="d_feature_text">
+                  <div class="text-center">
+                     <div class="col-lg-12 main_title">
+                        <h2>Visiting Professors</h2>
+                     </div>
                   </div>
-               </div>
-               <!-- <p>Public, autonomous, comprehensive and research-focused university with high quality, internationally-oriented curriculums; High quality Thai and …</p> -->
-               <!-- <a class="read_btn" href="#">Read more</a> -->
-               <div class="row">
-                  <div class="col-md-3">
-                  	<a href="https://en.wikipedia.org/wiki/Anthony_Finkelstein">
-                  	<div class="card">
-                     	<div class="card-body">
-                            <!-- <h5 class="card-title">Special title treatment</h5> -->
-                        	<div class="text-center">
-                           		<img src="<?= base_url(); ?>public/img/profressor/1.jpg" style="width: 100%;" alt="">
-                        	</div><br/>
-                        	<p class="card-text text-center">Professor Dr. Anthony Finkelstein</p>
-                     	</div>
-                  	</div>
-                  	</a>
-                  </div>
-                  <div class="col-md-3">
-                  	<a href="http://profiles.murdoch.edu.au/myprofile/lance-fung/">
-                  	<div class="card">
-                     	<div class="card-body">
-                            <!-- <h5 class="card-title">Special title treatment</h5> -->
-                        	<div class="text-center">
-                           		<img src="<?= base_url(); ?>public/img/profressor/2.jpg" style="width: 100%;" alt="">
-                        	</div><br/>
-                        	<p class="card-text text-center">Professor Dr. Lance Fung </p>
-                     	</div>
-                  	</div>
-                  	</a>
-                  </div>
-                  <div class="col-md-3">
-                  	<a href="http://www.cpce-polyu.edu.hk/about-cpce/staff-directory/cpce/professor-peter-p-yuen">
-                  	<div class="card">
-                     	<div class="card-body">
-                            <!-- <h5 class="card-title">Special title treatment</h5> -->
-                        	<div class="text-center">
-                           		<img src="<?= base_url(); ?>public/img/profressor/3.jpg" style="width: 100%;" alt="">
-                        	</div><br/>
-                        	<p class="card-text text-center">Professor Dr. Peter Yuen</p>
-                     	</div>
-                  	</div>
-                  	</a>
-                  </div>
-                  <div class="col-md-3">
-                  	<a href="https://www.mdx.ac.uk/about-us/our-people/staff-directory/profile/raimondi-franco">
-                  	<div class="card">
-                     	<div class="card-body">
-                            <!-- <h5 class="card-title">Special title treatment</h5> -->
-                        	<div class="text-center">
-                           		<img src="<?= base_url(); ?>public/img/profressor/4.jpg" style="width: 100%;" alt="">
-                        	</div><br/>
-                        	<p class="card-text text-center">Professor Dr. Franco Raimondi</p>
-                     	</div>
-                  	</div>
-                  	</a>
+                  <!-- <p>Public, autonomous, comprehensive and research-focused university with high quality, internationally-oriented curriculums; High quality Thai and …</p> -->
+                  <!-- <a class="read_btn" href="#">Read more</a> -->
+                  <div class="row">
+                     <div class="col-md-3">
+                        <a href="https://en.wikipedia.org/wiki/Anthony_Finkelstein">
+                        <div class="card">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                    <img src="<?= base_url(); ?>public/img/profressor/1.jpg" style="width: 100%;" alt="">
+                              </div><br/>
+                              <p class="card-text text-center">Professor Dr. Anthony Finkelstein</p>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
+                     <div class="col-md-3">
+                        <a href="http://profiles.murdoch.edu.au/myprofile/lance-fung/">
+                        <div class="card">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                    <img src="<?= base_url(); ?>public/img/profressor/2.jpg" style="width: 100%;" alt="">
+                              </div><br/>
+                              <p class="card-text text-center">Professor Dr. Lance Fung </p>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
+                     <div class="col-md-3">
+                        <a href="http://www.cpce-polyu.edu.hk/about-cpce/staff-directory/cpce/professor-peter-p-yuen">
+                        <div class="card">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                    <img src="<?= base_url(); ?>public/img/profressor/3.jpg" style="width: 100%;" alt="">
+                              </div><br/>
+                              <p class="card-text text-center">Professor Dr. Peter Yuen</p>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
+                     <div class="col-md-3">
+                        <a href="https://www.mdx.ac.uk/about-us/our-people/staff-directory/profile/raimondi-franco">
+                        <div class="card">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                    <img src="<?= base_url(); ?>public/img/profressor/4.jpg" style="width: 100%;" alt="">
+                              </div><br/>
+                              <p class="card-text text-center">Professor Dr. Franco Raimondi</p>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
                   </div>
                </div>
             </div>
@@ -321,40 +297,53 @@
          <h2>News/Events</h2>
       </div>
       <div class="l_news_inner">
-         <div class="row">
-            <div class="col-lg-4 col-md-4">
-               <div class="l_news_item">
-                  <div class="l_news_img"><iframe width="350" height="220" src="https://www.youtube.com/embed/iK5i3tgY1d8"></iframe></div>
-                  <div class="l_news_content">
-                    
-                         <a class="more_btn" href="<?= base_url(); ?>news/page/002" style="text-decoration: blink;"><h4>ผงาด 3 วิทยาลัยนานาชาติมหาวิทยาลัยวลัยลักษณ์ พร้อม (29 ม.ค.61) บ่ายนี้มีคำตอบ</h4></a>
-                    
-                     <p>รายการ บ่ายนี้มีคำตอบ ตอน "ผงาด 3 วิทยาลัยนานาชาติ มหาวิทยาลัยวลัยลักษณ์ พร้อม!!!" ออกอากาศสด เมื่อวันจันทร์ที่ 29 มกราคม 2561 เวลา 13.00 -13.35 น. ทางสถานีโทรทัศน์ไทยทีวีสี ช่อง 9 อสมท. ...</p>
-                     <a class="more_btn" href="<?= base_url(); ?>news/page/002">Read More</a>
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-9">
+                  <div class="row">
+                  <?php for($i=0; $i<4; $i++){ ?>
+                     <div class="col-lg-3">
+                        <div class="card">
+                           <img class="card-img-top" src="<?=$news[$i]["picture"]?>">
+                           <div class="card-body">
+                              <p class="card-title title" title="<?=$news[$i]["title"]?>"><strong><?=title($news[$i]["title"])?></strong></p>
+                              <p class="card-text"><?=content($news[$i]["content"])?> Read More</p>
+                           </div>
+                        </div>
+                     </div>
+                  <?php } ?>
+                  </div>
+                  <div class="row">
+                  <?php for($i=4; $i<6; $i++){ ?>
+                     <div class="col-md-6">
+                        <div class="card">
+                           <div class="row">
+                              <div class="col-md-4">
+                                 <img class="image-content" src="<?=$news[$i]["picture"]?>">
+                              </div>
+                              <div class="col-md-8">
+                                 <strong title="<?=$news[$i]["title"]?>"><strong><?=title($news[$i]["title"])?></strong></strong>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  <?php } ?>
                   </div>
                </div>
-            </div>
-            <div class="col-lg-4 col-md-4">
-               <div class="l_news_item">
-                  <div class="l_news_img"><a href="<?= base_url(); ?>news/page/001"><img class="img-fluid" src="<?= base_url(); ?>public/img/news/1.jpg" width="350px" alt=""></a></div>
-                  <div class="l_news_content">
-                     <a class="more_btn" href="<?= base_url(); ?>news/page/001" style="text-decoration: blink;">
-                        <h4>MOU Signing between WU, WUIC and IIAI</h4>
-                     </a>
-                     <p>On March 13, 2018, Assoc. Prof. Dr. Surin Maisrikrod, Vice-President for Global Engagement and Faculty Development, Walailak University (WU) and Dr. Jidtima Sunkhamani, Acting Dean of Walailak University International College (WUIC), welcomed delegates ...</p>
-                     <a class="more_btn" href="<?= base_url(); ?>news/page/001">Read More</a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-lg-4 col-md-4">
-               <div class="l_news_item">
-                  <div class="l_news_img"><a href="<?= base_url(); ?>news/page/003"><img class="img-fluid" src="<?= base_url(); ?>public/img/news/3.jpg" width="350px" alt=""></a></div>
-                  <div class="l_news_content">
-                     <a class="more_btn" href="<?= base_url(); ?>news/page/003" style="text-decoration: blink;">
-                        <h4>WUIC attends Edulife Expo for the first time</h4>
-                     </a>
-                     <p>Walailak University International College (WUIC) has joined EduLife Expo 2018 - The biggest education expo consisting of various leading institutions and educational resources for Thai students, during 9-11 March ...</p>
-                     <a class="more_btn" href="<?= base_url(); ?>news/page/003">Read More</a>
+               <div class="col-lg-3">
+                  <div class="right_sidebar_area">
+                     <aside class="right_widget r_news_widget">
+                        <div class="news_inner">
+                           <div class="news_item">
+                              <iframe width="100%" src="https://www.youtube.com/embed/p29jQ5e-GV4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           	  <p class="text-center"><b>Walailak University WHERE ONE'S GREAT FUTURE BEGINS</b></p>
+                           </div>
+                           <div class="news_item">
+                              <iframe width="100%" src="https://www.youtube.com/embed/UNCcY2ujYEI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           	  <p class="text-center"><b>TALK TO WALAILAK</b></p>
+                           </div>
+                        </div>
+                     </aside>
                   </div>
                </div>
             </div>
@@ -372,54 +361,56 @@
                </div>
                <!-- <p>Public, autonomous, comprehensive and research-focused university with high quality, internationally-oriented curriculums; High quality Thai and …</p> -->
                <!-- <a class="read_btn" href="#">Read more</a> -->
-               <div class="row">
-                  <div class="col-md-3">
-                  	<a href="http://www.mdx.ac.uk/">
-                  	<div class="card" style="height: 200px;border: 0px;">
-                     	<div class="card-body">
-                            <!-- <h5 class="card-title">Special title treatment</h5> -->
-                        	<div class="text-center">
-                           		<img src="<?= base_url("public/img/news/u1.jpg"); ?>" class="img-thumbnail" style="width: 100%;border: 0px solid #ddd;"></img>
-                        	</div>
-                     	</div>
-                  	</div>
-                  	</a>
-                  </div>
-                  <div class="col-md-3">
-                  	<a href="https://www.essex.ac.uk/">
-                  	<div class="card" style="height: 200px;border: 0px;">
-                     	<div class="card-body">
-                            <!-- <h5 class="card-title">Special title treatment</h5> -->
-                        	<div class="text-center">
-                           		<img src="<?= base_url("public/img/news/u2.jpg"); ?>" class="img-thumbnail" style="width: 100%;border: 0px solid #ddd;"></img>
-                        	</div>
-                     	</div>
-                  	</div>
-                  	</a>
-                  </div>
-                  <div class="col-md-3">
-                  	<a href="http://www.coventry.ac.uk/london">
-                  	<div class="card" style="height: 200px;border: 0px;">
-                     	<div class="card-body">
-                            <!-- <h5 class="card-title">Special title treatment</h5> -->
-                        	<div class="text-center">
-                           		<img src="<?= base_url(); ?>public/img/news/u3.jpg" style="width: 60%;border: 0px solid #ddd;" alt="">
-                        	</div>
-            			</div>
-                  	</div>
-                  	</a>
-                  </div>
-                  <div class="col-md-3">
-                  	<a href="http://www.iaiai.org/top">
-                  	<div class="card" style="height: 200px;border: 0px;">
-                     	<div class="card-body">
-                            <!-- <h5 class="card-title">Special title treatment</h5> -->
-                        	<div class="text-center">
-                           		<img src="<?= base_url("public/img/news/u4.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;"></img>
-                        	</div>
-                     	</div>
-                  	</div>
-                  	</a>
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-3">
+                        <a href="http://www.mdx.ac.uk/">
+                        <div class="card" style="height: 200px;border: 0px;">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                    <img src="<?= base_url("public/img/news/u1.jpg"); ?>" class="img-thumbnail" style="width: 100%;border: 0px solid #ddd;"></img>
+                              </div>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
+                     <div class="col-md-3">
+                        <a href="https://www.essex.ac.uk/">
+                        <div class="card" style="height: 200px;border: 0px;">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                    <img src="<?= base_url("public/img/news/u2.jpg"); ?>" class="img-thumbnail" style="width: 100%;border: 0px solid #ddd;"></img>
+                              </div>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
+                     <div class="col-md-3">
+                        <a href="http://www.coventry.ac.uk/london">
+                        <div class="card" style="height: 200px;border: 0px;">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                    <img src="<?= base_url(); ?>public/img/news/u3.jpg" style="width: 60%;border: 0px solid #ddd;" alt="">
+                              </div>
+                        </div>
+                        </div>
+                        </a>
+                     </div>
+                     <div class="col-md-3">
+                        <a href="http://www.iaiai.org/top">
+                        <div class="card" style="height: 200px;border: 0px;">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                    <img src="<?= base_url("public/img/news/u4.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;"></img>
+                              </div>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
                   </div>
                </div>
             </div>

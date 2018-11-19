@@ -26,51 +26,51 @@
     /*  Main Slider js
     /*----------------------------------------------------*/
     function main_slider(){
-        if ( $('#main_slider').length ){
-            $("#main_slider").revolution({
-                sliderType:"standard",
-                sliderLayout:"auto",
-                delay:5000,
-                disableProgressBar:"on",
-                navigation: {
-                    onHoverStop: 'off',
-                    touch:{
-                        touchenabled:"on"
-                    },
-                    arrows: {
-                        style:"zeus",
-                        enable:false,
-                        hide_onmobile:true,
-                        hide_under:820,
-                        hide_onleave:true,
-                        hide_delay:200,
-                        hide_delay_mobile:1200,
-                        tmp:'<div class="tp-title-wrap">  	<div class="tp-arr-imgholder"></div> </div>',
-                        left: {
-                            h_align: "left",
-                            v_align: "center",
-                            h_offset: 5,
-                            v_offset: 0
-                        },
-                        right: {
-                            h_align: "right",
-                            v_align: "center",
-                            h_offset: 5,
-                            v_offset: 0
-                        }
-                    },
-                },
-                responsiveLevels:[4096,1320,1199,992,767,480],
-                gridwidth:[1170,1170,960,720,700,300],
-                gridheight:[600,600,500,500,400,400],
-                lazyType:"smart",
-                fallbacks: {
-                    simplifyAll:"off",
-                    nextSlideOnWindowFocus:"off",
-                    disableFocusListener:false,
-                }
-            })
-        }
+//        if ( $('#main_slider').length ){
+//            $("#main_slider").revolution({
+//                sliderType:"standard",
+//                sliderLayout:"auto",
+//                delay:5000,
+//                disableProgressBar:"on",
+//                navigation: {
+//                    onHoverStop: 'off',
+//                    touch:{
+//                        touchenabled:"on"
+//                    },
+//                    arrows: {
+//                        style:"zeus",
+//                        enable:false,
+//                        hide_onmobile:true,
+//                        hide_under:820,
+//                        hide_onleave:true,
+//                        hide_delay:200,
+//                        hide_delay_mobile:1200,
+//                        tmp:'<div class="tp-title-wrap">  	<div class="tp-arr-imgholder"></div> </div>',
+//                        left: {
+//                            h_align: "left",
+//                            v_align: "center",
+//                            h_offset: 5,
+//                            v_offset: 0
+//                        },
+//                        right: {
+//                            h_align: "right",
+//                            v_align: "center",
+//                            h_offset: 5,
+//                            v_offset: 0
+//                        }
+//                    },
+//                },
+//                responsiveLevels:[4096,1320,1199,992,767,480],
+//                gridwidth:[1170,1170,960,720,700,300],
+//                gridheight:[600,600,500,500,400,400],
+//                lazyType:"smart",
+//                fallbacks: {
+//                    simplifyAll:"off",
+//                    nextSlideOnWindowFocus:"off",
+//                    disableFocusListener:false,
+//                }
+//            })
+//        }
     }
     main_slider();
     

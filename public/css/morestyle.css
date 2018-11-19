@@ -144,10 +144,27 @@ body {
 }
 
 #main_slider{
-	background-image: url("/public/img/home-slider/slider-2.jpg");
+	background-image: url("/wuic/public/img/home-slider/slider-2.jpg");
 	background-size: cover;
 }
 
 .d-block{
 	width: 80%;
+}
+
+.title{
+    height: 95px;
+}
+
+.card-body{
+    height: 290px;
+}
+
+.image-content{
+    width: 100%;
+    margin: -7px 0px;
+}
+
+.col-md-6 > .card{
+    margin-top: 5px;
 }

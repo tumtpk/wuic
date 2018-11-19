@@ -20,7 +20,7 @@
         <script src="<?= base_url(); ?>public/js/sub-dropdown.js"></script>
         
         <script>
-        	$('.carousel').carousel({
+        	$('#carousel-slide').carousel({
         	  interval: 2000
         	})
         </script>

@@ -38,7 +38,6 @@
                         </ul>
                      </li>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/academicCalendar" style="color:white !important;">Academic calendar</a>
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/tuition" style="color:white !important;">Tuition & Fees</a>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/scholarships" style="color:white !important;">Undergraduate Excellent Scholarship</a>
                   </ul>
                </div>
