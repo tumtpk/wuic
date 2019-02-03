@@ -104,5 +104,26 @@ class About extends CI_Controller {
         $this->load->view('page/footer');
         $this->load->view('page/foot');
     }
+
+    public function collaborations()
+    {
+        $this->load->helper('url');
+        
+        $data['breadcrumb'] = array(
+            array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+            array("page"=>"International Collaborations", "url"=>"#", "icon"=>"fa fa-angle-right")
+        );
+        
+        $title = array("title" => "International Collaborations");
+        
+        $this->load->view('page/head', $title);
+        $this->load->view('page/menu');
+        $this->load->view('page/header_page', $data);
+        $this->load->view('about/collaborations');
+        $this->load->view('page/news');
+        $this->load->view('page/footer');
+        $this->load->view('page/foot');
+        
+    }
     
 }

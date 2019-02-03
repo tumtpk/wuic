@@ -28,6 +28,7 @@
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">About WUIC</a>
                   <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>about/the5s" style="color:white !important;">5s</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>about/collaborations" style="color:white !important;">International Collaborations</a>
                   </div>
                </div>
             </li>
