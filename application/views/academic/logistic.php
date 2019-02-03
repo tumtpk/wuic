@@ -74,7 +74,7 @@
                         <br>
                         <hr style="color: #f26c21;">
 						<br>
-						<p class="text-center"><b style="color: #f26c21; font-size:20px">Faculty Members</b></p>
+						<p class="text-center"><b style="color: #f26c21; font-size:20px">Teaching Team</b></p>
                         <div class="row text-center" style="font-size: 12px">
                             <div class="col-lg-4">
                             	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4420240321" data-width="1200" data-height="1200"><br>
@@ -90,6 +90,72 @@
                             		Malaysia Institute for Supply Chain Innovation<br>
                             		<i class="fa fa-envelope-o"></i> albtan@mit.edu<br>
                             </div>
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=6100000187" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/PA/03.Prof.Dr.Ivan Bimbilovski.jpg" width="150px"><br>
+                            		Prof. Dr. Ivan Bimbilovski</a><br>
+                            		<i class="fa fa-envelope-o"></i> ivan.bi@wu.ac.th<br>
+                            </div>
+                        </div>
+                        <div class="row text-center" style="font-size: 12px">
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=6100000376" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/LOG/Dr.Jeerakiat.jpg" width="150px"><br>
+                                    Assoc. Prof. Dr. Jeerakiat Apibunyopas</a><br>
+                            		<i class="fa fa-envelope-o"></i> jeerakiat.ap@wu.ac.th<br>
+                            </div>
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4420400321" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/LOG/AJ.Nittida.jpg" width="150px"><br>
+                                    Mrs. Nittida Sudmai</a><br>
+                            		<i class="fa fa-envelope-o"></i> pnittida@wu.ac.th<br>
+                            </div>
+                            <div class="col-lg-4">
+                            	<a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=5600000049" data-width="1200" data-height="1200"><br>
+                            	<img class="image" src="<?=base_url() ?>public/img/lecturer/LOG/Aj.Rasimeth.jpg" width="150px"><br>
+                                 Asst. Prof. Dr. Rasimate Maungchang</a><br>
+                            		<i class="fa fa-envelope-o"></i> rasimate.ma@wu.ac.th<br>
+                            </div>
+                        </div>
+                        <div class="row text-center" style="font-size: 12px">
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=5600000072" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ACC/empty.jpg" width="150px"><br>
+                                 Mr. Theerawat Klaokliang </a><br>
+                                 <i class="fa fa-envelope-o"></i> theerawat.kl@wu.ac.th<br>
+                           </div>
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4020510312" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/GEN/Mullica.jpg" width="150px"><br>
+                                 Assoc. Prof. Dr. Mullica Jaroensutasinee </a><br>
+                                 <i class="fa fa-envelope-o"></i> jmullica@wu.ac.th<br>
+                           </div>
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4010630312" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ACC/empty.jpg" width="150px"><br>
+                                 Assoc. Prof. Dr. Krisanadej Jaroensutasinee </a><br>
+                                 <i class="fa fa-envelope-o"></i> jkrisana@wu.ac.th<br>
+                           </div>
+                        </div>
+                        <div class="row text-center" style="font-size: 12px">
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4320540323" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ACC/empty.jpg" width="150px"><br>
+                                 Dr. Visaka Anantawat </a><br>
+                                 <i class="fa fa-envelope-o"></i> pvisaka@wu.ac.th<br>
+                           </div>
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4620070322" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/GEN/Suthanya.jpg" width="150px"><br>
+                                 Asst. Prof. Dr. Suthanya Doung-In</a><br>
+                                 <i class="fa fa-envelope-o"></i> dsuthany@wu.ac.th<br>
+                           </div>
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=6100000340" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ACC/empty.jpg" width="150px"><br>
+                                 Miss Emma Faye Robdale</a><br>
+                                 <i class="fa fa-envelope-o"></i> emma.ro@wu.ac.th<br>
+                           </div>
                         </div>
                     </div>
                   </div>

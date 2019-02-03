@@ -25,56 +25,63 @@
                      </div>
                      <div class="static_img">
 <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-                        <h4 style="color: #f26c21;">Tuition & Fees</h4>
+                        <h4 style="color: #f26c21;">Tuition Fees*</h4>
                      </div>
                      <div class="static_text">
-                     	<span style="color: #f26c21;">Academic Year 2018/2019</span>
+                        <p>
+                          <strong style="color: #f26c21;">Academic Year 2018/2019</strong>
+                        </p>
                         <table class="table table-responsive table-striped table-bordered text-center">
                           <thead>
                             <tr class="" style="background-color: #f38448; text-align: center;">
-                              <th rowspan="3" style="vertical-align:  middle !important;">Program</th>
-                              <th colspan="4">Fees per Semester (Baht)</th>
-                            </tr>
-                            <tr style="background-color: #f38448; text-align: center;">
-                              <th colspan="2">Thai Students</th>
-                              <th colspan="2">International Students</th>
-                            </tr>
-                            <tr  style="background-color: #f38448; text-align: center;">
-                              <th>Tuition Fees</th>
-                              <th>Extra Fees*</th>
-                              <th>Tuition Fees</th>
-                              <th>Extra Fees*</th>
+                              <th style="vertical-align:  middle !important;">Program</th>
+                              <th>Thai Students<br>(Per Semester)</th>
+                              <th>International Students<br>(Per Semester)</th>
                             </tr>
                           </thead>
                           <tbody>
                             <tr>
                               <td class="text-left" style="vertical-align:  middle !important;">B.Eng. (Digital Innovation Engineering)</td>
-                              <td>52,500 <br/> (1,660 USD)</td>
-                              <td>72,500 <br/> (2,292 USD)</td>
-                              <td>52,500 <br/> (1,660 USD)</td>
-                              <td>97,500 <br/> (3,083 USD)</td>
+                              <td style="vertical-align:  middle !important;">125,600 THB</td>
+                              <td>150,600 THB<br> (approx. USD 4,592)</td>
                             </tr>
                             <tr>
                               <td class="text-left" style="vertical-align:  middle !important;">B.A. (Public Affairs)</td>
-                              <td>45,000 <br/> (1,423 USD) </td>
-                              <td>17,500 <br/> (553 USD) </td>
-                              <td>45,000 <br/> (1,423 USD) </td>
-                              <td>36,250 <br/> (1,146 USD) </td>
+                              <td style="vertical-align:  middle !important;">63,100 THB</td>
+                              <td>81,850 THB<br> (approx. USD 2,495)</td>
+                            </tr>
+                            <tr>
+                              <td class="text-left" style="vertical-align:  middle !important;">LL.B. (Legal Applications)</td>
+                              <td style="vertical-align:  middle !important;">90,600 THB</td>
+                              <td>90,600 THB<br> (approx. USD 2,762)</td>
                             </tr>
                             <tr>
                               <td class="text-left" style="vertical-align:  middle !important;">B.B.A. (Logistics Analytics and Supply Chain Management)</td>
-                              <td>45,000 <br/> (1,423 USD) </td>
-                              <td>61,250 <br/> (1,936 USD) </td>
-                              <td>45,000 <br/> (1,423 USD) </td>
-                              <td>80,000 <br/> (2,530 USD) </td>
+                              <td style="vertical-align:  middle !important;">106,850 THB</td>
+                              <td>125,600 THB<br> (approx. USD 3,829)</td>
+                            </tr>
+                            <tr>
+                              <td class="text-left" style="vertical-align:  middle !important;">B.B.A. (Acountancy)</td>
+                              <td style="vertical-align:  middle !important;">75,600 THB</td>
+                              <td>90,600 THB<br> (approx. USD 2,762)</td>
                             </tr>
                           </tbody>
                         </table>
-                        
                         <p>
-                            <small> Foreign Exchange Rates as of 23 February 2018: 31.63 Baht/US Dollar.</small><br/><br/>
-                            <small> All fees in USD are based on currency rates of exchange in effect at the time of printing. Prices are subject to change due to the currency rates.</small><br><br>
-                            <small>* This fee include charges for Extra-curricular activities, laboratories, library, computer facilities, sport center, In-campus transportation, medical service and group acident insurance.</small>
+                            * This fee include charges for Extra-curricular activities, laboratories, library, computer facilities, sport center, In-campus transportation and group accident insurance.
+                        </p><br>
+                        <p>
+                            <strong style="color: #f26c21;">Additional Fees</strong><br>
+                            - Damage Deposit (refundable after graduation or dismissal) 5,000 Baht <br>
+                            - Dormitory Fees <br>
+                            - Late enrollment penalty 25 baht/day <br>
+                            - Late payment penalty (tuition fee) 10 baht/day
+                        </p>
+                        <p>
+                        Remark: <br>
+                            <small> - Fees do not cover meals.</small><br>
+                            <small> - Foreign Exchange Rates as of 28 December 2018: 32.8 Baht/US Dollar.</small><br/>
+                            <small> - All fees are subject to change due to currency exchange rates.</small>
                         </p>
                         
                      </div>

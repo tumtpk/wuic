@@ -35,27 +35,43 @@
             <tbody>
                <tr>
                   <td style="width: 200px; background-color: #c868e88a; text-align: left;" width="125"><strong>First Semester</strong></td>
-                  <td style="width: 200px; background-color: #c868e88a; text-align: left;" colspan="2" width="250"><strong>20 Aug 2018 – 12 Dec 2018</strong></td>
+                  <td style="width: 200px; background-color: #c868e88a; text-align: left;" colspan="2" width="250"><strong>20 August – 12 December 2018</strong></td>
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">First day of class</td>
                   <td style="width: 250px; text-align: left;" colspan="2">20 August 2018</td>
                </tr>
                <tr>
+                  <td style="width: 200px; text-align: left;">Midterm Examination</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">01 - 05 October 2018</td>
+               </tr>
+               <tr>
                   <td style="width: 200px; text-align: left;">Last day of class</td>
                   <td style="width: 250px; text-align: left;" colspan="2">30 November 2018</td>
                </tr>
                <tr>
+                  <td style="width: 200px; text-align: left;">Final Examination</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">06 - 12 December 2018</td>
+               </tr>
+               <tr>
                   <td style="width: 200px; background-color: #c868e88a; text-align: left;"><strong>Second Semester&nbsp;</strong></td>
-                  <td style="width: 250px; background-color: #c868e88a; text-align: left;" colspan="2"><strong>7 Jan 2019 – 1 May 2019</strong></td>
+                  <td style="width: 250px; background-color: #c868e88a; text-align: left;" colspan="2"><strong>7 January – 1 May 2019</strong></td>
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">First day of class</td>
                   <td style="width: 250px; text-align: left;" colspan="2">7 January 2019</td>
                </tr>
                <tr>
+                  <td style="width: 200px; text-align: left;">Midterm Examination</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">18 - 22 February 2019</td>
+               </tr>
+               <tr>
                   <td style="width: 200px; text-align: left;">Last day of class</td>
                   <td style="width: 250px; text-align: left;" colspan="2">19 April 2019</td>
+               </tr>
+               <tr>
+                  <td style="width: 200px; text-align: left;">Final Examination</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">25 April - 01 May 2019</td>
                </tr>
                <tr>
                   <td style="width: 200px;background-color: #f26b2194;text-align: left;">&nbsp;<strong>Summer Session</strong></td>
@@ -63,11 +79,19 @@
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">&nbsp;First day of class</td>
-                  <td style="width: 250px; text-align: left;" colspan="2">&nbsp;21 May 2019</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">21 May 2019</td>
+               </tr>
+               <tr>
+                  <td style="width: 200px; text-align: left;">Midterm Examination</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">12 - 14 June 2019</td>
                </tr>
                <tr>
                   <td style="width: 200px; text-align: left;">Last day of class</td>
                   <td style="width: 250px; text-align: left;" colspan="2">12 July 2019</td>
+               </tr>
+               <tr>
+                  <td style="width: 200px; text-align: left;">Final Examination</td>
+                  <td style="width: 250px; text-align: left;" colspan="2">18 - 19 July 2019</td>
                </tr>
             </tbody>
          </table>

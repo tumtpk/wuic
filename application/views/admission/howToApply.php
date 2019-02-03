@@ -31,8 +31,30 @@
                      <div class="static_text2">
                         <p><b>Application Process</b></p>
                         <div class="col">
-                            <p>1. Register via Admission system at  <a href="https://entry.wu.ac.th/inter/">https://entry.wu.ac.th/inter/</a></p>
-                            <p>2. Submit your supporting documents to email wuic@wu.ac.th</p>
+                            <p>1. Register via Admission system at </p>
+                            <p>
+                              <div class="row justify-content-around">
+                                 <div class="col-lg-5">
+                                       <div class="card text-center" style="border: 0px;">
+                                          <img class="card-img-top" src="<?=base_url() ?>public/img/icon/inter.png" alt="Card image cap">
+                                          <div class="card-body" style="padding-top: 5px;height: auto;">
+                                             <p class="card-text"><strong>International Students</strong></p>
+                                             <a href="https://entry.wu.ac.th/inter/apply.asp" class="btn btn-warning btn-sm" style="color: #111 !important;width: 50%;" target="_blank">Apply</a>
+                                          </div>
+                                       </div>
+                                 </div>
+                                 <div class="col-lg-5">
+                                       <div class="card text-center" style="border: 0px;">
+                                          <img class="card-img-top" src="<?=base_url() ?>public/img/icon/thai.png" alt="Card image cap">
+                                          <div class="card-body" style="padding-top: 5px;height: auto;">
+                                             <p class="card-text"><strong>Thai Students/Foreign Residents</strong></p>
+                                             <a href="https://entry.wu.ac.th/new/apply1.asp" class="btn btn-warning btn-sm" style="color: #111 !important;width: 50%;" target="_blank">Apply</a>
+                                          </div>
+                                       </div>
+                                 </div>
+                              </div>
+                            </p>
+                            <p>2. Submit your supporting documents to email wuic.admissions@mail.wu.ac.th</p>
                             <div class="col-md-10 offset-md-1"><p>2.1. 1”x1” photograph (School/University uniform, taken in the last 6 months)</p></div>
                             <div class="col-md-10 offset-md-1"><p>2.2. A photocopy of official transcript*  </p></div>
                             <div class="col-md-10 offset-md-1"><p>2.3. A photocopy of the Thai national identity card or passport (Non-Thai applicant)</p></div>
@@ -67,7 +89,7 @@
                                         
                                         please provide<br/>
                                         
-                                        - Recommendation Letter (WUIC form)<br/>
+                                        - Recommendation Letter (<a href="<?=base_url("public/file/Recommendation_Letter.pdf")?>">WUIC form</a>)<br/>
                                         
                                         - Predicted Grades</td>
                                         </tr>
@@ -83,7 +105,7 @@
                                         
                                         must provide<br/>
                                         
-                                        - Recommendation Letter (WUIC form) and<br/>
+                                        - Recommendation Letter (<a href="<?=base_url("public/file/Recommendation_Letter.pdf")?>">WUIC form</a>) and<br/>
                                         
                                         - Original official of High School Certification Equivalence</td>
 									</tr>

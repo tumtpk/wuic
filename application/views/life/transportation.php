@@ -28,32 +28,119 @@
                         <h4 style="color: #f26c21;">Transpotation on Campus</h4>
                      </div>
                      <div class="static_text">
-                        <h5>รถไฟฟ้ามวล.!!ม.วลัยลักษณ์เตรียมนำรถไฟฟ้าบริการนักศึกษา-บุคลากร เริ่มกรกฎาคม61 นี้</h5>
+                        <h5>WU Electric Shuttle Car Service</h5>
                         <br>
                         <img src="<?= base_url(); ?>public/img/trans.jpg" style="width : 90%" alt="">
-                        <p>รถไฟฟ้า มวล.<br>มหาวิทยาลัยวลัยลักษณ์เตรียมนำรถไฟฟ้า ภายใต้ชื่อโครงการรถไฟฟ้ามวล. มาใช้เป็นระบบขนส่งภายใน ให้บริการแก่นักศึกษา-บุคลากร เริ่มเดือนกรกฎาคม 2561 ตั้งเป้าลดอุบัติเหตุ ลดภาวะโลกร้อน มุ่งสู่ Green University</p>
-                     </div>
-                     <div class="media">
-                        <div class="d-flex">
-                           <h6>“</h6>
-                        </div>
-                        <div class="media-body" style="flex: inherit;">
-                           <p >Green University</p>
-                           <h5><a href="#">here at</a> - Walailak University</h5>
-                        </div>
-                        <div class="d-flex">
-                           <h6>”</h6>
-                        </div>
+                        <p>WU electric shuttle car service team introduces you the shuttle car stop usage guidelines for WU students to reach destination faster and safer</p>
                      </div>
                      <div class="static_text2">
-                        <h3 style="color: #f26c21;">Unique University</h3>
-                        <p>ศาสตราจารย์ ดร.สมบัติ ธำรงธัญวงศ์ อธิการบดีม.วลัยลักษณ์ เปิดเผยว่า มหาวิทยาลัยวลัยลักษณ์ เตรียมนำรถไฟฟ้า ภายใต้ชื่อโครงการรถไฟฟ้ามวล. มาใช้เพื่อเป็นระบบขนส่งภายในมหาวิทยาลัยเพื่อให้บริการแก่นักศึกษาและบุคลากรใน 5-7 เส้นทาง ครอบคุลมพื้นที่ตั้งแต่โซนหอพักนักศึกษา กลุ่มอาคารเรียนรวม 1-3-5-7 อาคารสถาปัตยกรรมและการออกแบบ อาคารศูนย์เครื่องมือ อาคารวิชาการ อาคารบริหาร ศูนย์กีฬา ศูนย์อาหารกลางคืน โรงพยาบาลศูนย์การแพทย์ ตลอดจนเชื่อมต่อกับระบบขนส่งด้านหน้ามหาวิทยาลัยทางหลวง 401 อีกด้วย โดยจะเริ่มให้บริการในตั้งแต่วันที่ 1 กรกฎาคม 2561 นี้ เวลา 07.00-21.00 น.ของทุกวัน</p>
-                        <br>
-                        <p>“ปัจจุบันนักศึกษาส่วนใหญ่ใช้รถจักรยานยนต์ในการเดินทางไปเรียน ทำให้เกิดปัญหาต่างๆตามมามากมายทั้งเรื่องอุบัติเหตุ มลพิษทางอากาศและเกิดภาวะโลกร้อน ซึ่งโครงการรถไฟฟ้ามวล. จะสามารถลดปัญหาเรื่องดังกล่าวได้ นอกจากนี้โครงการดังกล่าวยังสอดคล้องนโยบายของมหาวิทยาลัยในการมุ่งสู่มหาวิทยาลัยสีเขียว (Green University) อีกด้วย” อธิการบดีม.วลัยลักษณ์กล่าว</p>
-                        <br>
-                        <p>ด้านอาจารย์ ดร.นุกูล สุขสุวรรณ์ ผู้ช่วยอธิการบดีฝ่ายบริหาร ม.วลัยลักษณ์ในฐานะหัวหน้าโครงการรถไฟฟ้ามวล. กล่าวเสริมว่า รถไฟฟ้าที่จะนำมาใช้ให้บริการจะวิ่งด้วยความเร็วเฉลี่ย 40-50 กม./ชม. ที่นั่งถูกออกแบบมาโดยมีขอบรับและที่ยึดเกาะอย่างมั่นคงจึงไม่ต้องกังวลเรื่องความปลอดภัย อีกทั้งยังมีกันสาดคลุมรอบด้านไว้ใช้ในยามฝนตก อย่างไรก็ตามมหาวิทยาลัยจะดำเนินการก่อสร้างสถานีโรงจอดรถ จุดชาร์จแบตเตอรี่ สถานีย่อย/จุดรับ-ส่งผู้โดยสาร รวมทั้งการปรับปรุงเส้นทางเพื่อให้เข้าถึงอาคาร ปรับปรุงทางเดินฟุตบาตเชื่อมต่อให้ผู้ใช้บริการเข้าใกล้สถานีจอดที่ใกล้ที่สุด ที่สำคัญในอนาคตจะเชื่อมโยงกับระบบขนส่งสาธารณะภายนอกเพื่อความสะดวกของนักศึกษาที่จะเดินทางไปยังสถานที่ภายนอกอีกด้วย</p>
-                        <br>
-                        <p>ข่าวโดย นายธีรพงศ์ หนูปลอด ส่วนสื่อสารองค์กร มหาวิทยาลัยวลัยลักษณ์</p>
+                     <div class="page-newsDetail">
+                    <p>
+<img src="https://www.wu.ac.th/walaiweb/images/editor/images/electrain/WUshuttlebussystem.png" width="100%">
+</p>
+
+<p align="center">
+	<strong>Travelling from Activity Canteen to the following Buildings</strong></p>
+<p style="font-weight: 500;">
+	1.&nbsp;&nbsp;&nbsp;To Lecture Buildings, Canteen 4, Digital Center, Library, WU Hospital, and area in front of campus, please use the shuttle service at Larn Sai station (opposite to Activity Canteen)</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Lecture Buildings (1, 3, 4, 5, and 7), please take Line 1 (Blue Line) to Thaiburi station and continue to walk under the covered walkways to the desired lecture building.</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Canteen 4, Digital Center, and Library, please take Line 1 (Blue Line) to Thaiburi station and continue with Line 2 (Red Line) to your destination.</p>
+<p style="margin-left:72pt;">
+	Note: During weekdays’ rush hour from 7.00 - 8.30 am and after 5 pm, and throughout the day on holidays, students can take Blue/Red Line to the Library station.</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To WU Hospital and area in front of campus, please take Line 5 (Green Line)&nbsp;</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To shorten the travelling time during the rush hour while you are at Larn Sai station, please line up in 3 lines as suggested per below:&nbsp;</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 1 Travel to Thaiburi station</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 2 Travel to Canteen 4, Digital Center, and Library (During the rush hour and in late afternoon)&nbsp;</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 3 Travel to the area in front of campus</p>
+<p style="font-weight: 500;">
+	2.&nbsp;&nbsp;&nbsp;To Architect Building, Scientific Lab Buildings, Innovation Building, and Academic Buildings, please use the shuttle service at ATM station (ATM area near Activity Canteen)</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Architect Building, please take Line 1 (Blue Line) to Architect station</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Scientific Lab Buildings, Innovation Building, and Academic Buildings, please tale Line 1 (Blue Line) to Architect station and continue with Line 4 (Purple Line) to your destination.</p>
+<p style="font-weight: 500;">
+	3.&nbsp;&nbsp;&nbsp;To Dormitories (1, 2, 3, 11, 13, and 14), please use the shuttle service at Larn Sai station (exclude the rush hour)&nbsp;</p>
+<p style="font-weight: 500;">
+	4.&nbsp;&nbsp;&nbsp;To Dormitories (4, 5, 7, 10, 16, 17, and 18), please use the shuttle service at ATM station (exclude the rush hour)</p>
+<p align="center">
+	<strong>Travelling from Thaiburi and Lecture Buildings (1, 3, 5, and 7) to the following Buildings</strong></p>
+<p style="font-weight: 500;">
+	1.&nbsp;&nbsp;&nbsp;To Dormitory, please wait at the opposite side of the building to get into Line 1 (Blue Line) to Larn Sai station (Students can tell the driver to drop you off in front of your dormitory except during the rush hour)</p>
+<p style="font-weight: 500;">
+	2.&nbsp;&nbsp;&nbsp;To Canteen 4, Digital Center, and Library, please use the service at the opposite side of the building to get into Line 2 (Red Line)&nbsp;</p>
+<p style="font-weight: 500;">
+	3.&nbsp;&nbsp;&nbsp;To Architect Building, Scientific Lab Buildings, Innovation Building, and Academic Buildings</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Architect Building, please wait for shuttle car at the same side of the building to get into Line 2 (Red Line) to Architect station</p>
+<p style="margin-left:72pt;">
+	Note: During the class-switching hours, students can use the shuttle service at Lecture Building 1-3 station (The station is between lecture building 1 and lecture building 3) in order to travel to Architect Building</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Scientific Lab Buildings, Innovation Building, and Academic Buildings, please wait for shuttle car at the same side of the building to get into Line 2 (Red Line) to Architect station and continue with Line 4 (Purple Line) to your destination</p>
+<p style="margin-left:72pt;">
+	Note: Shuttle cars to Architect Building are only available from 8.30 am – 5.00 pm</p>
+<p style="font-weight: 500;">
+	4.&nbsp;&nbsp;&nbsp;To WU Hospital and area in front of campus, please wait at the opposite side of the building to get into Line 5 (Green Line)</p>
+<p>
+	To shorten the travelling time during the rush hour while you are at Thaiburi station, please line up in 4 lines as suggested per below:&nbsp;</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 1 Travel to Larn Sai station</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 2 Travel to Architect station</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 3 Travel to Canteen 4, Digital Center, and Library&nbsp;</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 4 Travel to the area in front of campus</p>
+<p align="center">
+	<strong>Travelling from Architect Building to the following Buildings</strong></p>
+<p style="font-weight: 500;">
+	1.&nbsp;&nbsp;&nbsp;To Activity Canteen and Dormitory Area, please take Line 1 (Blue Line) at Architect station (facing the dormitory side) to ATM station (Students can tell the driver to drop you off in front of your dormitory except during the rush hour)</p>
+<p style="font-weight: 500;">
+	2.&nbsp;&nbsp;&nbsp;To Lecture Buildings, Canteen 4, Digital Center, Library, Scientific Lab Buildings, Innovation Building, and Academic Buildings, please use the shuttle service at Architect station 2 (facing the lab building side)</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Lecture Buildings, please take Line 2 (Red Line) to Thaiburi station and continue to walk under the covered walkways to the desired lecture building. (During the class-switching hours, shuttle cars will also go to Lecture Building 1-3 station)</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Canteen 4, Digital Center, and Library, please take Line 2 (Red Line) to your destination.</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Scientific Lab Buildings, please take Line 4 (Purple Line) to Lab 8 station and continue to walk to the desired building.</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Innovation Building, please take Line 4 (Purple Line)</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Academic Buildings, please take Line 4 (Purple Line) to Academic Building 5 station and continue to walk under the covered walkways to desired building.</p>
+
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To shorten the travelling time during the rush hour while you are at Architect station 2, please line up in 4 lines as suggested per below:&nbsp;</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 1 Travel to Thaiburi station, Digital Center, Canteen 4, and Library</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 2 Travel to Lecture Building 1-3 station (Only during the class-switching hours)&nbsp;</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 3 Travel to Lab Buildings</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Line 4 Travel to Innovation Building and Academic Buildings</p>
+
+<p align="center">
+	<strong>Travelling from Canteen 4, Digital Center, and Library by Red Line to the Architect station</strong></p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the rush hour, please only use shuttle car service at Canteen 4 station.&nbsp;</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During normal working hours, shuttle cars will depart from the Library station every 10 minutes.</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shuttle car service is available at the Library station until 8.45 pm.&nbsp;</p>
+<p align="center">
+	<strong>Travelling from Lab 8 station, Innovation Building, and Academic Building 5 by Purple Line to the Architect station</strong></p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the rush hour, shuttle car service will operate from and to above stations.</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During normal working hours, shuttle cars will depart from Academic Building 5 every 10 minutes.</p>
+<p style="margin-left:72pt;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shuttle car service is not available after the last class at above buildings.</p>                </div>
                      </div>
                   </div>
                </div>

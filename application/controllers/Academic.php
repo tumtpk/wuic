@@ -73,8 +73,21 @@ class Academic extends CI_Controller {
 	    $this->load->view('page/foot');
 	}
 
-
-	
-
+	public function accountancy(){
+	    $this->load->helper('url');
+	    
+	    $data['breadcrumb'] = array(
+	        array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+	        array("page"=>"Bachelor of Business Administration (Accountancy)", "url"=>base_url()."academic/accountancy", "icon"=>"fa fa-angle-right")
+	    );
+	    
+	    $this->load->view('page/head');
+	    $this->load->view('page/menu');
+	    $this->load->view('page/header_page', $data);
+	    $this->load->view('academic/accountancy');
+	    $this->load->view('page/news');
+	    $this->load->view('page/footer');
+	    $this->load->view('page/foot');
+	}
 	
 }

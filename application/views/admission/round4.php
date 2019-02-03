@@ -28,8 +28,8 @@
          <h4 style="color: #f26c21;">Round 4 - General Admission</h4>
       </div>
       <div class="static_text2">
-         <p>Application Submission Period: 6-10 June 2018</p>
-         <p>Admission is based upon result of National Test Scores and GPAX with the following criteria and details of selection.</p>
+         <p>Application Submission Period: 9 - 19 May 2019</p>
+         <p>Admission is based upon result of National Test Scores and GPAX with the following criteria and details of selection.</p><br/>
          <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
             <table class="table">
                <tr class="" style="background-color: #f38448; text-align: center;">
@@ -59,7 +59,7 @@
                   <td style="text-align: center;border: 1px solid #94999e;"rowspan="4">6.0</td>
                </tr>
                <tr class="">
-                  <td style="text-align: center;border: 1px solid #94999e;">B.A. in Public Affairs (Secondary School students from Science Program)</td>
+                  <td style="text-align: center;border: 1px solid #94999e;">B.B.A. in Logistic Analytics and Supply Chain Management </td>
                   <td style="text-align: center;border: 1px solid #94999e;">20</td>
                   <td style="text-align: center;border: 1px solid #94999e;">30</td>
                   <td style="text-align: center;border: 1px solid #94999e;">30</td>

@@ -41,8 +41,8 @@ class News extends CI_Controller {
     public function page($newid)
     {
         $this->load->helper('url');
-        $this->load->model('Model');
-        $news = $this->Model->getNews($newid);
+        $this->load->model("newsmodel");
+        $news = $this->newsmodel->getLNews($newid);
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
@@ -53,7 +53,7 @@ class News extends CI_Controller {
         $this->load->view('page/head', $news);
         $this->load->view('page/menu');
         $this->load->view('page/header_page', $data);
-        $this->load->view($news["page"]);
+        $this->load->view('news/content');
         $this->load->view('page/news');
         $this->load->view('page/footer');
         $this->load->view('page/foot');

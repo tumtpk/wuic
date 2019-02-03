@@ -28,12 +28,43 @@
          <h4 style="color: #f26c21;">Admission Period</h4>
          <br>
          <div class="static_text">
-            <p><b>Direct Admission (Round I)</b>&nbsp;<a href="<?= base_url(); ?>admission/howToApply"><b style="background-color: yellow; color: black;">Opening Now!</b></a></p>
-            <p>Thai and Non-Thai students can now apply to WUIC directly from now to May 20, 2018</p>
+            <p><b>1) College direct entry</b>&nbsp;<a href="<?= base_url(); ?>admission/howToApply"><b style="background-color: yellow; color: black;">Opening Now! <i class="fa fa-hand-pointer-o" aria-hidden="true"></i></b></a></p>
+            <p>Thai and Non-Thai students can now apply to WUIC directly from now to April 5, 2019
+            <br>Announcement of Successful Candidates on April 12, 2019</p>
+            
          </div>
       </div>
+      <table class="table table-bordered table-hover" style="height: 211px;" width="646">
+         <tbody>
+            <tr class="" style="text-align: center; background-color: #f38448bf;">
+               <td><strong>Round</strong></td>
+               <td><strong>Status</strong></td>
+               <td><strong>Applicaiton period</strong></td>
+            </tr>
+            <tr class="" >
+               <td style="text-align: center; vertical-align: top;">1</td>
+               <td style="vertical-align: top;">Closed</td>
+               <td>1 – 15 Dec 2018</td>
+            </tr>
+            <tr style="background-color: #e2ae91bf;">
+               <td style="text-align: center;">2</td>
+               <td>Opening</td>
+               <td>1 Feb – 5 April 2019</td>
+            </tr>
+            <tr class="" style="">
+               <td style="text-align: center;">3</td>
+               <td>-</td>
+               <td>13 April - 5 May 2019</td>
+            </tr>
+         </tbody>
+      </table>
       <div class="static_text">
-			<p><b>TCAS 2018</b></p>
+         <p><b>2) Fast Trade</b></p> 
+         <p>For these who hold atleast </p>  
+      </div>
+
+      <div class="static_text">
+			<p><b>3) TCAS 2019</b></p>
             <p>Admission Period follows Thai University Central Admission System (TCAS):</p>
       </div>
       <table class="table table-bordered table-hover" style="height: 211px;" width="646">
@@ -44,32 +75,29 @@
                <td><strong>Applicaiton period</strong></td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
-               <td style="text-align: center; vertical-align: top;" rowspan="2">1</td>
-               <td style="vertical-align: top;" rowspan="2">Portfolios</td>
-               <td>1st time: 1 Oct – 30 Nov 2017</td>
-            </tr>
-            <tr class="" style="background-color: rgba(0,0,0,.05);">
-               <td>2nd time: 22 Dec 2017 – 28 Feb 2018</td>
+               <td style="text-align: center; vertical-align: top;">1</td>
+               <td style="vertical-align: top;">Portfolios</td>
+               <td>1 – 15 Dec 2018 <b style="background-color: yellow; color: black;">extended to 23 Dec 2018</b></td>
             </tr>
             <tr>
                <td style="text-align: center;">2</td>
                <td>Quota</td>
-               <td>19 Feb- 18 Apr 2018</td>
+               <td>2 Feb – 23 Mar 2019</td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
                <td style="text-align: center;">3</td>
                <td>Joint Direct Admission</td>
-               <td>9-13 May 2018</td>
+               <td>17 – 29 Apr 2019</td>
             </tr>
             <tr>
                <td style="text-align: center;">4</td>
                <td>General Admission</td>
-               <td>12-16 June 2018</td>
+               <td>9 - 19 May 2019</td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
                <td style="text-align: center;">5</td>
                <td>Independent Direct Admission</td>
-               <td>July 2018</td>
+               <td>30 May – 10 Jun 2019</td>
             </tr>
          </tbody>
       </table>

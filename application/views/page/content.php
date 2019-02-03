@@ -1,10 +1,9 @@
 <!--================Creative Feature Area =================-->
 <section class="creative_feature_area">
    <div class="container">
-   
-    <br/><br/>
-    
-    <div class="row">
+      <br/>
+
+      <div class="row">
         <div class="col-md-12" style="text-align: -webkit-center">
         	<div id="carousel-slide" class="carousel slide" data-ride="carousel">
               <ol class="carousel-indicators">
@@ -13,20 +12,19 @@
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                	<a href="<?=base_url("study/scholarships");?>">
-                  		<img class="d-block w-100" src="<?=base_url("public/img/banner/wuic-EN.jpg"); ?>" style="width:80% !important">
+                	<a href="<?=base_url("admission/announcement#01");?>">
+                  		<img class="d-block w-100" src="<?=base_url("public/img/news/announcement/ann02.jpg") ?>" style="width:80% !important">
                 	</a>
                 </div>
                 <div class="carousel-item">
-                	<a href="<?=base_url("study/scholarships");?>">
-                 	 	<img class="d-block w-100" src="<?=base_url("public/img/banner/wuic-th.jpg"); ?>" style="width:80% !important">
+                	<a href="<?=base_url("admission/announcement#02");?>">
+                 	 	<img class="d-block w-100" src="<?=base_url("public/img/news/announcement/ann01.jpg") ?>" style="width:80% !important">
                 	</a>
                 </div>
               </div>
             </div>
         </div>
-    </div>
-     
+      </div>
       <div class="row">
          <div class="col-lg-12">
             <div class="d_feature_text">
@@ -299,30 +297,30 @@
       <div class="l_news_inner">
          <div class="container">
             <div class="row">
-               <div class="col-lg-9">
+               <div class="col-xl-9">
                   <div class="row">
-                  <?php for($i=0; $i<4; $i++){ ?>
+                  <?php for($i=1; $i<5; $i++){ ?>
                      <div class="col-lg-3">
                         <div class="card">
-                           <img class="card-img-top" src="<?=$news[$i]["picture"]?>">
+                           <a href="<?=base_url("news/".$i)?>"><img class="card-img-top" src="<?=$news[$i]["picture"]?>"></a>
                            <div class="card-body">
-                              <p class="card-title title" title="<?=$news[$i]["title"]?>"><strong><?=title($news[$i]["title"])?></strong></p>
-                              <p class="card-text"><?=content($news[$i]["content"])?> Read More</p>
+                              <a href="<?=base_url("news/".$i)?>"><p class="card-title title" title="<?=$news[$i]["title"]?>"><strong class="text-black"><?=title($news[$i]["title"])?></strong></p></a>
+                              <p class="card-text"><?=content($news[$i]["content"])?> <a href="<?=base_url("news/".$i)?>">Read More</a></p>
                            </div>
                         </div>
                      </div>
                   <?php } ?>
                   </div>
                   <div class="row">
-                  <?php for($i=4; $i<6; $i++){ ?>
+                  <?php for($i=5; $i<9; $i++){ ?>
                      <div class="col-md-6">
                         <div class="card">
                            <div class="row">
                               <div class="col-md-4">
-                                 <img class="image-content" src="<?=$news[$i]["picture"]?>">
+                                 <a href="<?=base_url("news/".$i)?>"><img class="image-content" src="<?=$news[$i]["picture"]?>"></a>
                               </div>
                               <div class="col-md-8">
-                                 <strong title="<?=$news[$i]["title"]?>"><strong><?=title($news[$i]["title"])?></strong></strong>
+                                 <a href="<?=base_url("news/".$i)?>"><strong class="text-black" title="<?=$news[$i]["title"]?>"><?=title($news[$i]["title"])?></strong></a>
                               </div>
                            </div>
                         </div>
@@ -330,7 +328,7 @@
                   <?php } ?>
                   </div>
                </div>
-               <div class="col-lg-3">
+               <div class="col-xl-3">
                   <div class="right_sidebar_area">
                      <aside class="right_widget r_news_widget">
                         <div class="news_inner">

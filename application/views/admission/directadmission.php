@@ -25,18 +25,39 @@
                      </div>
                      <div class="static_img">
 <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-                        <h4 style="color: #f26c21;">Direct Admission </h4>
+                        <h4 style="color: #f26c21;">Direct Admission (Round II)</h4>
                      </div>
                      <div class="static_text2">
-                        <p>Thai and Non-Thai students can now apply to WUIC directly from now to May 20, 2018</p>
-                        
+                        <p>Thai and Non-Thai students can now apply to WUIC directly from now to April 5, 2019<br>
+                        Announcement of Successful Candidates on April 12, 2019</p>
+                        <p>
+                            <div class="row justify-content-around">
+                                <div class="col-lg-5">
+                                    <div class="card text-center" style="border: 0px;">
+                                        <img class="card-img-top" src="<?=base_url() ?>public/img/icon/inter.png" alt="Card image cap">
+                                        <div class="card-body" style="padding-top: 5px;height: auto;">
+                                            <p class="card-text"><strong>International Students</strong></p>
+                                            <a href="https://entry.wu.ac.th/inter/apply.asp" class="btn btn-warning btn-sm" style="color: #111 !important;width: 50%;" target="_blank">Apply</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-5">
+                                    <div class="card text-center" style="border: 0px;">
+                                        <img class="card-img-top" src="<?=base_url() ?>public/img/icon/thai.png" alt="Card image cap">
+                                        <div class="card-body" style="padding-top: 5px;height: auto;">
+                                            <p class="card-text"><strong>Thai Students/Foreign Residents</strong></p>
+                                            <a href="https://entry.wu.ac.th/new/apply1.asp" class="btn btn-warning btn-sm" style="color: #111 !important;width: 50%;" target="_blank">Apply</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </p>
                      	<p><b>Qualifications and Requirements</b></p>
                      	<p>
-                     		1. Applicants must be high school graduate students or equivalent (or ongoing students who expected to graduate in academic year 2017)<br/>
-                        	2. Applicant must submit valid English Proficiency Test score: IELTS ≥6 or any other Standard English Test result. <br/>
-                        	Applicants without Standard English Test result must obtain GPAX in English not less than 3.50<br/>
-                        	3. Applicants must submit one of the national test scores such as O-NET, GAT/PAT, and Common 9 Subjects. <b>or</b><br/>
-                        	4. Applicants must submit one of the standardize test scores** such as SAT I, New SAT I, SAT II, GCSE, IGCSE, or ‘O’ Level (5 Subjects) and GCE ‘AS’, or ‘A’ level (3 Subjects) or “A” Level, IB, Sixth Form, and etc.
+                     		1. Applicants must be high school graduate students or equivalent (or ongoing students who expected to graduate in academic year 2018)<br/><br/>
+                        	2. Applicant must submit valid English Proficiency Test score: IELTS ≥6 or any other Standard English Test result. (Applicants without Standard English Test result must obtain GPA in English not less than 3.50)
+                        	<br/><br/>
+                        	3. Thai Applicants must submit one of the national test scores such as O-NET, GAT/PAT, and Common 9 Subjects. <b style="color: #FF5722;font-size: 18px;">or</b> Applicants must submit one of the standardize test scores** such as SAT I, New SAT I, SAT II, GCSE, IGCSE, or ‘O’ Level (5 Subjects) and GCE ‘AS’, or ‘A’ level (3 Subjects) or “A” Level, IB, Sixth Form, and etc.
                      	</p>
                      	<p>
                      		<b>Remark</b><br/>
@@ -45,14 +66,18 @@
                      	<div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
                             <table class="table">
                                     <tr class="" style="background-color: #f38448; text-align: center;">
-                                        <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;" rowspan="2"><b>Test</b></td>
-                                        <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;" rowspan="2"><strong>Subjects</strong></td>
+                                        <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;" rowspan="3"><b>Test</b></td>
+                                        <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;" rowspan="3"><strong>Subjects</strong></td>
                                         <td style="text-align: center;border: 1px solid #94999e;" colspan="3"><strong>Minimum Score</strong></td>
                                     </tr>
                                     <tr style="background-color: #f38448;text-align: center;">
-                                        <td style="text-align: center;border: 1px solid #94999e;"><strong>Digital Innovation Engineering</strong></td>
+                                        <td style="text-align: center;border: 1px solid #94999e;" rowspan="2"><strong>Digital Innovation Engineering</strong></td>
                                         <td style="text-align: center;border: 1px solid #94999e;"><strong>Public Affairs</strong></td>
                                         <td style="text-align: center;border: 1px solid #94999e;"><strong>Logistic Analytics and Supply Chain Management </strong></td>
+                                    </tr>
+                                    <tr class="" style="background-color: rgba(0,0,0,.05);">
+                                        <td style="text-align: center;background-color: #f38448 !important"><strong>Legal Applications</strong></td>
+                                        <td style="text-align: center;background-color: #f38448 !important"><strong>Accountancy</strong></td>
                                     </tr>
                                     <tr class="" style="background-color: rgba(0,0,0,.05);">
                                         <td style="text-align: center; vertical-align: middle;border: 1px solid #94999e;" rowspan="3"> <strong>SAT I</strong></td>

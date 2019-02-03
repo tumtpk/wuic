@@ -9,7 +9,7 @@ class Study extends CI_Controller {
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
             array("page"=>"Study at WUIC", "url"=>"#", "icon"=>"fa fa-angle-right"),
-            array("page"=>"Tuition & Fees", "url"=>base_url()."study/tuition", "icon"=>"fa fa-angle-right")
+            array("page"=>"Tuition Fees", "url"=>base_url()."study/tuition", "icon"=>"fa fa-angle-right")
         );
         
         $this->load->view('page/head');

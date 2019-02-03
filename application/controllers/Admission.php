@@ -160,6 +160,23 @@ class Admission extends CI_Controller {
 		$this->load->view('page/footer');
 		$this->load->view('page/foot');
 	}
+
+	public function announcement(){
+		$this->load->helper('url');
+		
+		$data['breadcrumb'] = array(
+		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+		    array("page"=>"Admission Announcement", "url"=>base_url()."admission/announcement", "icon"=>"fa fa-angle-right")
+		);
+		
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('page/header_page', $data);
+		$this->load->view('admission/announcement');
+		$this->load->view('page/news');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
 	
 	public function round4(){
 		$this->load->helper('url');
@@ -173,6 +190,23 @@ class Admission extends CI_Controller {
 		$this->load->view('page/menu');
 		$this->load->view('page/header_page', $data);
 		$this->load->view('admission/round4');
+		$this->load->view('page/news');
+		$this->load->view('page/footer');
+		$this->load->view('page/foot');
+	}
+	
+	public function round1(){
+		$this->load->helper('url');
+		
+		$data['breadcrumb'] = array(
+		    array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+		    array("page"=>"Round 1 - Portfolioi", "url"=>base_url()."admission/round1", "icon"=>"fa fa-angle-right")
+		);
+		
+		$this->load->view('page/head');
+		$this->load->view('page/menu');
+		$this->load->view('page/header_page', $data);
+		$this->load->view('admission/round1');
 		$this->load->view('page/news');
 		$this->load->view('page/footer');
 		$this->load->view('page/foot');

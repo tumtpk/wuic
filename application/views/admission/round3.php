@@ -28,95 +28,81 @@
          <h4 style="color: #f26c21;">Round 3 - Joint Direct Admission</h4>
       </div>
       <div class="static_text2">
-         <p>Application Submission Period: 9-13 May 2018</p>
-         <p>Admission is based upon result of national educational examinations (NIETS - National Institute of Educational Testing Service) with the following criteria and details of selection.</p>
+         <p>Application Submission Period: 17 - 29 April 2019</p>
+         <p>Admission is based upon result of national educational examinations (NIETS - National Institute of Educational Testing Service) with the following criteria and details of selection.</p><br>
          <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
             <table class="table">
                <tr class="" style="background-color: #f38448; text-align: center;">
                   <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="2">Programs</td>
-                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="2">Number of accepted students</td>
                   <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="2">Secondary School Program Requirement</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"colspan="3"  style="text-align: center;">Admission Requirement: National Test Scores with the ratio as following</td>
-                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle; padding-right: 30px;padding-left: 30px;"rowspan="2">Remark</td>
+                  <td style="text-align: center;border: 1px solid #94999e;"colspan="4"  style="text-align: center;">Admission Requirement</td>
+                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle; padding-right: 30px;padding-left: 30px;"rowspan="2">English Proficiency Test*</td>
                </tr>
                <tr style="background-color: #f38448;text-align: center;">
-                  <td style="text-align: center;border: 1px solid #94999e;padding-right: 40px;padding-left: 40px;">O&#150NET</td>
+                  <td>GPAX</td>
+                  <td style="text-align: center;border: 1px solid #94999e;padding-right: 40px;padding-left: 40px;">O-NET</td>
                   <td style="text-align: center;border: 1px solid #94999e; padding-right: 45px;padding-left: 45px;">GAT/PAT </td>
                   <td style="text-align: center;border: 1px solid #94999e;padding-right: 40px;padding-left: 40px;">Common 9 Subjects</td>
                </tr>
                <tr class="" style="background-color: rgba(0,0,0,.05);">
                   <td style="text-align: center;border: 1px solid #94999e;">B.Eng. in Digital Innovation Engineering</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">30</td>
                   <td style="text-align: center;border: 1px solid #94999e;">Science</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">03-05=30 <br><u>Ratio</u><br>03=30%<br>04=40%<br>05=40%</td>
-                  <td cellspacing="60" style="text-align: center;border: 1px solid #94999e;">GAT ≥ 160<br>
-                     GAT + PAT1 ≥50<br>
-                     GAT + PAT1, 2 ≥80<br>
-                     GAT + PAT1, 3 ≥90<br>
-                     <u>Ratio</u><br>
-                     GAT =40%<br>
-                     PAT1= 30%<br>
-                     GAT + PAT1,2= 30%<br>
-                     GAT + PAT1,3 =30%
+                  <td rowspan="5" style="vertical-align: middle;">≥2.50</td>
+                  <td style="text-align: center;border: 1px solid #94999e;">03≥40 and<br>04≥30 and<br>05≥30</td>
+                  <td cellspacing="60" style="text-align: center;border: 1px solid #94999e;">GAT ≥ 140 and<br>
+                     1. PAT1 ≥50 and<br>
+                     PAT2 ≥70 or<br>
+                     2. PAT1 ≥50 and<br>
+                     PAT3 ≥70
                   </td>
-                  <td style="text-align: center;border: 1px solid #94999e;"><u>Minimum</u><br>
-                     Physics ≥ 25%<br>
-                     English ≥ 30%<br>
-                     Math 1≥ 25%<br>
-                     <u>Ratio</u><br>
-                     Physics 30%<br>
-                     English 30%<br>
-                     Math 1 40%
+                  <td style="text-align: center;border: 1px solid #94999e;">
+                     29 ≥40 and<br>
+                     39 ≥30 and<br>
+                     49 ≥30
                   </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">Applicants can select and submit one of the test scores; O-NET, GAT/PAT or Common 9 Subjects.</td>
+                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;" rowspan="5">✓ <br>Except for international students and students from native English-speaking countries</td>
                </tr>
                <tr class="">
                   <td style="text-align: center;border: 1px solid #94999e;">B.A. in Public Affairs</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">40</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">All programs</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">01-03=30<br>
-                     <u>Ratio</u><br>
-                     01= 30%<br>
-                     02= 30%<br>
-                     03=40%
+                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">All programs</td>
+                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">01+02 ≥90 and<br>
+                     03≥40
                   </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">GAT ≥180<br>
-                     <u>Ratio</u><br>
-                     GAT 100%
+                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">GAT ≥140
                   </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">Thai ≥ 55<br>
-                     Social ≥35<br>
-                     English ≥35<br>
-                     <u>Ratio</u><br>
-                     Thai 30%<br>
-                     Social 30%<br>
-                     English 40%
+                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">
+                     09 ≥50<br>
+                     29 ≥40
                   </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">Applicants can select and submit one of the test scores; O-NET, GAT/PAT or Common 9 Subjects.</td>
+               </tr>
+               <tr style="text-align: center;">
+                  <td>LL.B. in Legal Applications</td>
                </tr>
                <tr  class="" style="background-color: rgba(0,0,0,.05);">
                   <td style="text-align: center;border: 1px solid #94999e;">B.B.A. in Logistics Analytics Supply Chain Management</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">30</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">Science or Arts-math</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">03-04=30<br>
-                     <u>Ratio</u><br>
-                     50% each
+                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">Science or Arts-math</td>
+                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">03≥40 and<br>
+                     04≥30
                   </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">GAT ≥160<br>
-                     PAT1 ≥ 50<br>
-                     <u>Ratio</u><br>
-                     GAT 50%<br>
-                     PAT1 50%
+                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">GAT ≥140 and<br>
+                     PAT1 ≥50
                   </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">English ≥30%<br>
-                     Math 1 ≥25%<br>
-                     <u>Ratio</u><br>
-                     English 50%<br>
-                     Math 1 50%
+                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">
+                     29 ≥40 and<br>
+                     39 ≥25
                   </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">Applicants can select and submit one of the test scores; O-NET, GAT/PAT or Common 9 Subjects.</td>
+               </tr>
+               <tr style="text-align: center;">
+                  <td style="background-color: rgba(0,0,0,.05);">B.B.A. in Accountancy</td>
                </tr>
             </table>
+            <br>
+            <p>Remark: </p>
+            <p>* <strong>English Proficiency Test</strong> All applicants are required to prove that they can use English to a standard that will allow them to study their programme. Applicants can do this in a number of ways:<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Applicants must submit valid English Proficiency Test score: TOEFL IBT 61 or IELTS 6.0 or any other Standard English Test result.<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. If Applicants are not a national of a majority English-speaking country, but have graduated from an institution in a majority English-speaking country, you can use your degree certificate to prove your English language ability.<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Applicants without Standard English Test result must obtain GPAX in English not less than 3.50
+            </p>
          </div>
       </div>
    </div>

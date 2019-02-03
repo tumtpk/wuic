@@ -1,12 +1,39 @@
 <?php 
 
-class News extends CI_Model {
+class Newsmodel extends CI_Model {
 
-    public function getLNews(){
+    public function getLNews($newId=null){
         $imagePath = base_url("public/img/news/");
         $news = [
+            [],
+            [
+                "title" => "“Going International Camp” held at WUIC during January 11-13, 2019",
+                "picture" => $imagePath."/camp/2.jpg", 
+                "content" => '
+                    <p>Professor Dr. Sombat Thamrongthanyawong, President of Walailak University delivered the opening remark at “Going International Camp @ WUIC” on 11th January, 2019. The camp organized by Walailak University International College (WUIC) at Co-Working Space, Walailak University during January 11-13, 2019.  Other memorable speech on “Explore Your Future in The 21st Century” also honorably delivered by Assoc. Prof. Dr. Surin Maisrikrod, Vice President for Global Engagement and Faculty Development on the second day of the camp.</p>
+                    <p>“Going International Camp @WUIC” was offering the engaging programs for students including “Boosting up your English skills” and “Learning English through songs” where participants had the opportunities to improve their English skills in order to prepare for their entrance exam, as well as the chance to take the Common European Framework of Reference for Languages (CEFR) exam. The participants also attended the session of “Getting to know WUIC and Experiencing WUIC Smart Classroom” which gave them the inspiring experience as being one of WUIC students.</p>
+                    <p>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="'.$imagePath.'/camp/1.jpg'.'" style="width: 100%;" />
+                            </div>
+                            <div class="col-md-6">
+                                <img src="'.$imagePath.'/camp/4.jpg'.'" style="width: 100%;" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="'.$imagePath.'/camp/3.jpg'.'" style="width: 100%;" />
+                            </div>
+                            <div class="col-md-6">
+                                <img src="'.$imagePath.'/camp/5.jpg'.'" style="width: 100%;" />
+                            </div>
+                        </div>
+                    </p>
+                '
+            ],
             [ 
-                "title" => "Walailak University International College (Thailand) signed a Memorandum of Understanding (MoU) with Coventry University London (UK)", 
+                "title" => "WU signs MoU with Coventry University London", 
                 "picture" => $imagePath."4.jpg", 
                 "content" => "
                     <p>Walailak University International College (Thailand) signed a Memorandum of Understanding (MoU) with Coventry University London (UK), in line with the vision of transnational education and educational developments.</p>
@@ -14,7 +41,7 @@ class News extends CI_Model {
                 " 
             ],
             [ 
-                "title" => "WUIC roadshow reaches students in Surat Thani province, connecting them to education opportunities in Walailak University International College.", 
+                "title" => "WUIC roadshow reaches students in Surat Thani", 
                 "picture" => $imagePath."5.jpg",
                 "content" => "
                     <p>Nov. 13<sup>th</sup>, 2018, Walailak University International College (WUIC) started their educational roadshow in neighbor province, Surat Thani. The overarching goal of the event was to encourage students to attend WUIC.</p>
@@ -35,14 +62,14 @@ class News extends CI_Model {
                 "  
             ],
             [ 
-                "title" => "WUIC welcomed Dr. Sutida from MEGA, Sydney with great pleasure", 
+                "title" => "WUIC welcomed Dr. Sutida from MEGA, Sydney", 
                 "picture" => $imagePath."6.jpg", 
                 "content" => "
                     <p>WUIC welcomed Dr. Sutida from MEGA, Sydney with great pleasure. Our BBA students enjoyed her teaching on Strategic Management very much. Thank you for visiting us and sharing your expertise and experience with them.</p>
                 " 
             ],
             [ 
-                "title" => "After participating in many activities under the UK-Thailand Transnational Education Development (TNE) Project", 
+                "title" => "Education Opportunities in TNE Peer Review", 
                 "picture" => $imagePath."7.jpg", 
                 "content" => "
                     <p>After participating in many activities under the UK-Thailand Transnational Education Development (TNE) Project, Dean of Walailak University International College (WUIC) joined TNE Peer Review at University of Westminster, London.</p>
@@ -50,15 +77,48 @@ class News extends CI_Model {
                 " 
             ],
             [ 
-                "title" => "Dean of Walailak University International College (WUIC), attended “Going Global 2018” held in Kuala Lumpur, Malaysia.", 
+                "title" => "WUIC attends Going Global 2018", 
                 "picture" => $imagePath."8.jpg", 
                 "content" => "
                     <p>During May 2-4, 2018, Dr. Jidtima Sunkhamani, Dean of Walailak University International College (WUIC), attended “Going Global 2018” held in Kuala Lumpur, Malaysia. This year's theme was 'Global connections, local impact'.</p>
                     <p>Going Global 2018 is a conference for leaders in international education to debate the future of further and higher education. Since 2004, Going Global has grown from a biennial event in the UK to an annual event alternating between the UK and major international cities.</p>
                 " 
+            ],
+            [ 
+                "title" => "WUIC attends Going Global 2018", 
+                "picture" => $imagePath."3.jpg", 
+                "content" => "
+                    <p>Walailak University International College (WUIC) has joined EduLife Expo 2018 - The biggest education expo consisting of various leading institutions and educational resources for Thai students, during 9-11 March, 2018 at Royal Paragon Hall, Siam Paragon, Bangkok. Exhibition visitors included school and university students, their guardians, as well as representatives of both Thai and international educational institutions.</p>
+                " 
+            ],
+            [ 
+                "title" => "Bachelor of Engineering (Digital Innovation Engineering)", 
+                "picture" => $imagePath."8.jpg", 
+                "content" => "
+                    <p>This program aims to produce graduates who inspire to change the digital world through innovative designs of applications and how they interact with humans worldwide. Graduates will respond to problems while creating new opportunities from digital innovations.</p>
+                    <p>Graduates can pursue work in areas such as:</p>
+                    <div class=\"col-md\">
+                        <p>1. Computer Engineering</p>
+                        <p>2. Innovative Engineers</p>
+                        <p>3. Problem-solver in creative innovations</p>
+                        <p>4. Software developers or programmer in an organization</p>
+                        <p>5. Entrepreneurs in the computer industry or a founder of a startup</p>
+                        <p>6. Digital products designers</p>
+                        <p>7. Academic, Researcher, Technician in the field of digital innovation</p>
+                    </div>
+                " 
             ]
         ];
         
-        return $news;
+        if($newId == null){
+            return $news;
+        }else{
+            if (array_key_exists($newId,$news)){
+                return $news[$newId];
+            }else{
+                $this->load->helper('url');
+                redirect(base_url(), 'refresh');
+            }
+        }
     }
 }

@@ -29,11 +29,7 @@
          <br>
       </div>
       <div class="static_text2">
-         <!-- <div class="form-group row text-center">
-            <div class="col-md">
-              	<img src="<?=base_url() ?>public/img/page/PAre-300x128.png" class="img-fluid" alt="Responsive image"><br>
-            </div>
-            </div> -->
+         
          <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -89,18 +85,30 @@
             <div class="r_w_title">
                <h3 style="color: #f26c21;">Facilities</h3>
             </div>
-            <ul>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4551/Green-Campus" style="color:#000000;">Green Campus</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">Hall of Residences</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">University Library and Learning Center</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4554/Laboratories-and-Lecture-Rooms" style="color:#000000;">Laboratories and Lecture Rooms</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">Computer Network System</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4556/Sports-Facilities" style="color:#000000;">Sports Facilities</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">WU Book Center</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">Cooperative Education</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="#" style="pointer-events:  none ; color:#000000;">Walailak Hospitality Center</a></p>
-               <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4560/University-Farm" style="color:#000000;">University Farm</a></p>
-            </ul>
+            <div class="row">
+               <div class="col-6">
+                  <ul>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4551/Green-Campus" target="_blank" style="color:#000000;">Green Campus</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/13280/Dormitory" target="_blank" style=" color:#000000;">Hall of Residences</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/13273/Library-Resources-and-Educational-Media-Center" target="_blank" style=" color:#000000;">University Library and Learning Center</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4554/Laboratories-and-Lecture-Rooms" target="_blank" style="color:#000000;">Laboratories and Lecture Rooms</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4556/Sports-Facilities" target="_blank" style="color:#000000;">Sports Facilities</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/13272/WU-book-center" target="_blank" style=" color:#000000;">WU Book Center</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4558/Cooperative-Education" target="_blank" style=" color:#000000;">Cooperative Education</a></p>
+                  </ul>
+               </div>
+               <div class="col-6">
+                  <ul>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://whc.wu.ac.th/" target="_blank" style=" color:#000000;">Walailak Hospitality Center</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/4560/University-Farm" target="_blank" style="color:#000000;">University Farm</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/13277/Health-Service" target="_blank" style="color:#000000;">Walailak University Hospital</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/13276/Bank-Services" target="_blank" style="color:#000000;">Bank Services</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/13278/Food-and-Shops" target="_blank" style="color:#000000;">Food and Shops</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/14275/WU-Electric-Shuttle-Car-Service" target="_blank" style="color:#000000;">WU Electric Shuttle Car Service</a></p>
+                     <p><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> <a href="https://www.wu.ac.th/en/campuslife/13281/Public-transportation-Train" target="_blank" style="color:#000000;">Public transportation-Train</a></p>
+                  </ul>
+               </div>
+            </div>
          </aside>
       </div>
    </div>
