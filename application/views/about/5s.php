@@ -52,7 +52,7 @@
                                  <h5>มาตรฐานกลาง</h5></a>
                               </div>
                               <div class="col-lg-3 text-center">
-                                 <a href="#" style="pointer-events: none;"><span style="font-size: 80px;"><i class="fa fa-check-square-o" aria-hidden="true"></i></span><br><br>
+                                 <a href="<?=base_url("about/audit") ?>"><span style="font-size: 80px;"><i class="fa fa-check-square-o" aria-hidden="true"></i></span><br><br>
                                  <h5>Self audit</h5></a>
                               </div>
                               <div class="col-lg-3 text-center">

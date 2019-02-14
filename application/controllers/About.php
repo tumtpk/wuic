@@ -85,6 +85,26 @@ class About extends CI_Controller {
         $this->load->view('page/foot');
     }
 
+    function audit(){
+        $this->load->helper('url');
+        
+        $data['breadcrumb'] = array(
+            array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+            array("page"=>"5s International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
+            array("page"=>"Self audit", "url"=>"#", "icon"=>"fa fa-angle-right")
+        );
+        
+        $title = array("title" => "Self audit");
+        
+        $this->load->view('page/head', $title);
+        $this->load->view('page/menu');
+        $this->load->view('page/header_page', $data);
+        $this->load->view('about/5s/audit');
+        $this->load->view('page/news');
+        $this->load->view('page/footer');
+        $this->load->view('page/foot');
+    }
+
     function committee(){
         $this->load->helper('url');
         

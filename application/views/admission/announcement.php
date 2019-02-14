@@ -29,10 +29,10 @@
          <br>
          <div class="static_text">
             <a name="01"></a>
-            <h5 style="color: #f26c21;">Announcement of Successful Applicants Admitted to 2019 Academic year (1st Round)</h5>
+            <h5 style="color: #f26c21;">Announcement of Successful Applicants Admitted to 2019 Academic year (1<sup>st</sup> Round)</h5>
             <img src="<?=base_url("public/img/news/announcement/01.png") ?>">
             <a name="02"></a>
-            <h5 style="color: #f26c21;">Announcement of Successful Applicants for 4 Years Scholarships for 2019-2022 (1st Round)</h5>
+            <h5 style="color: #f26c21;">Announcement of Successful Applicants for 4 Years Scholarships for 2019-2022 (1<sup>st</sup> Round)</h5>
             <img src="<?=base_url("public/img/news/announcement/02.png") ?>">
          </div>
       </div>

@@ -9,18 +9,24 @@
               <ol class="carousel-indicators">
                 <li data-target="#slide" data-slide-to="0" class="active"></li>
                 <li data-target="#slide" data-slide-to="1"></li>
+                <li data-target="#slide" data-slide-to="2"></li>
               </ol>
               <div class="carousel-inner">
-                <div class="carousel-item active">
-                	<a href="<?=base_url("admission/announcement#01");?>">
-                  		<img class="d-block w-100" src="<?=base_url("public/img/news/announcement/ann02.jpg") ?>" style="width:80% !important">
-                	</a>
-                </div>
-                <div class="carousel-item">
-                	<a href="<?=base_url("admission/announcement#02");?>">
-                 	 	<img class="d-block w-100" src="<?=base_url("public/img/news/announcement/ann01.jpg") ?>" style="width:80% !important">
-                	</a>
-                </div>
+                  <div class="carousel-item active">
+                     <a href="<?=base_url("study/scholarships");?>">
+                        <img class="d-block w-100" src="<?=base_url("public/img/banner/Banner.jpg"); ?>" style="width:80% !important">
+                     </a>
+                  </div>
+                  <div class="carousel-item">
+                     <a href="<?=base_url("admission/announcement#01");?>">
+                        <img class="d-block w-100" src="<?=base_url("public/img/news/announcement/ann02.jpg") ?>" style="width:80% !important">
+                     </a>
+                  </div>
+                  <div class="carousel-item">
+                     <a href="<?=base_url("admission/announcement#02");?>">
+                        <img class="d-block w-100" src="<?=base_url("public/img/news/announcement/ann01.jpg") ?>" style="width:80% !important">
+                     </a>
+                  </div>
               </div>
             </div>
         </div>
