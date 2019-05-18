@@ -28,76 +28,83 @@
          <h4 style="color: #f26c21;">Admission Period</h4>
          <br>
          <div class="static_text">
-            <p><b>1) College direct entry</b>&nbsp;<a href="<?= base_url(); ?>admission/howToApply"><b style="background-color: yellow; color: black;">Opening Now! <i class="fa fa-hand-pointer-o" aria-hidden="true"></i></b></a></p>
-            <p>Thai and Non-Thai students can now apply to WUIC directly from now to April 5, 2019
-            <br>Announcement of Successful Candidates on April 12, 2019</p>
-            
+            <p><b>1) College direct entry</b>&nbsp;<b style="background-color: yellow; color: black;">Opening Now!</b></p>
+            <p>Thai and Non-Thai students can now apply to WUIC directly from now to June 10, 2019
          </div>
       </div>
       <table class="table table-bordered table-hover" style="height: 211px;" width="646">
          <tbody>
             <tr class="" style="text-align: center; background-color: #f38448bf;">
-               <td><strong>Round</strong></td>
-               <td><strong>Status</strong></td>
+               <td width="100"><strong>Round</strong></td>
+               <td width="300"><strong>Status</strong></td>
                <td><strong>Applicaiton period</strong></td>
             </tr>
             <tr class="" >
                <td style="text-align: center; vertical-align: top;">1</td>
                <td style="vertical-align: top;">Closed</td>
-               <td>1 – 15 Dec 2018</td>
+               <td>1 – 15 December 2018</td>
             </tr>
-            <tr style="background-color: #e2ae91bf;">
+            <tr>
                <td style="text-align: center;">2</td>
-               <td>Opening</td>
-               <td>1 Feb – 5 April 2019</td>
+               <td>Closed</td>
+               <td>1 February – 11 April 2019</td>
             </tr>
-            <tr class="" style="">
+            <tr style="background-color: #e2ae91bf;cursor: pointer;" onclick="window.open('https://entry.wu.ac.th/new/apply1.asp')">
                <td style="text-align: center;">3</td>
-               <td>-</td>
-               <td>13 April - 5 May 2019</td>
+               <td>Opening Now <i class="fa fa-hand-pointer-o" aria-hidden="true"></i></td>
+               <td>12 April - 10 June 2019</td>
             </tr>
          </tbody>
       </table>
       <div class="static_text">
-         <p><b>2) Fast Trade</b></p> 
-         <p>For these who hold atleast </p>  
+         <p><b>2) Fast Track</b></p> 
+         <p>For those who held at least IELTS 6.0 or equivalent </p>  
       </div>
+      <table class="table table-bordered table-hover" width="646">
+         <tbody>
+            <tr style="text-align: center; background-color: #f38448bf;">
+               <td width="100"><strong>Round</strong></td>
+               <td width="300"><strong>Status</strong></td>
+               <td><strong>Applicaiton period</strong></td>
+            </tr>
+            <tr style="background-color: #e2ae91bf;cursor: pointer;" onclick="window.open('https://entry.wu.ac.th/new/apply1.asp')">
+               <td style="text-align: center; vertical-align: top;">1</td>
+               <td style="vertical-align: top;">Opening Now <i class="fa fa-hand-pointer-o" aria-hidden="true"></i></td>
+               <td>1 February  - 3 June 2019</td>
+            </tr>
+         </tbody>
+      </table>
 
       <div class="static_text">
 			<p><b>3) TCAS 2019</b></p>
-            <p>Admission Period follows Thai University Central Admission System (TCAS):</p>
+            <p>Admission Period follows Thai University Central Admission System (TCAS)</p>
       </div>
       <table class="table table-bordered table-hover" style="height: 211px;" width="646">
          <tbody>
-            <tr class="" style="background-color: #f38448; text-align: center;">
-               <td><strong>Round</strong></td>
-               <td><strong>Type</strong></td>
+            <tr class="" style="text-align: center; background-color: #f38448bf;">
+               <td width="100"><strong>Round</strong></td>
+               <td width="300"><strong>Type</strong></td>
                <td><strong>Applicaiton period</strong></td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
                <td style="text-align: center; vertical-align: top;">1</td>
                <td style="vertical-align: top;">Portfolios</td>
-               <td>1 – 15 Dec 2018 <b style="background-color: yellow; color: black;">extended to 23 Dec 2018</b></td>
+               <td>1 – 15 December 2018</td>
             </tr>
             <tr>
                <td style="text-align: center;">2</td>
                <td>Quota</td>
-               <td>2 Feb – 23 Mar 2019</td>
+               <td>2 February – 23 March 2019</td>
             </tr>
             <tr class="" style="background-color: rgba(0,0,0,.05);">
                <td style="text-align: center;">3</td>
                <td>Joint Direct Admission</td>
-               <td>17 – 29 Apr 2019</td>
+               <td>17 – 29 April 2019</td>
             </tr>
-            <tr>
+            <tr style="background-color: #e2ae91bf;cursor: pointer;" onclick="window.open('http://mytcas.com/')">
                <td style="text-align: center;">4</td>
-               <td>General Admission</td>
-               <td>9 - 19 May 2019</td>
-            </tr>
-            <tr class="" style="background-color: rgba(0,0,0,.05);">
-               <td style="text-align: center;">5</td>
-               <td>Independent Direct Admission</td>
-               <td>30 May – 10 Jun 2019</td>
+               <td>Admission</td>
+               <td>9 – 19 May 2019</td>
             </tr>
          </tbody>
       </table>

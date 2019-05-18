@@ -45,11 +45,11 @@
                               <td style="vertical-align:  middle !important;">125,600 THB</td>
                               <td>150,600 THB<br> (approx. USD 4,592)</td>
                             </tr>
-                            <tr>
+                            <!-- <tr>
                               <td class="text-left" style="vertical-align:  middle !important;">B.A. (Public Affairs)</td>
                               <td style="vertical-align:  middle !important;">63,100 THB</td>
                               <td>81,850 THB<br> (approx. USD 2,495)</td>
-                            </tr>
+                            </tr> -->
                             <tr>
                               <td class="text-left" style="vertical-align:  middle !important;">LL.B. (Legal Applications)</td>
                               <td style="vertical-align:  middle !important;">90,600 THB</td>
@@ -61,7 +61,7 @@
                               <td>125,600 THB<br> (approx. USD 3,829)</td>
                             </tr>
                             <tr>
-                              <td class="text-left" style="vertical-align:  middle !important;">B.B.A. (Acountancy)</td>
+                              <td class="text-left" style="vertical-align:  middle !important;">B.B.A. (Accountancy)</td>
                               <td style="vertical-align:  middle !important;">75,600 THB</td>
                               <td>90,600 THB<br> (approx. USD 2,762)</td>
                             </tr>

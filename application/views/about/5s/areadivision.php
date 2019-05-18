@@ -25,6 +25,10 @@
                      </div>
                      <div class="static_img">
                         <h4 style="color: #f26c21;">การแบ่งพื้นที่และผู้รับผิดชอบกิจกรรม 5ส วิทยาลัยนานาชาติ</h4>
+                        <br>
+                        <div class="text-center">
+                           <img src="<?=base_url("public/img/5s/division.png")?>" width="50%">
+                        </div>
                      </div>
                      <div class="static_text">
                         <table class="table table-bordered" style="width:90%;">

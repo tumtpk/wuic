@@ -27,8 +27,9 @@
                <div class="dropdown show" href="#">
                   <a class="dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 16px;color: #f96712;">About WUIC</a>
                   <div class="dropnav dropdown-menu" aria-labelledby="dropdownMenuLink">
-                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>about/the5s" style="color:white !important;">5s</a>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>about/collaborations" style="color:white !important;">International Collaborations</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>news" style="color:white !important;">WUIC Activities</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>about/the5s" style="color:white !important;">5S</a>
                   </div>
                </div>
             </li>
@@ -39,8 +40,8 @@
                      <li class="dropdown-submenu">
                         <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 270px;color:white !important;" >Undergraduate</a>
                         <ul class="dropdown-menu">
-                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital" style="color:white !important;">B.Eng. (Digital Innovation Engineering)</a>
-                     		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs" style="color:white !important;">B.A. (Public Affairs)</a>
+                           <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/digital" style="color:white !important;">B.Eng. (Digital Innovation Engineering)</a>
+                     		<!-- <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/publicAffairs" style="color:white !important;">B.A. (Public Affairs)</a> -->
                      		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/logistic" style="color:white !important;">B.B.A. (Logistics Analytics and Supply Chain Management)</a>
                      		<a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/laws" style="color:white !important;">LL.B. (Bachelor of Laws)</a>
                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>academic/accountancy" style="color:white !important;">B.B.A. (Accountancy)</a>
@@ -49,6 +50,7 @@
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/academicCalendar" style="color:white !important;">Academic calendar</a>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/scholarships" style="color:white !important;">Undergraduate Excellence Scholarship</a>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/tuition" style="color:white !important;">Tuition Fees</a>
+                     <a class="dropdown-item lineheight" href="<?= base_url(); ?>study/precollege" style="color:white !important;">Pre-College English Courses</a>
                   </ul>
                </div>
             </li>
@@ -63,9 +65,10 @@
                         <a class="dropdown-item lineheight dropdown-toggle" href="#" style="min-width: 100px;color:white !important;" >Admission Criteria</a>
                      	<ul class="dropdown-menu">
                             <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/directadmission" style="color:white !important;">Direct Admission</a>
-                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round1" style="color:white !important;">TCAS Round 1 - Portfolio</a>
-                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/quota" style="color:white !important;">TCAS Round 2 - Quota</a>
+                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round4" style="color:white !important;">TCAS Round 4 - Admission</a>
                             <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round3" style="color:white !important;">TCAS Round 3 - Joint Direct Admission</a>
+                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/quota" style="color:white !important;">TCAS Round 2 - Quota</a>                            
+                            <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/round1" style="color:white !important;">TCAS Round 1 - Portfolio</a>
                         </ul>
                      </li>
                      <a class="dropdown-item lineheight" href="<?= base_url(); ?>admission/howToApply" style="color:white !important;">How to apply</a>

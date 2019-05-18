@@ -10,27 +10,34 @@
                 <li data-target="#slide" data-slide-to="0" class="active"></li>
                 <li data-target="#slide" data-slide-to="1"></li>
                 <li data-target="#slide" data-slide-to="2"></li>
+                <li data-target="#slide" data-slide-to="4"></li>
               </ol>
               <div class="carousel-inner">
                   <div class="carousel-item active">
+                     <a href="<?=base_url("scholarship");?>">
+                        <img class="d-block w-100" src="<?=base_url("public/img/fund/wuic3.jpg"); ?>" style="width:80% !important">
+                     </a>
+                  </div>
+                  <div class="carousel-item">
                      <a href="<?=base_url("study/scholarships");?>">
-                        <img class="d-block w-100" src="<?=base_url("public/img/banner/Banner.jpg"); ?>" style="width:80% !important">
+                        <img class="d-block w-100" src="<?=base_url("public/img/fund/wuic1.jpg"); ?>" style="width:80% !important">
                      </a>
                   </div>
                   <div class="carousel-item">
-                     <a href="<?=base_url("admission/announcement#01");?>">
-                        <img class="d-block w-100" src="<?=base_url("public/img/news/announcement/ann02.jpg") ?>" style="width:80% !important">
+                     <a href="<?=base_url("admission/round4");?>">
+                        <img class="d-block w-100" src="<?=base_url("public/img/fund/wuic2.jpg"); ?>" style="width:80% !important">
                      </a>
                   </div>
                   <div class="carousel-item">
-                     <a href="<?=base_url("admission/announcement#02");?>">
-                        <img class="d-block w-100" src="<?=base_url("public/img/news/announcement/ann01.jpg") ?>" style="width:80% !important">
+                     <a href="<?=base_url("study/precollege");?>">
+                        <img class="d-block w-100" src="<?=base_url("public/img/news/announcement/course.png"); ?>" style="width:80% !important">
                      </a>
                   </div>
               </div>
             </div>
         </div>
       </div>
+      <br>
       <div class="row">
          <div class="col-lg-12">
             <div class="d_feature_text">
@@ -346,6 +353,10 @@
                               <iframe width="100%" src="https://www.youtube.com/embed/UNCcY2ujYEI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                            	  <p class="text-center"><b>TALK TO WALAILAK</b></p>
                            </div>
+                           <div class="news_item">
+                              <iframe width="100%" src="https://www.youtube.com/embed/mcDSptvYCcc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           	  <p class="text-center"><b>Talk with The President – Walailak University International College </b></p>
+                           </div>
                         </div>
                      </aside>
                   </div>
@@ -366,9 +377,9 @@
                <!-- <p>Public, autonomous, comprehensive and research-focused university with high quality, internationally-oriented curriculums; High quality Thai and …</p> -->
                <!-- <a class="read_btn" href="#">Read more</a> -->
                <div class="container">
-                  <div class="row">
+                  <div class="row justify-content-md-center">
                      <div class="col-md-3">
-                        <a href="http://www.mdx.ac.uk/">
+                        <a href="http://www.mdx.ac.uk/" target="_blank">
                         <div class="card" style="height: 200px;border: 0px;">
                            <div class="card-body">
                               <!-- <h5 class="card-title">Special title treatment</h5> -->
@@ -380,7 +391,7 @@
                         </a>
                      </div>
                      <div class="col-md-3">
-                        <a href="https://www.essex.ac.uk/">
+                        <a href="https://www.essex.ac.uk/" target="_blank">
                         <div class="card" style="height: 200px;border: 0px;">
                            <div class="card-body">
                               <!-- <h5 class="card-title">Special title treatment</h5> -->
@@ -392,7 +403,7 @@
                         </a>
                      </div>
                      <div class="col-md-3">
-                        <a href="http://www.coventry.ac.uk/london">
+                        <a href="http://www.coventry.ac.uk/london" target="_blank">
                         <div class="card" style="height: 200px;border: 0px;">
                            <div class="card-body">
                               <!-- <h5 class="card-title">Special title treatment</h5> -->
@@ -403,13 +414,39 @@
                         </div>
                         </a>
                      </div>
+                  </div>
+                  <div class="row justify-content-md-center">
                      <div class="col-md-3">
-                        <a href="http://www.iaiai.org/top">
+                        <a href="http://www.iaiai.org/top" target="_blank">
                         <div class="card" style="height: 200px;border: 0px;">
                            <div class="card-body">
                               <!-- <h5 class="card-title">Special title treatment</h5> -->
                               <div class="text-center">
-                                    <img src="<?= base_url("public/img/news/u4.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;"></img>
+                                 <img src="<?= base_url("public/img/news/u4.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;">
+                              </div>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
+                     <div class="col-lg-3">
+                        <a href="http://uist.edu.mk/" target="_blank">
+                        <div class="card" style="height: 200px;border: 0px;">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                 <img src="<?=base_url("public/img/about/UIST.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;">
+                              </div>
+                           </div>
+                        </div>
+                        </a>
+                     </div>
+                     <div class="col-lg-3">
+                        <a href="http://www.mega.edu.au/" target="_blank">
+                        <div class="card" style="height: 200px;border: 0px;">
+                           <div class="card-body">
+                              <!-- <h5 class="card-title">Special title treatment</h5> -->
+                              <div class="text-center">
+                                 <img src="<?=base_url("public/img/about/Mega.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;">
                               </div>
                            </div>
                         </div>

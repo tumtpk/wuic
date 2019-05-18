@@ -25,70 +25,114 @@
       </div>
       <div class="static_img">
          <!--                         <img class="img-fluid" src="img/static-1.jpg" alt=""> -->
-         <h4 style="color: #f26c21;">Round 4 - General Admission</h4>
+         <h4 style="color: #f26c21;">Round 4 - Admission</h4>
       </div>
       <div class="static_text2">
-         <p>Application Submission Period: 9 - 19 May 2019</p>
-         <p>Admission is based upon result of National Test Scores and GPAX with the following criteria and details of selection.</p><br/>
-         <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
+         <p>Application Submission Period: 9 – 19 May 2019</p>
+         <p>Admission is based upon the result of National Test Scores and GPAX with the ratio as follows.</p><br/>
+         
+         <div class="table-responsive table-bordered">
             <table class="table">
-               <tr class="" style="background-color: #f38448; text-align: center;">
-                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="3">Programs</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"colspan="6"  style="text-align: center;">Admission Requirement: GPAX and National Test Scores with the ratio as following</td>
-                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="3">English Proficiency Test(IELT)*</td>
-               </tr>
-               <tr style="background-color: #f38448;text-align: center;">
-                  <td style="text-align: center;border: 1px solid #94999e;"rowspan="2">GPAX</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"rowspan="2">O-NET</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"rowspan="2">GAT</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"colspan="3">PAT</td>
-               </tr>
-               <tr style="background-color: #f38448;text-align: center;">
-                  <td style="text-align: center;border: 1px solid #94999e;">PAT 1</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">PAT 2</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">PAT 3</td>
-               </tr>
-               <tr class="" style="background-color: rgba(0,0,0,.05);">
-                  <td style="text-align: center;border: 1px solid #94999e;">B.Eng. in Digital Innovation Engineering</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">20</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">30</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">15</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"></td>
-                  <td style="text-align: center;border: 1px solid #94999e;">15</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">20</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"rowspan="4">6.0</td>
-               </tr>
-               <tr class="">
-                  <td style="text-align: center;border: 1px solid #94999e;">B.B.A. in Logistic Analytics and Supply Chain Management </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">20</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">30</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">30</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">20</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"></td>
-                  <td style="text-align: center;border: 1px solid #94999e;"></td>
-               </tr>
-               <tr  class="" style="background-color: rgba(0,0,0,.05);">
-                  <td style="text-align: center;border: 1px solid #94999e;">B.A. in Public Affairs (Secondary School students from Social Science Program)</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">20</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">30</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">50</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"></td>
-                  <td style="text-align: center;border: 1px solid #94999e;"></td>
-                  <td style="text-align: center;border: 1px solid #94999e;"></td>
-               </tr>
-               <tr class="">
-                  <td style="text-align: center;border: 1px solid #94999e;">B.A. in Public Affairs (Secondary School students from Science Program)</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">20</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">30</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">30</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">20</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"></td>
-                  <td style="text-align: center;border: 1px solid #94999e;"></td>
-               </tr>
+               <tbody>
+                     <tr style="background-color: #f38448; text-align: center;">
+                        <td rowspan="2">
+                           <strong>Programs</strong>
+                        </td>
+                        <td colspan="4">
+                           <strong>Proportion of scores calculated</strong>
+                        </td>
+                     </tr>
+                     <tr style="background-color: #f38448; text-align: center;">
+                        <td>
+                           <strong>GPAX</strong>
+                        </td>
+                        <td>
+                           <strong>O-NET</strong>
+                        </td>
+                        <td>
+                           <strong>GAT</strong>
+                        </td>
+                        <td>
+                           <strong>PAT</strong>
+                        </td>
+                     </tr>
+                     <tr style="background-color: rgba(0,0,0,.05);">
+                        <td>
+                           B.Eng. in Digital Innovation Engineering
+                           &nbsp;
+                        </td>
+                        <td class="text-center">
+                           20%
+                        </td>
+                        <td class="text-center">
+                           30%
+                        </td>
+                        <td class="text-center">
+                           15%
+                        </td>
+                        <td class="text-center">
+                           PAT 2 - 15%
+                           PAT 3 - 20%
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           B.B.A. in Logistics Analytics Supply Chain Management
+                           &nbsp;
+                        </td>
+                        <td class="text-center">
+                           20%
+                        </td>
+                        <td class="text-center">
+                           30%
+                        </td>
+                        <td class="text-center">
+                           30%
+                        </td>
+                        <td class="text-center">
+                           PAT 1 - 20%
+                        </td>
+                     </tr>
+                     <tr style="background-color: rgba(0,0,0,.05);">
+                        <td>
+                           LL.B. in Legal Applications
+                           &nbsp;
+                        </td>
+                        <td class="text-center">
+                           20%
+                        </td>
+                        <td class="text-center">
+                           30%
+                        </td>
+                        <td class="text-center">
+                           50%
+                        </td>
+                        <td class="text-center">
+                           -
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           B.B.A. in Accountancy
+                           &nbsp;
+                        </td>
+                        <td class="text-center">
+                           20%
+                        </td>
+                        <td class="text-center">
+                           30%
+                        </td>
+                        <td class="text-center">
+                           30%
+                        </td>
+                        <td class="text-center">
+                           PAT 1 - 20%
+                        </td>
+                     </tr>
+               </tbody>
             </table>
          </div>
-         <p><strong>Remark</strong></p>
-         <p>* English Proficiency Test Score: IELTS ≥6 or any other Standard English test result. Applicants without Standard English test must obtain GPAX in English not less than 3.50</p>
+         
       </div>
    </div>
 </div>

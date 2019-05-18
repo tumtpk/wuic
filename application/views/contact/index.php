@@ -44,6 +44,8 @@
                         <span style="color: red;"><i class="fa fa-phone"></i></span> +66 96 998 3944 <br/>
                         <span style="color: #2bc0a4;"><i class="fa fa-envelope-o"></i></span> wuic@wu.ac.th
                      </div>
+                     <iframe width="800" height="550" frameborder="0" style="border:0"
+                     src="https://www.google.com/maps/embed/v1/place?q=walailak%20university&key=AIzaSyAkIZnNCmtHCX6tx32t61g2Vhq_nCTmwa0" allowfullscreen></iframe>
                      <!-- <div class="contact_d_list_item">
                         <p>Open hours: 8.00-18.00 Mon-Fri <br />Sunday: Closed</p>
                         </div> -->

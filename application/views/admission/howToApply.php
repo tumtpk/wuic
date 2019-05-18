@@ -55,13 +55,10 @@
                               </div>
                             </p>
                             <p>2. Submit your supporting documents to email wuic.admissions@mail.wu.ac.th</p>
-                            <div class="col-md-10 offset-md-1"><p>2.1. 1”x1” photograph (School/University uniform, taken in the last 6 months)</p></div>
-                            <div class="col-md-10 offset-md-1"><p>2.2. A photocopy of official transcript*  </p></div>
+                            <div class="col-md-10 offset-md-1"><p>2.1. A photocopy of official transcript*  </p></div>
+                            <div class="col-md-10 offset-md-1"><p>2.2. A photocopy of English proficiency test scores: IELTS (≥6) or any other Standard English test</p></div>                            
                             <div class="col-md-10 offset-md-1"><p>2.3. A photocopy of the Thai national identity card or passport (Non-Thai applicant)</p></div>
                             <div class="col-md-10 offset-md-1"><p>2.4. A photocopy of one’s current residency document</p></div>
-                            <div class="col-md-10 offset-md-1"><p>2.5 A photocopy of English proficiency test scores: IELTS (≥6) or any other Standard English test</p></div>
-                            <div class="col-md-10 offset-md-1"><p>2.6. A photocopy of pay-in slip for application fee of 300 THB </p></div>
-
 
                             <br>
                            

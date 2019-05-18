@@ -27,7 +27,10 @@
                         <h4 style="color: #f26c21;">มาตรฐานกลาง</h4>
                      </div>
                      <div class="static_text">
-                        <iframe src="https://drive.google.com/file/d/1CgpnOehaS7w7zju9ZDhgSjAEv2depb8g/preview" style="width:100%; height:1000px"></iframe>
+                        <p>2.1 คู่มือ 5ส มหาวิทยาลัยวลัยลักษณ์</p>
+                        <iframe src="https://drive.google.com/file/d/1CgpnOehaS7w7zju9ZDhgSjAEv2depb8g/preview" style="width:100%; height:500px"></iframe>
+                        <p>2.2 มาตรฐานกลาง 5ส</p>
+                        <iframe src="https://drive.google.com/file/d/1lXcjcXKNdrRYYeW0ELUOXUd8gRfIBUOQ/preview" style="width:100%; height:500px"></iframe>
                      </div>
                   </div>
                </div>

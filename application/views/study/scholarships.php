@@ -32,14 +32,14 @@
                      	<p>Walailak University International College (WUIC) offers full and partial Tuition Waiver Scholarships for the admission of students with excellent academic records.</p>
                         <p>The scholarship scheme is for students to study for their 4-year Bachelor’s Degree in the following international programs, starting from the 1<sup>st</sup> semester, Academic Year 2019 (August 2019 – May 2020).</p>
                      	<p style="margin-left: 30px"><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Digital Innovation Engineering (B.Eng.)</p>
-                        <p style="margin-left: 30px"><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Logistic Analytics and Supply Chain Management (B.B.A) </p>
+                        <p style="margin-left: 30px"><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Logistic Analytics and Supply Chain Management (B.B.A.) </p>
                         <p style="margin-left: 30px"><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Laws and Legal Applications (LL.B.)</p>
                         <p style="margin-left: 30px"><i class="fa fa-dot-circle-o" aria-hidden="true" style="color: #f26c21;"></i> Accountancy (B.B.A.)</p>
                      	
                      	<p>The deadline for the applications for scholarship is on 10<sup>th</sup> May 2019.  Interested person, can submit the application and required documents online directly to Walailak University International College (WUIC) via E-mail: <strong>wuic.scholarship@mail.wu.ac.th</strong></p>
                      	<p><b>Download :</b> <br/><span style="font-size: 14px">
                      	
-                     	WUIC Scholarships <a href="https://drive.google.com/file/d/1bpS-2-mADioLv3U_ThRBSfetu88ZPt-7/view?usp=sharing" target="_blank">Click</a><br/>
+                     	WUIC Scholarships <a href="https://drive.google.com/file/d/1ykK4_BRV8_8OCX20rfOnmx9k_Xj95Rhc/view?usp=sharing" target="_blank">Click</a><br/>
                      	Scholarship Application Form <a href="<?=base_url("public/file/WUICScholarshipform.pdf") ?>">Click</a></span></p>
                         
                         <p><b>Sent your documents to email : wuic.scholarship@mail.wu.ac.th</b></p>

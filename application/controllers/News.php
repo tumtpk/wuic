@@ -18,26 +18,28 @@ class News extends CI_Controller {
      * map to /index.php/welcome/<method_name>
      * @see https://codeigniter.com/user_guide/general/urls.html
      */
-//     public function index()
-//     {
-//         $this->load->helper('url');
+    public function index()
+    {
+        $this->load->helper('url');
         
-//         $data['breadcrumb'] = array(
-//             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-//             array("page"=>"News", "url"=>"#", "icon"=>"fa fa-angle-right")
-//         );
+        $data['breadcrumb'] = array(
+            array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+            array("page"=>"News", "url"=>"#", "icon"=>"fa fa-angle-right")
+        );
         
-//         $title = array("title" => "Walailak - News");
+        $title = array("title" => "Walailak - News");
+        $this->load->model("newsmodel");
+        $data['news'] = $this->newsmodel->getLNews();
         
-//         $this->load->view('page/head', $title);
-//         $this->load->view('page/menu');
-//         $this->load->view('page/header_page', $data);
-//         $this->load->view('news/index');
-//         $this->load->view('page/news');
-//         $this->load->view('page/footer');
-//         $this->load->view('page/foot');
+        $this->load->view('page/head', $title);
+        $this->load->view('page/menu');
+        $this->load->view('page/header_page', $data);
+        $this->load->view('news/index');
+        $this->load->view('page/news');
+        $this->load->view('page/footer');
+        $this->load->view('page/foot');
         
-//     }
+    }
     public function page($newid)
     {
         $this->load->helper('url');

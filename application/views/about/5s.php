@@ -42,7 +42,7 @@
                                  <h5>เป้าหมายการดำเนินงาน</h5></a>
                               </div>
                               <div class="col-lg-3 text-center">
-                                 <a href="#" style="pointer-events: none;"><span style="font-size: 80px;"><i class="fa fa-calendar" aria-hidden="true"></i></span><br><br>
+                                 <a href="<?=base_url("about/plan") ?>"><span style="font-size: 80px;"><i class="fa fa-calendar" aria-hidden="true"></i></span><br><br>
                                  <h5>แผนปฏิบัติการ 5ส</h5></a>
                               </div>
                            </div>
@@ -56,7 +56,7 @@
                                  <h5>Self audit</h5></a>
                               </div>
                               <div class="col-lg-3 text-center">
-                                 <a href="#" style="pointer-events: none;"><span style="font-size: 80px;"><i class="fa fa-paint-brush" aria-hidden="true"></i></span><br><br>
+                                 <a href="<?=base_url("about/beforeafter") ?>"><span style="font-size: 80px;"><i class="fa fa-paint-brush" aria-hidden="true"></i></span><br><br>
                                  <h5>Before-after</h5></a>
                               </div>
                               <div class="col-lg-3 text-center">

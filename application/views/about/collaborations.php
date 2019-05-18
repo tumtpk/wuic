@@ -33,6 +33,8 @@
                         <li style="margin-left: .5in; text-indent: -.25in;">- <span style=" ">Coventry University London, UK</span></li>
                         <li style="margin-left: .5in; text-indent: -.25in;">- <span style=" ">Middlesex University London, UK</span></li>
                         <li style="margin-left: .5in; text-indent: -.25in;">- <span style=" ">International Institute of Applied Informatics, Japan</span></li>
+                        <li style="margin-left: .5in; text-indent: -.25in;">- <span style=" ">University of Essex, UK</span></li>
+                        <li style="margin-left: .5in; text-indent: -.25in;">- <span style=" ">Macquarie Education Group Australia</span></li>
                         </ul>
                         <br>
                         <p><strong><span style=" ">Erasmus+ and International Exchange</span></strong></p>
@@ -40,13 +42,82 @@
                         <li style="margin-left: .5in; text-indent: -.25in;">- <span style=" ">University of Information Science and Technology &ldquo;St. Paul the Apostle&rdquo;, Ohrid, Macedonia <a href="<?=base_url("public/file/IIA.pdf") ?>">Click</a></span></li>
                         </ul>
                         <p>
-                           <div class="row justify-content-md-center">
-                              <div class="col-lg-3">
-                                 <a href="http://uist.edu.mk/" target="_blank">
-                                    <img src="<?=base_url("public/img/about/UIST.png"); ?>" style="width:100%">
-                                 </a>
+                        <div class="row justify-content-md-center">
+                           <div class="col-md-4">
+                              <a href="http://www.mdx.ac.uk/" target="_blank">
+                              <div class="card" style="height: 200px;border: 0px;">
+                                 <div class="card-body">
+                                    <!-- <h5 class="card-title">Special title treatment</h5> -->
+                                    <div class="text-center">
+                                          <img src="<?= base_url("public/img/news/u1.jpg"); ?>" class="img-thumbnail" style="width: 100%;border: 0px solid #ddd;"></img>
+                                    </div>
+                                 </div>
                               </div>
+                              </a>
                            </div>
+                           <div class="col-md-4">
+                              <a href="https://www.essex.ac.uk/" target="_blank">
+                              <div class="card" style="height: 200px;border: 0px;">
+                                 <div class="card-body">
+                                    <!-- <h5 class="card-title">Special title treatment</h5> -->
+                                    <div class="text-center">
+                                          <img src="<?= base_url("public/img/news/u2.jpg"); ?>" class="img-thumbnail" style="width: 100%;border: 0px solid #ddd;"></img>
+                                    </div>
+                                 </div>
+                              </div>
+                              </a>
+                           </div>
+                           <div class="col-md-4">
+                              <a href="http://www.coventry.ac.uk/london" target="_blank">
+                              <div class="card" style="height: 200px;border: 0px;">
+                                 <div class="card-body">
+                                    <!-- <h5 class="card-title">Special title treatment</h5> -->
+                                    <div class="text-center">
+                                          <img src="<?= base_url(); ?>public/img/news/u3.jpg" style="width: 60%;border: 0px solid #ddd;" alt="">
+                                    </div>
+                              </div>
+                              </div>
+                              </a>
+                           </div>
+                        </div>
+                        <div class="row justify-content-md-center">
+                           <div class="col-md-4">
+                              <a href="http://www.iaiai.org/top" target="_blank">
+                              <div class="card" style="height: 200px;border: 0px;">
+                                 <div class="card-body">
+                                    <!-- <h5 class="card-title">Special title treatment</h5> -->
+                                    <div class="text-center">
+                                       <img src="<?= base_url("public/img/news/u4.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;">
+                                    </div>
+                                 </div>
+                              </div>
+                              </a>
+                           </div>
+                           <div class="col-lg-4">
+                              <a href="http://uist.edu.mk/" target="_blank">
+                              <div class="card" style="height: 200px;border: 0px;">
+                                 <div class="card-body">
+                                    <!-- <h5 class="card-title">Special title treatment</h5> -->
+                                    <div class="text-center">
+                                       <img src="<?=base_url("public/img/about/UIST.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;">
+                                    </div>
+                                 </div>
+                              </div>
+                              </a>
+                           </div>
+                           <div class="col-lg-4">
+                              <a href="http://www.mega.edu.au/" target="_blank">
+                              <div class="card" style="height: 200px;border: 0px;">
+                                 <div class="card-body">
+                                    <!-- <h5 class="card-title">Special title treatment</h5> -->
+                                    <div class="text-center">
+                                       <img src="<?=base_url("public/img/about/Mega.png"); ?>" class="img-thumbnail" style="width: 60%;background-color: #ff000000;border-radius: 0rem;border-color: #ffffff00;">
+                                    </div>
+                                 </div>
+                              </div>
+                              </a>
+                           </div>
+                        </div>
                         </p>
                   </div>
                </div>

@@ -10,10 +10,10 @@ class About extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"5s International Collage", "url"=>"#", "icon"=>"fa fa-angle-right")
+            array("page"=>"5S International Collage", "url"=>"#", "icon"=>"fa fa-angle-right")
         );
         
-        $title = array("title" => "5s International Collage");
+        $title = array("title" => "5S International Collage");
         
         $this->load->view('page/head', $title);
         $this->load->view('page/menu');
@@ -30,7 +30,7 @@ class About extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"5s International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
+            array("page"=>"5S International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
             array("page"=>"การแบ่งพื้นที่และผู้รับผิดชอบกิจกรรม 5ส วิทยาลัยนานาชาติ", "url"=>"#", "icon"=>"fa fa-angle-right")
         );
         
@@ -45,12 +45,52 @@ class About extends CI_Controller {
         $this->load->view('page/foot');
     }
 
+    function plan(){
+        $this->load->helper('url');
+        
+        $data['breadcrumb'] = array(
+            array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+            array("page"=>"5S International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
+            array("page"=>"แผนปฏิบัติการ 5ส", "url"=>"#", "icon"=>"fa fa-angle-right")
+        );
+        
+        $title = array("title" => "แผนปฏิบัติการ 5ส");
+        
+        $this->load->view('page/head', $title);
+        $this->load->view('page/menu');
+        $this->load->view('page/header_page', $data);
+        $this->load->view('about/5s/plan');
+        $this->load->view('page/news');
+        $this->load->view('page/footer');
+        $this->load->view('page/foot');
+    }
+
+    function beforeafter(){
+        $this->load->helper('url');
+        
+        $data['breadcrumb'] = array(
+            array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
+            array("page"=>"5S International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
+            array("page"=>"Before-after", "url"=>"#", "icon"=>"fa fa-angle-right")
+        );
+        
+        $title = array("title" => "Before-after");
+        
+        $this->load->view('page/head', $title);
+        $this->load->view('page/menu');
+        $this->load->view('page/header_page', $data);
+        $this->load->view('about/5s/beforeafter');
+        $this->load->view('page/news');
+        $this->load->view('page/footer');
+        $this->load->view('page/foot');
+    }
+
     function goal(){
         $this->load->helper('url');
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"5s International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
+            array("page"=>"5S International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
             array("page"=>"เป้าหมายการดำเนินงาน 5ส", "url"=>"#", "icon"=>"fa fa-angle-right")
         );
         
@@ -70,7 +110,7 @@ class About extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"5s International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
+            array("page"=>"5S International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
             array("page"=>"มาตรฐานกลาง", "url"=>"#", "icon"=>"fa fa-angle-right")
         );
         
@@ -90,7 +130,7 @@ class About extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"5s International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
+            array("page"=>"5S International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
             array("page"=>"Self audit", "url"=>"#", "icon"=>"fa fa-angle-right")
         );
         
@@ -110,7 +150,7 @@ class About extends CI_Controller {
         
         $data['breadcrumb'] = array(
             array("page"=>"Home", "url"=>base_url(), "icon"=>"fa fa-home"),
-            array("page"=>"5s International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
+            array("page"=>"5S International Collage", "url"=>base_url("about/the5s"), "icon"=>"fa fa-angle-right"),
             array("page"=>"โครงสร้างคณะกรรมการ 5ส", "url"=>"#", "icon"=>"fa fa-angle-right")
         );
         

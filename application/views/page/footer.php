@@ -1,6 +1,6 @@
 
         <!--================Footer Area =================-->
-        <footer class="footer_area">
+        <footer class="footer_area" style="overflow: -webkit-paged-y;">
             <div class="footer_widgets_area" style="padding-top: 30px !important;padding-bottom: 0px;">
                 <div class="container">
                     <div class="f_widgets_inner row" style="margin-bottom: 0px !important;">
@@ -17,12 +17,10 @@
                             <aside class="f_widget contact_widget pull-left">
                                 <div class="f_w_title" style="padding-bottom: 0px;">
                                     <h3>Contact Us</h3>
-                                    <p><span style="color: red;"><i class="fa fa-phone"></i></span> +66 75 672 426-7 
-                                    <span style="color: red;"><i class="fa fa-phone"></i></span> +66 96 998 3944</p>
+                                    <p><a href="tel:+6675672426"><span style="color: red;"><i class="fa fa-phone"></i></span> +66 75 672 426-7</a>
+                                    <a href="tel:+66969983944"><span style="color: red;"><i class="fa fa-phone"></i></span> +66 96 998 3944</a></p>
                                 </div>
-                               
                                 <p style="padding-top: 0px;">Walailak University International College<br/> Walailak University 222 Thaiburi, Thasala District,<br/>Nakhon Si Thammarat 80161, Thailand</p>
-                               
                             </aside>
                         </div>
                         
@@ -33,11 +31,11 @@
                                     <h3>Walailak University Global</h3><br/>
                                     <h3>Follow us :</h3><br/>
                                 </div>
-                                    <li><a href="https://www.facebook.com/WUInternationalcollege/"><img src="<?= base_url(); ?>public/img/facebook.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
-                                	<li><a href="https://twitter.com/WUIC_WU"><img src="<?= base_url(); ?>public/img/twitter.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
+                                    <li><a href="https://www.facebook.com/WUInternationalcollege/" target="_blank"><img src="<?= base_url(); ?>public/img/facebook.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
+                                    <li><a href="https://twitter.com/wuic_official" target="_blank"><img src="<?= base_url(); ?>public/img/twitter.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
+                                    <li><a href="https://www.instagram.com/wuic_official/" target="_blank"><img src="<?= base_url(); ?>public/img/ig.png" style="width : 50px; border-radius: 6px;" alt=""></a></li>
                               	</ul>
                               	<br/>
-                                
                             </aside>
                         </div>
                         
@@ -47,14 +45,18 @@
                                 <div class="f_w_title">
                                     <a href="<?=base_url("workwithus") ?>"><h3>Work with Us</h3></a>
                                 </div>
-                              	</ul>
-                                
                             </aside>
                         </div>
                         
                     </div>
                 </div>
-                <p style="color: white;text-align: right;padding-right: 30px;">Copyright © 2018 Walailak University International College</p><br/>
+                <div class="row">
+                    <div class="col-md-6" style="padding-left: 100px;"></div>
+                    <div class="col-md-6" style="color: white;text-align: right;padding-right: 30px;padding-top: 23px;">
+                        Copyright © 2018 Walailak University International College
+                    </div>
+                </div>
+                <br/>
             </div>
             <!-- <div class="copy_right_area">
                 <div class="container">

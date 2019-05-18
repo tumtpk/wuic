@@ -81,7 +81,7 @@
                             </div>
                             <div class="col-lg-4">
                               <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=5600000072" data-width="1200" data-height="1200"><br>
-                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ACC/empty.jpg" width="150px"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ALL/Aj_Theerawat.jpg" width="150px"><br>
                                  Mr. Theerawat Klaokliang </a><br>
                                  <i class="fa fa-envelope-o"></i> theerawat.kl@wu.ac.th<br>
                            </div>
@@ -95,13 +95,13 @@
                         <div class="row text-center" style="font-size: 12px">
                            <div class="col-lg-4">
                               <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4010630312" data-width="1200" data-height="1200"><br>
-                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ACC/empty.jpg" width="150px"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ALL/Assoc.Prof.Dr.Krisanadej.jpg" width="150px"><br>
                                  Assoc. Prof. Dr. Krisanadej Jaroensutasinee </a><br>
                                  <i class="fa fa-envelope-o"></i> jkrisana@wu.ac.th<br>
                            </div>
                            <div class="col-lg-4">
                               <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4320540323" data-width="1200" data-height="1200"><br>
-                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ACC/empty.jpg" width="150px"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ALL/Dr.Visaka.jpg" width="150px"><br>
                                  Dr. Visaka Anantawat </a><br>
                                  <i class="fa fa-envelope-o"></i> pvisaka@wu.ac.th<br>
                            </div>
@@ -118,6 +118,24 @@
                               <img class="image" src="<?=base_url() ?>public/img/lecturer/ACC/empty.jpg" width="150px"><br>
                                  Miss Emma Faye Robdale</a><br>
                                  <i class="fa fa-envelope-o"></i> emma.ro@wu.ac.th<br>
+                           </div>
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=5600000004" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ALL/Dr.Chuthamat.jpg" width="150px"><br>
+                                 Dr. Chuthamat Rattikansukha</a><br>
+                                 <i class="fa fa-envelope-o"></i> chuthamat.ra@wu.ac.th<br>
+                           </div>
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=4700000013" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ALL/Dr.Wipawee.jpg" width="150px"><br>
+                                 Asst. Prof. Dr. Wipawee Khamwichit</a><br>
+                                 <i class="fa fa-envelope-o"></i> kwipawee@wu.ac.th<br>
+                           </div>
+                           <div class="col-lg-4">
+                              <a class="wplightbox" href="http://expert.wu.ac.th/html/source/DESAboutPersonallist_.php?PERSONID=6100000116" data-width="1200" data-height="1200"><br>
+                              <img class="image" src="<?=base_url() ?>public/img/lecturer/ALL/Dr.Hareesol.jpg" width="150px"><br>
+                                 Dr. Hareesol Khun-inkeeree</a><br>
+                                 <i class="fa fa-envelope-o"></i> hareesol.kh@wu.ac.th<br>
                            </div>
                         </div>
                     </div>

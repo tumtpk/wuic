@@ -34,6 +34,10 @@
             <a name="02"></a>
             <h5 style="color: #f26c21;">Announcement of Successful Applicants for 4 Years Scholarships for 2019-2022 (1<sup>st</sup> Round)</h5>
             <img src="<?=base_url("public/img/news/announcement/02.png") ?>">
+            <h5 style="color: #f26c21;">Announcement of Successful Applicants Admitted to 2019 Academic year (2<sup>nd</sup> Round)</h5>
+            <img src="<?=base_url("public/img/news/announcement/03.jpg") ?>" width="90%">
+            <h5 style="color: #f26c21;">Announcement of Successful Applicants for 4 Years Scholarships for 2019-2022 (2<sup>nd</sup> Round)</h5>
+            <img src="<?=base_url("public/img/news/announcement/04.png") ?>" width="90%">
          </div>
       </div>
    </div>

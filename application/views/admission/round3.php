@@ -31,71 +31,46 @@
          <p>Application Submission Period: 17 - 29 April 2019</p>
          <p>Admission is based upon result of national educational examinations (NIETS - National Institute of Educational Testing Service) with the following criteria and details of selection.</p><br>
          <div class="table-responsive table-bordered"  border-style: solid;border-color: coral;>
-            <table class="table">
+         <table class="table" style="width: 100%;">
+            <tbody>
                <tr class="" style="background-color: #f38448; text-align: center;">
-                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="2">Programs</td>
-                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;"rowspan="2">Secondary School Program Requirement</td>
-                  <td style="text-align: center;border: 1px solid #94999e;"colspan="4"  style="text-align: center;">Admission Requirement</td>
-                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle; padding-right: 30px;padding-left: 30px;"rowspan="2">English Proficiency Test*</td>
+                  <td style="text-align: center; border: 1px solid #94999e; vertical-align: middle; width: 91px;" rowspan="2">Programs</td>
+                  <td style="text-align: center; border: 1px solid #94999e; vertical-align: middle; width: 90px;" rowspan="2">Secondary School Program Requirement</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 458px;" colspan="4">Admission Requirement</td>
                </tr>
-               <tr style="background-color: #f38448;text-align: center;">
-                  <td>GPAX</td>
-                  <td style="text-align: center;border: 1px solid #94999e;padding-right: 40px;padding-left: 40px;">O-NET</td>
-                  <td style="text-align: center;border: 1px solid #94999e; padding-right: 45px;padding-left: 45px;">GAT/PAT </td>
-                  <td style="text-align: center;border: 1px solid #94999e;padding-right: 40px;padding-left: 40px;">Common 9 Subjects</td>
+               <tr style="background-color: #f38448; text-align: center;">
+                  <td style="width: 44px;">GPAX</td>
+                  <td style="text-align: center; border: 1px solid #94999e; padding-right: 40px; padding-left: 40px; width: 28px;">O-NET</td>
+                  <td style="text-align: center; border: 1px solid #94999e; padding-right: 45px; padding-left: 45px; width: 61px;">GAT/PAT</td>
+                  <td style="text-align: center; border: 1px solid #94999e; padding-right: 40px; padding-left: 40px; width: 63px;">Common 9 Subjects</td>
                </tr>
                <tr class="" style="background-color: rgba(0,0,0,.05);">
-                  <td style="text-align: center;border: 1px solid #94999e;">B.Eng. in Digital Innovation Engineering</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">Science</td>
-                  <td rowspan="5" style="vertical-align: middle;">≥2.50</td>
-                  <td style="text-align: center;border: 1px solid #94999e;">03≥40 and<br>04≥30 and<br>05≥30</td>
-                  <td cellspacing="60" style="text-align: center;border: 1px solid #94999e;">GAT ≥ 140 and<br>
-                     1. PAT1 ≥50 and<br>
-                     PAT2 ≥70 or<br>
-                     2. PAT1 ≥50 and<br>
-                     PAT3 ≥70
-                  </td>
-                  <td style="text-align: center;border: 1px solid #94999e;">
-                     29 ≥40 and<br>
-                     39 ≥30 and<br>
-                     49 ≥30
-                  </td>
-                  <td style="text-align: center;border: 1px solid #94999e;vertical-align: middle;" rowspan="5">✓ <br>Except for international students and students from native English-speaking countries</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 91px;">B.Eng. in Digital Innovation Engineering</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 90px;">Science</td>
+                  <td style="vertical-align: middle; width: 44px;" rowspan="5">&ge;2.50</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 106px;">03&ge;30 and<br />04&ge;30 and<br />05&ge;30</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 149px;">GAT &ge; 140 and<br />PAT1 &ge;50 and<br />PAT2 &ge;50</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 141px;">29 &ge;35 and<br />39 &ge;25 and<br />49 &ge;25</td>
                </tr>
                <tr class="">
-                  <td style="text-align: center;border: 1px solid #94999e;">B.A. in Public Affairs</td>
-                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">All programs</td>
-                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">01+02 ≥90 and<br>
-                     03≥40
-                  </td>
-                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">GAT ≥140
-                  </td>
-                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">
-                     09 ≥50<br>
-                     29 ≥40
-                  </td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 91px;" rowspan="">LL.B. in Legal Applications</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 90px;" rowspan="3">All programs</td>
+
+                  <td style="text-align: center; border: 1px solid #94999e; width: 106px;" rowspan="">02 &ge;30 and<br />03&ge;30</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 149px;" rowspan="">GAT &ge;140</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 141px;" rowspan="">19 &ge;30<br />29 &ge;35</td>
+               </tr>
+               <tr class="" style="background-color: rgba(0,0,0,.05);">
+                  <td style="text-align: center; border: 1px solid #94999e; width: 91px;">B.B.A. in Logistics Analytics Supply Chain Management</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 106px;" rowspan="2">03&ge;30 and<br />04&ge;25</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 149px;" rowspan="2">GAT &ge;140 and<br />PAT1 &ge;40</td>
+                  <td style="text-align: center; border: 1px solid #94999e; width: 141px;" rowspan="2">29 &ge;35 and<br />39 &ge;20</td>
                </tr>
                <tr style="text-align: center;">
-                  <td>LL.B. in Legal Applications</td>
+                  <td style="background-color: rgba(0, 0, 0, 0.05); width: 91px;">B.B.A. in Accountancy</td>
                </tr>
-               <tr  class="" style="background-color: rgba(0,0,0,.05);">
-                  <td style="text-align: center;border: 1px solid #94999e;">B.B.A. in Logistics Analytics Supply Chain Management</td>
-                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">Science or Arts-math</td>
-                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">03≥40 and<br>
-                     04≥30
-                  </td>
-                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">GAT ≥140 and<br>
-                     PAT1 ≥50
-                  </td>
-                  <td style="text-align: center;border: 1px solid #94999e;" rowspan="2">
-                     29 ≥40 and<br>
-                     39 ≥25
-                  </td>
-               </tr>
-               <tr style="text-align: center;">
-                  <td style="background-color: rgba(0,0,0,.05);">B.B.A. in Accountancy</td>
-               </tr>
-            </table>
+            </tbody>
+         </table>
             <br>
             <p>Remark: </p>
             <p>* <strong>English Proficiency Test</strong> All applicants are required to prove that they can use English to a standard that will allow them to study their programme. Applicants can do this in a number of ways:<br>
